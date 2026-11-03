@@ -1,12 +1,20 @@
 {
   "key": "wmca_meetings",
   "source": "https://governance.wmca.org.uk/mgCalendarAgendaView.aspx?MR=0",
-  "retrieved_at": "2026-11-03T01:14:09+00:00",
-  "checked_at": "2026-11-03T01:14:09+00:00",
+  "retrieved_at": "2026-11-03T14:45:29+00:00",
+  "checked_at": "2026-11-03T14:45:29+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Employment Committee",
+        "date": "2026-11-10",
+        "time": "10.00 am",
+        "location": "West Midlands Regional Chamber, WMCA offices, 16 Summer Lane, Biringham, B19 3SD",
+        "url": "https://governance.wmca.org.uk/ieListDocuments.aspx?CId=155&MId=2455",
+        "summary": "WMCA board or committee meeting. Confirm public access on the agenda. This does not indicate MP attendance."
+      },
       {
         "title": "WMCA Board",
         "date": "2026-11-13",

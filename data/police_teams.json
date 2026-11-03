@@ -1,8 +1,8 @@
 {
   "key": "police_teams",
   "source": "https://data.police.uk/docs/method/neighbourhoods/",
-  "retrieved_at": "2026-11-03T01:14:09+00:00",
-  "checked_at": "2026-11-03T01:14:09+00:00",
+  "retrieved_at": "2026-11-03T14:45:29+00:00",
+  "checked_at": "2026-11-03T14:45:29+00:00",
   "status": "ok",
   "error": null,
   "data": {

@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-03T01:14:09+00:00",
-  "checked_at": "2026-11-03T01:14:09+00:00",
+  "retrieved_at": "2026-11-03T14:45:29+00:00",
+  "checked_at": "2026-11-03T14:45:29+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -68,6 +68,13 @@
         "date": "2026-11-02T18:00",
         "url": "https://committees.parliament.uk/event/28575",
         "summary": "General Committee; Room 9, Palace of Westminster; The draft Housing (Tenancy Deposit Schemes) Order 2026",
+        "cancelled": false
+      },
+      {
+        "title": "To ask the Secretary of State for Business, Innovation, Science and Trade if he will make a statement on the situation at Poundland and potential actions to protect jobs",
+        "date": "2026-11-03",
+        "url": "https://whatson.parliament.uk/event/cal57091",
+        "summary": "Main Chamber",
         "cancelled": false
       },
       {
@@ -194,13 +201,6 @@
         "date": "2026-11-03T13:30",
         "url": "https://committees.parliament.uk/event/28606",
         "summary": "Select & Joint Committees; The Wilson Room, Portcullis House; Humanitarian situation in Ukraine",
-        "cancelled": false
-      },
-      {
-        "title": "Social Housing Bill [Lords]",
-        "date": "2026-11-03T14:00",
-        "url": "https://committees.parliament.uk/event/28293",
-        "summary": "General Committee; Room 11, Palace of Westminster; Further to consider the Bill",
         "cancelled": false
       },
       {

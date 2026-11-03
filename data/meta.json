@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-03T01:14:09.321152+00:00",
+  "checked_at": "2026-11-03T14:45:29.837861+00:00",
   "timezone": "Europe/London",
   "sources": {
-    "bills": "ok",
+    "bills": "stale",
     "biography": "ok",
     "boundary": "ok",
     "community_events": "ok",
