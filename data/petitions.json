@@ -1,8 +1,8 @@
 {
   "key": "petitions",
   "source": "https://petition.parliament.uk/petitions.json?state=open",
-  "retrieved_at": "2026-11-03T01:00:17+00:00",
-  "checked_at": "2026-11-03T01:00:17+00:00",
+  "retrieved_at": "2026-11-03T01:11:39+00:00",
+  "checked_at": "2026-11-03T01:11:39+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -39,8 +39,8 @@
         "url": "https://petition.parliament.uk/petitions/769589",
         "date": "2026-12-08",
         "local_signatures": 130,
-        "national_signatures": 126228,
-        "summary": "130 signatures from Dudley; 126,228 nationally. Closes 2026-12-08.",
+        "national_signatures": 126230,
+        "summary": "130 signatures from Dudley; 126,230 nationally. Closes 2026-12-08.",
         "ons_code": "E14001204"
       },
       {
@@ -100,7 +100,7 @@
     ],
     "candidate_count": 2168,
     "examined_count": 1136,
-    "detail_requests": 19,
+    "detail_requests": 1136,
     "note": "Open petitions ranked by signatures recorded in Dudley (ONS E14001204), not national totals. All open-petition listing pages checked; candidates eliminated only when national signatures are below the local top-ten cutoff. Live counts can change during collection. Petition signatures are not an opinion poll."
   }
 }
