@@ -1,0 +1,468 @@
+{
+  "key": "whatson",
+  "source": "https://whatson.parliament.uk/",
+  "retrieved_at": "2026-11-03T01:03:58+00:00",
+  "checked_at": "2026-11-03T01:03:58+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Earned Settlement",
+        "date": "2026-11-02",
+        "url": "https://whatson.parliament.uk/event/cal57082",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Submarine recycling strategy",
+        "date": "2026-11-02",
+        "url": "https://whatson.parliament.uk/event/cal56849",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Continuation of the Budget Debate",
+        "date": "2026-11-02",
+        "url": "https://whatson.parliament.uk/event/cal56926",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Environmental Audit Committee; Transport Committee",
+        "date": "2026-11-02",
+        "url": "https://whatson.parliament.uk/event/cal57012",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Regulation of the hair and beauty sector",
+        "date": "2026-11-02",
+        "url": "https://whatson.parliament.uk/event/cal56940",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Housing, Communities and Local Government (including Topical Questions)",
+        "date": "2026-11-02T14:30",
+        "url": "https://whatson.parliament.uk/event/cal56170",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Public Accounts Committee",
+        "date": "2026-11-02T15:00",
+        "url": "https://committees.parliament.uk/event/28579",
+        "summary": "Select & Joint Committees; The Grimond Room, Portcullis House; NHS Accident and Emergency departments",
+        "cancelled": false
+      },
+      {
+        "title": " e-petition 757233 relating to the proposed ban on social media for under 16s",
+        "date": "2026-11-02T16:30",
+        "url": "https://whatson.parliament.uk/event/cal56614",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "First Delegated Legislation Committee",
+        "date": "2026-11-02T18:00",
+        "url": "https://committees.parliament.uk/event/28575",
+        "summary": "General Committee; Room 9, Palace of Westminster; The draft Housing (Tenancy Deposit Schemes) Order 2026",
+        "cancelled": false
+      },
+      {
+        "title": "Food labelling (halal and kosher meat)",
+        "date": "2026-11-03",
+        "url": "https://whatson.parliament.uk/event/cal56850",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Conclusion of the Budget Debate",
+        "date": "2026-11-03",
+        "url": "https://whatson.parliament.uk/event/cal56927",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Future of minibus drivers for community transport services ",
+        "date": "2026-11-03",
+        "url": "https://whatson.parliament.uk/event/cal57073",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Science and Technology Committee (Commons)",
+        "date": "2026-11-03T09:15",
+        "url": "https://committees.parliament.uk/event/28413",
+        "summary": "Select & Joint Committees; The Boothroyd Room, Portcullis House; Neuroscience and digital childhoods",
+        "cancelled": false
+      },
+      {
+        "title": "Social Housing Bill [Lords]",
+        "date": "2026-11-03T09:25",
+        "url": "https://committees.parliament.uk/event/28292",
+        "summary": "General Committee; Room 11, Palace of Westminster; Further to consider the Bill",
+        "cancelled": false
+      },
+      {
+        "title": "Immigration and Asylum Bill",
+        "date": "2026-11-03T09:25",
+        "url": "https://committees.parliament.uk/event/28461",
+        "summary": "General Committee; Room 10, Palace of Westminster ; Further to consider the Bill",
+        "cancelled": false
+      },
+      {
+        "title": "Highways (Financing) Bill",
+        "date": "2026-11-03T09:25",
+        "url": "https://committees.parliament.uk/event/28466",
+        "summary": "General Committee; Room 12, Palace of Westminster; Further to consider the Bill",
+        "cancelled": false
+      },
+      {
+        "title": "Public Administration and Constitutional Affairs Committee",
+        "date": "2026-11-03T09:30",
+        "url": "https://committees.parliament.uk/event/28379",
+        "summary": "Select & Joint Committees; The Thatcher Room, Portcullis House; Inquiry into the recommendations of the Infected Blood Inquiry (Stage 1)",
+        "cancelled": false
+      },
+      {
+        "title": "Environment, Food and Rural Affairs Committee",
+        "date": "2026-11-03T09:30",
+        "url": "https://committees.parliament.uk/event/28530",
+        "summary": "Select & Joint Committees; The Macmillan Room, Portcullis House; Biosecurity and animal welfare",
+        "cancelled": false
+      },
+      {
+        "title": "Treasury Committee",
+        "date": "2026-11-03T09:30",
+        "url": "https://committees.parliament.uk/event/28594",
+        "summary": "Select & Joint Committees; The Wilson Room, Portcullis House; Budget 2026",
+        "cancelled": false
+      },
+      {
+        "title": "Findings of the Milburn Review into Young people and work: interim report",
+        "date": "2026-11-03T09:30",
+        "url": "https://whatson.parliament.uk/event/cal56945",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Administration Committee",
+        "date": "2026-11-03T10:00",
+        "url": "https://committees.parliament.uk/event/28339",
+        "summary": "Select & Joint Committees; Room 5, Palace of Westminster",
+        "cancelled": false
+      },
+      {
+        "title": "Foreign Affairs Committee",
+        "date": "2026-11-03T10:00",
+        "url": "https://committees.parliament.uk/event/28591",
+        "summary": "Select & Joint Committees; The Grimond Room, Portcullis House; A new Syria: assessing UK strategy in a transitional state",
+        "cancelled": false
+      },
+      {
+        "title": "Prevention and public awareness of strangulation",
+        "date": "2026-11-03T11:00",
+        "url": "https://whatson.parliament.uk/event/cal56980",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Modernisation Committee",
+        "date": "2026-11-03T11:30",
+        "url": "https://committees.parliament.uk/event/28283",
+        "summary": "Select & Joint Committees; Room 16, Palace of Westminster",
+        "cancelled": false
+      },
+      {
+        "title": "HM Treasury (including Topical Questions)",
+        "date": "2026-11-03T11:30",
+        "url": "https://whatson.parliament.uk/event/cal56171",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Health and Social Care Committee",
+        "date": "2026-11-03T12:30",
+        "url": "https://committees.parliament.uk/event/28608",
+        "summary": "Select & Joint Committees; Room 5, Palace of Westminster",
+        "cancelled": false
+      },
+      {
+        "title": "International Development Committee",
+        "date": "2026-11-03T13:30",
+        "url": "https://committees.parliament.uk/event/28606",
+        "summary": "Select & Joint Committees; The Wilson Room, Portcullis House; Humanitarian situation in Ukraine",
+        "cancelled": false
+      },
+      {
+        "title": "Social Housing Bill [Lords]",
+        "date": "2026-11-03T14:00",
+        "url": "https://committees.parliament.uk/event/28293",
+        "summary": "General Committee; Room 11, Palace of Westminster; Further to consider the Bill",
+        "cancelled": false
+      },
+      {
+        "title": "Justice Committee",
+        "date": "2026-11-03T14:00",
+        "url": "https://committees.parliament.uk/event/28445",
+        "summary": "Select & Joint Committees; The Thatcher Room, Portcullis House; Learning from Inquests",
+        "cancelled": false
+      },
+      {
+        "title": "Immigration and Asylum Bill",
+        "date": "2026-11-03T14:00",
+        "url": "https://committees.parliament.uk/event/28462",
+        "summary": "General Committee; Room 10, Palace of Westminster ; Further to consider the Bill",
+        "cancelled": false
+      },
+      {
+        "title": "Highways (Financing) Bill",
+        "date": "2026-11-03T14:00",
+        "url": "https://committees.parliament.uk/event/28467",
+        "summary": "General Committee; Room 12, Palace of Westminster; Further to consider the Bill",
+        "cancelled": false
+      },
+      {
+        "title": "Business, Innovation, Science and Trade Committee",
+        "date": "2026-11-03T14:00",
+        "url": "https://committees.parliament.uk/event/28603",
+        "summary": "Select & Joint Committees; The Grimond Room, Portcullis House; Consumer protection",
+        "cancelled": false
+      },
+      {
+        "title": "Home Affairs Committee",
+        "date": "2026-11-03T14:15",
+        "url": "https://committees.parliament.uk/event/27654",
+        "summary": "Select & Joint Committees; Room 8, Palace of Westminster; Former His Majesty’s Chief Inspector of Constabulary and Fire and Rescue Services",
+        "cancelled": false
+      },
+      {
+        "title": "Second Delegated Legislation Committee",
+        "date": "2026-11-03T14:30",
+        "url": "https://committees.parliament.uk/event/28576",
+        "summary": "General Committee; Room 9, Palace of Westminster; The draft Administrative Court (Recording and Broadcasting) and Court of Appeal (Recording and Broadcasting) (Amendment) Order 2026; The draft Magistrates’ Courts (Recording and Broadcasting) Order 2026",
+        "cancelled": false
+      },
+      {
+        "title": "Impact of extreme weather on train services",
+        "date": "2026-11-03T14:30",
+        "url": "https://whatson.parliament.uk/event/cal56981",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Speaker's Committee on the Electoral Commission",
+        "date": "2026-11-03T16:00",
+        "url": "https://committees.parliament.uk/event/28119",
+        "summary": "Select & Joint Committees; Mr Speaker's study",
+        "cancelled": false
+      },
+      {
+        "title": "Transport Committee",
+        "date": "2026-11-03T16:00",
+        "url": "https://committees.parliament.uk/event/28264",
+        "summary": "Select & Joint Committees; Room 15, Palace of Westminster",
+        "cancelled": false
+      },
+      {
+        "title": "Backbench Business Committee",
+        "date": "2026-11-03T16:00",
+        "url": "https://committees.parliament.uk/event/28582",
+        "summary": "Select & Joint Committees; Room 16, Palace of Westminster; Proposals for backbench debates",
+        "cancelled": false
+      },
+      {
+        "title": "Use of agricultural land for solar panels",
+        "date": "2026-11-03T16:00",
+        "url": "https://whatson.parliament.uk/event/cal56982",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Potential merits of adding gynaecological conditions to Equality Act 2010 guidance",
+        "date": "2026-11-03T16:30",
+        "url": "https://whatson.parliament.uk/event/cal56983",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Fashion supply chain (code and adjudicator)",
+        "date": "2026-11-04",
+        "url": "https://whatson.parliament.uk/event/cal56851",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Sporting Events Bill: Remaining Stages",
+        "date": "2026-11-04",
+        "url": "https://whatson.parliament.uk/event/cal56928",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Railways Bill: Carry-over Motion",
+        "date": "2026-11-04",
+        "url": "https://whatson.parliament.uk/event/cal57013",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Cyber Security and Resilience (Network and Information Systems) Bill: Carry-over Motion",
+        "date": "2026-11-04",
+        "url": "https://whatson.parliament.uk/event/cal57014",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Impact of new strategic licensing regulations on London ",
+        "date": "2026-11-04",
+        "url": "https://whatson.parliament.uk/event/cal57074",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Energy Security and Net Zero Committee",
+        "date": "2026-11-04T08:45",
+        "url": "https://committees.parliament.uk/event/28538",
+        "summary": "Select & Joint Committees; The Grimond Room, Portcullis House; Managing the future of UK oil and gas",
+        "cancelled": false
+      },
+      {
+        "title": "Scottish Affairs Committee",
+        "date": "2026-11-04T09:00",
+        "url": "https://committees.parliament.uk/event/28319",
+        "summary": "Select & Joint Committees; Room 15, Palace of Westminster; The dual role of the Lord Advocate",
+        "cancelled": false
+      },
+      {
+        "title": "Science and Technology Committee (Commons)",
+        "date": "2026-11-04T09:00",
+        "url": "https://committees.parliament.uk/event/28414",
+        "summary": "Select & Joint Committees; Room 8, Palace of Westminster; Low-energy computing",
+        "cancelled": false
+      },
+      {
+        "title": "Work and Pensions Committee",
+        "date": "2026-11-04T09:00",
+        "url": "https://committees.parliament.uk/event/28572",
+        "summary": "Select & Joint Committees; Room 6, Palace of Westminster; DWP’s Annual Report and Accounts 2025-26",
+        "cancelled": false
+      },
+      {
+        "title": "Health and Social Care Committee",
+        "date": "2026-11-04T09:00",
+        "url": "https://committees.parliament.uk/event/28604",
+        "summary": "Select & Joint Committees; The Wilson Room, Portcullis House; The Work of the Department for Health and Social Care",
+        "cancelled": false
+      },
+      {
+        "title": "Transport Committee",
+        "date": "2026-11-04T09:15",
+        "url": "https://committees.parliament.uk/event/28261",
+        "summary": "Select & Joint Committees; The Thatcher Room, Portcullis House; Delivering East West Rail",
+        "cancelled": false
+      },
+      {
+        "title": "Education Committee",
+        "date": "2026-11-04T09:30",
+        "url": "https://committees.parliament.uk/event/28634",
+        "summary": "Select & Joint Committees; The Macmillan Room, Portcullis House; The Work of the Department for Education",
+        "cancelled": false
+      },
+      {
+        "title": "Smart glasses and violence against women and girls",
+        "date": "2026-11-04T09:30",
+        "url": "https://whatson.parliament.uk/event/cal56984",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Potential merits of a national lifelong learning strategy",
+        "date": "2026-11-04T11:00",
+        "url": "https://whatson.parliament.uk/event/cal56985",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Wales",
+        "date": "2026-11-04T11:30",
+        "url": "https://whatson.parliament.uk/event/cal56172",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Main Chamber",
+        "date": "2026-11-04T12:00",
+        "url": "https://whatson.parliament.uk/event/cal56178",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Women and Equalities Committee",
+        "date": "2026-11-04T14:00",
+        "url": "https://committees.parliament.uk/event/28164",
+        "summary": "Select & Joint Committees; The Thatcher Room, Portcullis House; Equalities impacts of proposed reforms to routes to settlement",
+        "cancelled": false
+      },
+      {
+        "title": "Environmental Audit Committee",
+        "date": "2026-11-04T14:00",
+        "url": "https://committees.parliament.uk/event/28589",
+        "summary": "Select & Joint Committees; The Boothroyd Room, Portcullis House; HM Treasury and the economics of climate and nature",
+        "cancelled": false
+      },
+      {
+        "title": "Treasury Committee",
+        "date": "2026-11-04T14:00",
+        "url": "https://committees.parliament.uk/event/28595",
+        "summary": "Select & Joint Committees; The Grimond Room, Portcullis House; Budget 2026",
+        "cancelled": false
+      },
+      {
+        "title": "Welsh Affairs Committee",
+        "date": "2026-11-04T14:00",
+        "url": "https://committees.parliament.uk/event/28609",
+        "summary": "Select & Joint Committees; The Macmillan Room, Portcullis House",
+        "cancelled": false
+      },
+      {
+        "title": "Procedure Committee",
+        "date": "2026-11-04T14:30",
+        "url": "https://committees.parliament.uk/event/28477",
+        "summary": "Select & Joint Committees; Room 8, Palace of Westminster",
+        "cancelled": false
+      },
+      {
+        "title": "Third Delegated Legislation Committee",
+        "date": "2026-11-04T14:30",
+        "url": "https://committees.parliament.uk/event/28577",
+        "summary": "General Committee; Room 9, Palace of Westminster; The draft Terrorism Prevention and Investigation Measures Act 2011 (Continuation) Order 2026",
+        "cancelled": false
+      },
+      {
+        "title": "Impact of heating oil prices on rural areas",
+        "date": "2026-11-04T14:30",
+        "url": "https://whatson.parliament.uk/event/cal56986",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Police powers for tackling the use of illegal off-road bikes in the North East",
+        "date": "2026-11-04T16:00",
+        "url": "https://whatson.parliament.uk/event/cal56987",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "Potholes and road maintenance in Suffolk",
+        "date": "2026-11-04T16:30",
+        "url": "https://whatson.parliament.uk/event/cal56988",
+        "summary": "Westminster Hall",
+        "cancelled": false
+      }
+    ],
+    "note": "Commons business for 2026-11-02 to 2026-11-08. This is the House’s schedule, not Sonia Kumar’s diary or evidence of her attendance."
+  }
+}

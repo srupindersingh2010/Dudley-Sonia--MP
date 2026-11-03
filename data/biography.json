@@ -1,0 +1,12 @@
+{
+  "key": "biography",
+  "source": "https://members-api.parliament.uk/api/Members/5274/Biography",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [],
+    "note": "Current roles published by Parliament. An empty list means no current posts in these API categories. PPS posts and APPGs may not be fully covered; see the separate role sources."
+  }
+}

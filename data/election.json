@@ -1,0 +1,20 @@
+{
+  "key": "election",
+  "source": "https://members-api.parliament.uk/api/Members/5274/LatestElectionResult",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "2024 General Election",
+        "date": "2024-07-04",
+        "url": "https://members.parliament.uk/member/5274/electionresult",
+        "summary": "Majority: 1,900. Electorate: 70,151. Ballots cast: 35,796."
+      }
+    ],
+    "majority": 1900,
+    "election_date": "2024-07-04"
+  }
+}

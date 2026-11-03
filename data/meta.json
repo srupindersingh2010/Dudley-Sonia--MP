@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-03T01:06:03.798863+00:00",
+  "timezone": "Europe/London",
+  "sources": {
+    "bills": "ok",
+    "biography": "ok",
+    "boundary": "ok",
+    "community_events": "ok",
+    "contact": "ok",
+    "council_meetings": "ok",
+    "crime": "ok",
+    "edms": "ok",
+    "election": "ok",
+    "interests": "ok",
+    "member": "ok",
+    "news": "ok",
+    "petitions": "ok",
+    "police_news": "unavailable",
+    "police_teams": "ok",
+    "portrait": "ok",
+    "profile": "ok",
+    "profile_census": "ok",
+    "questions": "ok",
+    "speeches": "ok",
+    "useful_links": "ok",
+    "votes": "ok",
+    "whatson": "ok",
+    "wmca_meetings": "ok"
+  }
+}

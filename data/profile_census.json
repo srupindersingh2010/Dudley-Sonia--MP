@@ -1,0 +1,91 @@
+{
+  "key": "profile_census",
+  "source": "https://ons-dp-prod-cdn.s3.eu-west-2.amazonaws.com/maptiles/ap-geos/v4/E14/E14001204.json",
+  "retrieved_at": "2026-11-03T01:06:03+00:00",
+  "checked_at": "2026-11-03T01:06:03+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Self-rated bad or very bad health",
+        "value": "6.7%",
+        "period": "Census 2021",
+        "numerator": 6751,
+        "denominator": 100977,
+        "unit": "people",
+        "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2055_1.data.csv?geography=E00049289%2CE00049351%2CE00049356%2CE00049357%2CE00049359%2CE00049438%2CE00049454%2CE00049458%2CE00049459%2CE00049666%2CE00049783%2CE00049792%2CE00049797%2CE00049798%2CE01009748%2CE01009749%2CE01009750%2CE01009751%2CE01009752%2CE01009753%2CE01009754%2CE01009771%2CE01009773%2CE01009775%2CE01009776%2CE01009777%2CE01009879%2CE01009883%2CE01009884%2CE01009885%2CE01009886%2CE01009895%2CE01034308%2CE01034309%2CE02002002%2CE02002004%2CE02002005%2CE02002006%2CE02002007%2CE02002008%2CE02002009%2CE02002014&date=2021&c2021_health_6=0%2C4%2C5&measures=20100",
+        "summary": "6.7% (6,751 of 100,977 people) · Census 2021. Aggregated from ONS custom-profile component areas for Dudley’s 2024 constituency."
+      },
+      {
+        "title": "Social-rented households",
+        "value": "25.2%",
+        "period": "Census 2021",
+        "numerator": 10504,
+        "denominator": 41612,
+        "unit": "households",
+        "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2072_1.data.csv?geography=E00049289%2CE00049351%2CE00049356%2CE00049357%2CE00049359%2CE00049438%2CE00049454%2CE00049458%2CE00049459%2CE00049666%2CE00049783%2CE00049792%2CE00049797%2CE00049798%2CE01009748%2CE01009749%2CE01009750%2CE01009751%2CE01009752%2CE01009753%2CE01009754%2CE01009771%2CE01009773%2CE01009775%2CE01009776%2CE01009777%2CE01009879%2CE01009883%2CE01009884%2CE01009885%2CE01009886%2CE01009895%2CE01034308%2CE01034309%2CE02002002%2CE02002004%2CE02002005%2CE02002006%2CE02002007%2CE02002008%2CE02002009%2CE02002014&date=2021&c2021_tenure_9=0%2C4%2C5&measures=20100",
+        "summary": "25.2% (10,504 of 41,612 households) · Census 2021. Aggregated from ONS custom-profile component areas for Dudley’s 2024 constituency."
+      }
+    ],
+    "source_checks": [
+      {
+        "url": "https://ons-dp-prod-cdn.s3.eu-west-2.amazonaws.com/maptiles/ap-geos/v4/E14/E14001204.json",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2055_1.data.csv?geography=E00049289%2CE00049351%2CE00049356%2CE00049357%2CE00049359%2CE00049438%2CE00049454%2CE00049458%2CE00049459%2CE00049666%2CE00049783%2CE00049792%2CE00049797%2CE00049798%2CE01009748%2CE01009749%2CE01009750%2CE01009751%2CE01009752%2CE01009753%2CE01009754%2CE01009771%2CE01009773%2CE01009775%2CE01009776%2CE01009777%2CE01009879%2CE01009883%2CE01009884%2CE01009885%2CE01009886%2CE01009895%2CE01034308%2CE01034309%2CE02002002%2CE02002004%2CE02002005%2CE02002006%2CE02002007%2CE02002008%2CE02002009%2CE02002014&date=2021&c2021_health_6=0%2C4%2C5&measures=20100",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2072_1.data.csv?geography=E00049289%2CE00049351%2CE00049356%2CE00049357%2CE00049359%2CE00049438%2CE00049454%2CE00049458%2CE00049459%2CE00049666%2CE00049783%2CE00049792%2CE00049797%2CE00049798%2CE01009748%2CE01009749%2CE01009750%2CE01009751%2CE01009752%2CE01009753%2CE01009754%2CE01009771%2CE01009773%2CE01009775%2CE01009776%2CE01009777%2CE01009879%2CE01009883%2CE01009884%2CE01009885%2CE01009886%2CE01009895%2CE01034308%2CE01034309%2CE02002002%2CE02002004%2CE02002005%2CE02002006%2CE02002007%2CE02002008%2CE02002009%2CE02002014&date=2021&c2021_tenure_9=0%2C4%2C5&measures=20100",
+        "status": "ok"
+      }
+    ],
+    "component_codes": [
+      "E00049289",
+      "E00049351",
+      "E00049356",
+      "E00049357",
+      "E00049359",
+      "E00049438",
+      "E00049454",
+      "E00049458",
+      "E00049459",
+      "E00049666",
+      "E00049783",
+      "E00049792",
+      "E00049797",
+      "E00049798",
+      "E01009748",
+      "E01009749",
+      "E01009750",
+      "E01009751",
+      "E01009752",
+      "E01009753",
+      "E01009754",
+      "E01009771",
+      "E01009773",
+      "E01009775",
+      "E01009776",
+      "E01009777",
+      "E01009879",
+      "E01009883",
+      "E01009884",
+      "E01009885",
+      "E01009886",
+      "E01009895",
+      "E01034308",
+      "E01034309",
+      "E02002002",
+      "E02002004",
+      "E02002005",
+      "E02002006",
+      "E02002007",
+      "E02002008",
+      "E02002009",
+      "E02002014"
+    ],
+    "note": "Census 2021 figures aggregated for the current Dudley constituency using ONS’s official compressed partition of output areas, LSOAs and MSOAs (one non-overlapping component list). Boundaries are approximated from Census output areas. Component totals can differ slightly from separately published constituency counts because of statistical disclosure control. Health is residents’ self-assessment, not diagnosed conditions. Social rent combines council and other social-landlord tenures. These historical figures are checked daily but do not describe today’s population."
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "key": "questions",
+  "source": "https://questions-statements.parliament.uk/written-questions",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Domestic Abuse: Older People",
+        "date": "2026-06-18T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-18/900645",
+        "summary": "To ask the Secretary of State for the Home Department, what steps she is taking with Cabinet colleagues to help support elderly domestic abuse victims.",
+        "answer": "From April 2025, the Home Office has allocated nearly £800,000 to Hourglass to provide specialist helpline and advocacy support for older victims of VAWG.We will also publish a new national commissioning statement on VAWG to improve the provision of suppo...",
+        "answered": "2026-06-24T00:00:00",
+        "department": "Home Office"
+      },
+      {
+        "title": "Bank Services: Small Businesses",
+        "date": "2026-06-17T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-17/900575",
+        "summary": "To ask the Chancellor of the Exchequer, what steps her Department is taking to ensure SMEs have equitable access to finance from banks.",
+        "answer": "The Government has an ambitious agenda to support UK SMEs and drive growth across bank and non-bank lending. We have increased the British Business Bank’s funding, bringing their capacity to £25.6bn, to support initiatives such as the Growth Guarantee Sch...",
+        "answered": "2026-06-23T00:00:00",
+        "department": "Treasury"
+      },
+      {
+        "title": "Housing: Domestic Abuse",
+        "date": "2026-03-04T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-03-04/118070",
+        "summary": "To ask the Secretary of State for Housing, Communities and Local Government, whether he has made an assessment of the potential merits of introducing mandatory, specialist domestic abuse training for all housing officers in England.",
+        "answer": "The Government has not undertaken an assessment of mandating specialist domestic abuse training for all housing officers in England. Local authorities, under their statutory duties in Part 4 of the Domestic Abuse Act 2021, are required to assess the need ...",
+        "answered": "2026-03-12T00:00:00",
+        "department": "Ministry of Housing, Communities and Local Government"
+      },
+      {
+        "title": "Investment: Women",
+        "date": "2026-02-11T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112745",
+        "summary": "To ask the Secretary of State for Business and Trade, whether he is taking steps to (a) monitor and (b) report on the gender investment gap, such as tracking year-on-year venture capital and angel investment into female-founded companies; and whether targ",
+        "answer": "The Department for Business and Trade tracks year-on-year venture capital and angel investment in women-led businesses through its Investing in Women Code, a partnership between government, trade associations in the finance sector, and their members. Star...",
+        "answered": "2026-02-23T00:00:00",
+        "department": "Department for Business and Trade"
+      },
+      {
+        "title": "Investment: Women",
+        "date": "2026-02-11T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112744",
+        "summary": "To ask the Secretary of State for Business and Trade, if he will make an assessment of the potential merits of establishing a co-investment fund with diverse angel investors.",
+        "answer": "The British Business Bank's Angel Co-Fund programme already invests alongside syndicates of Business Angels. Every £1 invested by the Angel Co-Fund has leveraged around £5 from Angel syndicates.The Bank is also expanding its Angel Syndicate Programme to s...",
+        "answered": "2026-02-23T00:00:00",
+        "department": "Department for Business and Trade"
+      },
+      {
+        "title": "Investment: Women",
+        "date": "2026-02-11T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-02-11/112746",
+        "summary": "To ask the Secretary of State for Business and Trade, what steps he is taking to ensure that support programmes provide meaningful access to all types of finance, as well as investment education and readiness support, such as training, mentoring, and guid",
+        "answer": "Backing women-led businesses across the regions is a priority for this government. To tackle access to finance, the government-backed Invest in Women Taskforce has secured commitments of £635 million to be invested in women-led businesses across the UK. T...",
+        "answered": "2026-02-23T00:00:00",
+        "department": "Department for Business and Trade"
+      },
+      {
+        "title": "Armed Forces: Health Services",
+        "date": "2026-01-27T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-27/907607",
+        "summary": "To ask the Secretary of State for Defence, how he is using allied health professionals to support soldier rehabilitation.",
+        "answer": "All Armed Forces personnel are supported by dedicated and comprehensive rehabilitation services. Allied health professionals play a crucial role in supporting the treatment and rehabilitation of Armed Forces personnel in the UK and on operations to ensure...",
+        "answered": "2026-02-02T00:00:00",
+        "department": "Ministry of Defence"
+      },
+      {
+        "title": "Schools: Defibrillators",
+        "date": "2026-01-21T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-21/107584",
+        "summary": "To ask the Secretary of State for Education, what mental health support is available to school staff who experience psychological harm as a result of witnessing or administering the use of a workplace automated external defibrillator on a pupil or colleag",
+        "answer": "Schools are best placed to understand what support may be most appropriate for their staff and should have standard operating procedures in place, including aftercare, should an incident occur where a member of staff witnesses or administers use of an aut...",
+        "answered": "2026-01-30T00:00:00",
+        "department": "Department for Education"
+      },
+      {
+        "title": "Schools: Defibrillators",
+        "date": "2026-01-21T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-21/107585",
+        "summary": "To ask the Secretary of State for Education, if she will take steps to help ensure that defibrillators which have reached the end of their operational life will in state-funded schools in England will be replaced and funded by her Department.",
+        "answer": "In 2023, the department provided over 20,000 defibrillators to state-funded schools in England. The programme aimed to ‘plug the gaps’ in existing provision to ensure that all schools have access to a device.Defibrillators provided by the department are f...",
+        "answered": "2026-01-30T00:00:00",
+        "department": "Department for Education"
+      },
+      {
+        "title": "Iran: Children",
+        "date": "2026-01-14T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-14/907382",
+        "summary": "To ask the Secretary of State for Foreign, Commonwealth and Development Affairs, what diplomatic steps she is taking to help protect children in Iran from actions taken by the Iranian authorities.",
+        "answer": "The killing and brutal repression of peaceful protesters in Iran is horrific. Iranians must be able to exercise their right to peaceful protest without fear of reprisal.The Iranian government must immediately end the violence, uphold fundamental rights an...",
+        "answered": "2026-01-20T00:00:00",
+        "department": "Foreign, Commonwealth and Development Office"
+      },
+      {
+        "title": "Autism and Learning Disability: Mental Health Services",
+        "date": "2026-01-07T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-01-07/907244",
+        "summary": "To ask the Secretary of State for Health and Social Care, what steps his Department is taking to ensure mental health support is provided to adults with autism and special needs.",
+        "answer": "We are recruiting 8,500 more mental health workers by the end of this Parliament, to help to ease pressure on busy mental health services.  The Mental Health Act reforms will ensure people with a learning disability, autistic people, as well as people wit...",
+        "answered": "2026-01-13T00:00:00",
+        "department": "Department of Health and Social Care"
+      },
+      {
+        "title": "Electrical Safety: Repairs and Maintenance",
+        "date": "2025-12-17T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-17/101296",
+        "summary": "To ask the Secretary of State for Housing, Communities and Local Government, what steps his Department is taking to ensure that people are adequately protected from unsafe or unregulated electrical work in homes, particularly where such work is carried ou",
+        "answer": "I refer the hon. Member to the answers to Questions UIN 101292 and 101294 on 6 January 2026. The Government takes electrical safety very seriously but has seen no need to establish a mandatory national register of electricians modelled on the Gas Safe Reg...",
+        "answered": "2026-01-07T00:00:00",
+        "department": "Ministry of Housing, Communities and Local Government"
+      },
+      {
+        "title": "Electricians: Registration",
+        "date": "2025-12-17T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-17/101295",
+        "summary": "To ask the Secretary of State for Housing, Communities and Local Government, whether the Health and Safety Executive has assessed the potential merits of establishing a single mandatory national register of electricians under its statutory oversight, mode",
+        "answer": "I refer the hon. Member to the answers to Questions UIN 101292 and 101294 on 6 January 2026. The Government takes electrical safety very seriously but has seen no need to establish a mandatory national register of electricians modelled on the Gas Safe Reg...",
+        "answered": "2026-01-07T00:00:00",
+        "department": "Ministry of Housing, Communities and Local Government"
+      },
+      {
+        "title": "Electrical Safety",
+        "date": "2025-12-17T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-17/101294",
+        "summary": "To ask the Secretary of State for Housing, Communities and Local Government, what assessment he has made of the adequacy of enforcement mechanisms relating to electrical safety and compliance with Part P regulations; and whether his Department plans to st",
+        "answer": "Neither the Department, nor the Ministry of Justice, hold information on enforcement action broken down by which part of the building regulations was breached. Local authority building control teams have powers that enable them to intervene where it is fo...",
+        "answered": "2026-01-07T00:00:00",
+        "department": "Ministry of Housing, Communities and Local Government"
+      },
+      {
+        "title": "Electrical Safety: Prosecutions",
+        "date": "2025-12-17T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-17/101292",
+        "summary": "To ask the Secretary of State for Housing, Communities and Local Government, how many prosecutions have been brought under Part P of the Building Regulations in England and Wales in each year since their introduction in 2005; and if the Department will pu",
+        "answer": "Neither the Department, nor the Ministry of Justice, hold information on enforcement action broken down by which part of the building regulations was breached. Local authority building control teams have powers that enable them to intervene where it is fo...",
+        "answered": "2026-01-07T00:00:00",
+        "department": "Ministry of Housing, Communities and Local Government"
+      },
+      {
+        "title": "Gambling: Rehabilitation",
+        "date": "2025-12-03T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-03/96984",
+        "summary": "To ask the Secretary of State for Health and Social Care, what steps he is taking to ensure that people who suffer from severe gambling addiction receive prompt treatment.",
+        "answer": "National Health Services receive over 1,000 referrals for gambling addition each quarter, with plans to expand capacity.In April, the new statutory levy on gambling operators came into effect to fund the research, prevention, and treatment of gambling-rel...",
+        "answered": "2026-01-05T00:00:00",
+        "department": "Department of Health and Social Care"
+      },
+      {
+        "title": "Warm Homes Plan",
+        "date": "2025-12-15T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-15/99964",
+        "summary": "To ask the Secretary of State for Energy Security and Net Zero, whether his Department has made an assessment of the public health impacts of the Warm Homes Plan, especially regarding both indoor and outdoor air quality; and what metrics her Department pl",
+        "answer": "The Warm Homes Plan will set out a strategy to improve health outcomes through the upgrade of British buildings. This includes measures that mitigate the health risks associated with living in a cold home (such as respiratory disease), exposure to poor ai...",
+        "answered": "2025-12-23T00:00:00",
+        "department": "Department for Energy Security and Net Zero"
+      },
+      {
+        "title": "Students: Finance",
+        "date": "2025-12-05T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-05/97629",
+        "summary": "To ask the Secretary of State for Education, whether she plans to raise the maximum reimbursement Student Finance England can provide for incorrect advice above £500.",
+        "answer": "Student Finance England is a service provided by the Student Loans Company (SLC).The SLC is a non-departmental public body and therefore is issued its own delegated authority letter by the department. However, its delegated authority limits cannot exceed ...",
+        "answered": "2025-12-22T00:00:00",
+        "department": "Department for Education"
+      },
+      {
+        "title": "Social Media: Health",
+        "date": "2025-12-11T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-12-11/906997",
+        "summary": "To ask the Secretary of State for Science, Innovation and Technology, what steps she is taking to help ensure freedom of expression for women's health publications on social media.",
+        "answer": "We recognise the importance of access to trusted health information. The Act does not prevent users from publishing legal content or children and adults from accessing relevant health information. Once the remaining duties come in, large platforms will no...",
+        "answered": "2025-12-18T00:00:00",
+        "department": "Department for Science, Innovation and Technology"
+      },
+      {
+        "title": "Musculoskeletal Disorders: Health Services",
+        "date": "2025-11-19T00:00:00",
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-11-19/906540",
+        "summary": "To ask the Secretary of State for Health and Social Care, what assessment his Department has made of the potential merits of developing a modern service framework for musculoskeletal conditions.",
+        "answer": "Over a third of people in England live with musculoskeletal conditions, a major cause of economic inactivity. We are advancing Modern Service Frameworks for those conditions where we can swiftly and significantly raise the quality of care and productivity...",
+        "answered": "2025-11-25T00:00:00",
+        "department": "Department of Health and Social Care"
+      }
+    ],
+    "note": "Latest 20 written questions. Answers in the search feed may be shortened; follow the original record for the full answer."
+  }
+}

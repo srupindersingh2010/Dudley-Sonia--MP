@@ -1,0 +1,243 @@
+{
+  "key": "votes",
+  "source": "https://votes.parliament.uk/votes/commons",
+  "retrieved_at": "2026-11-03T01:02:06+00:00",
+  "checked_at": "2026-11-03T01:02:06+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Draft Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026",
+        "date": "2026-10-27T17:54:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2463",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2463,
+        "publication_updated": "2026-10-27T18:12:35"
+      },
+      {
+        "title": "Opposition day motion: Support for British farmers",
+        "date": "2026-10-21T19:20:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2462",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2462,
+        "publication_updated": "2026-10-21T19:35:24"
+      },
+      {
+        "title": "Withdrawal Agreement (Windsor Framework and Governance) (Amendment)  Regulations 2026",
+        "date": "2026-10-21T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2461",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2461,
+        "publication_updated": "2026-10-21T15:51:54"
+      },
+      {
+        "title": "Draft Code of Practice on Access and Unfair Practices During the Recognition and  Derecognition Process",
+        "date": "2026-10-21T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2460",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2460,
+        "publication_updated": "2026-10-21T15:51:33"
+      },
+      {
+        "title": "Draft Railways (Interoperability in Northern Ireland) (Convention on International  Carriage by Rail) (Amendment) Regulations 2026",
+        "date": "2026-10-21T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2459",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2459,
+        "publication_updated": "2026-10-21T15:51:08"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill: Third Reading",
+        "date": "2026-10-20T18:50:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2458",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2458,
+        "publication_updated": "2026-10-20T19:19:29"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: New Clause 12",
+        "date": "2026-10-20T18:16:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2457",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2457,
+        "publication_updated": "2026-10-20T19:19:54"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: New Clause 7",
+        "date": "2026-10-20T18:03:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2456",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2456,
+        "publication_updated": "2026-10-20T19:20:17"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: Amendment 32",
+        "date": "2026-10-20T17:48:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2455",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2455,
+        "publication_updated": "2026-10-20T19:20:35"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: Amendment 51",
+        "date": "2026-10-20T17:34:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2454",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2454,
+        "publication_updated": "2026-10-26T17:31:02"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: New Clause 21",
+        "date": "2026-10-19T23:04:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2453",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2453,
+        "publication_updated": "2026-10-20T18:41:17"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: Amendment 47",
+        "date": "2026-10-19T22:46:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2452",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2452,
+        "publication_updated": "2026-10-20T16:50:33"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: Amendment 4",
+        "date": "2026-10-19T22:31:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2451",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2451,
+        "publication_updated": "2026-10-20T16:50:09"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: Amendment 52",
+        "date": "2026-10-19T22:09:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2450",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2450,
+        "publication_updated": "2026-10-20T16:49:43"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill Committee: Amendment 23",
+        "date": "2026-10-19T21:54:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2449",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2449,
+        "publication_updated": "2026-10-19T22:26:48"
+      },
+      {
+        "title": "Northern Ireland Troubles Bill: Programme Motion",
+        "date": "2026-10-19T15:53:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2448",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2448,
+        "publication_updated": "2026-10-19T16:13:11"
+      },
+      {
+        "title": "Closure motion",
+        "date": "2026-10-16T14:25:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2447",
+        "summary": "No recorded vote",
+        "vote": "No recorded vote",
+        "division_id": 2447,
+        "publication_updated": "2026-10-16T14:50:17"
+      },
+      {
+        "title": "Motion to sit in private",
+        "date": "2026-10-16T09:34:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2446",
+        "summary": "No recorded vote",
+        "vote": "No recorded vote",
+        "division_id": 2446,
+        "publication_updated": "2026-10-16T10:39:07"
+      },
+      {
+        "title": "Highways (Financing) Bill: Second Reading: Reasoned Amendment",
+        "date": "2026-10-15T16:31:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2445",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2445,
+        "publication_updated": "2026-10-16T12:23:31"
+      },
+      {
+        "title": "Opposition Day motion: Inheritance Tax",
+        "date": "2026-10-14T18:59:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2444",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2444,
+        "publication_updated": "2026-10-26T19:50:55"
+      },
+      {
+        "title": "Opposition Day motion: MoD Bicester and illegal migrants",
+        "date": "2026-10-14T15:42:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2443",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2443,
+        "publication_updated": "2026-10-26T15:49:22"
+      },
+      {
+        "title": "Carbon Border Adjustment Mechanism (Calculation of CBAM Rate and Determination  of Carbon Price Relief) Regulations 2026",
+        "date": "2026-10-14T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2442",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2442,
+        "publication_updated": "2026-10-14T15:57:30"
+      },
+      {
+        "title": "Draft Trade Unions (Right to Access Workplaces) Regulations 2026",
+        "date": "2026-10-14T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2441",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2441,
+        "publication_updated": "2026-10-14T15:57:18"
+      },
+      {
+        "title": "Draft Code of Practice on the Right of Trade Unions to Access Workplaces",
+        "date": "2026-10-14T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2440",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2440,
+        "publication_updated": "2026-10-14T15:57:01"
+      },
+      {
+        "title": " Draft ACAS Code of Practice on Time Off for Trade Union Duties and Activities",
+        "date": "2026-10-14T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2439",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2439,
+        "publication_updated": "2026-10-14T15:56:45"
+      }
+    ],
+    "period_start": "2026-08-05",
+    "period_end": "2026-11-03",
+    "total_divisions": 25,
+    "recorded_votes": 23,
+    "participation_percent": 92.0,
+    "note": "Recorded voting participation over the last 90 days: recorded votes (including tellers) divided by all published Commons divisions in that period. This is not a measure of attendance in Parliament. No recorded vote does not establish absence or the reason, and is not automatically an abstention. Read the exact division motion before interpreting a vote."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "key": "interests",
+  "source": "https://members.parliament.uk/member/5274/registeredinterests",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "International visit to Ukraine between 10 September 2025 and 15 September 2025",
+        "date": "2025-10-08",
+        "summary": "Visits outside the UK",
+        "url": "https://members.parliament.uk/member/5274/registeredinterests"
+      },
+      {
+        "title": "Physiotherapist - Dudley Group NHS Foundation Trust",
+        "date": "2024-07-17",
+        "summary": "Employment and earnings",
+        "url": "https://members.parliament.uk/member/5274/registeredinterests"
+      },
+      {
+        "title": "Property in Birmingham",
+        "date": "2024-07-17",
+        "summary": "Land and property (within or outside the UK)",
+        "url": "https://members.parliament.uk/member/5274/registeredinterests"
+      }
+    ],
+    "note": "Published register entries, not allegations of wrongdoing. Read the official register for full amounts, donors, amendments and historical entries."
+  }
+}

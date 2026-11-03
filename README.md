@@ -41,7 +41,7 @@ Read [SOURCE-AUDIT.md](SOURCE-AUDIT.md) for actual working endpoints, day-one ga
 
 Parliament ID **5274**; constituency ID **4019**; ONS current-constituency code **E14001204**. Council: Dudley MBC; combined authority: WMCA; police: West Midlands Police.
 
-Voting records are shown as **recorded voting participation**, never presented as an attendance rate. Crime uses Parliament’s approximate constituency geometry and anonymised police locations. Employment and claimant figures are scoped to the current constituency; no borough substitution.
+Voting records are shown as **recorded voting participation**, never presented as an attendance rate. Crime uses Parliament’s approximate constituency geometry and anonymised police locations. Employment and claimant figures are scoped to the current constituency; no borough substitution. Health and housing indicators use Census 2021 output areas in the ONS partition for the 2024 Dudley constituency. These are historical self-rated health and social-rented tenure indicators, not current clinical prevalence or house prices.
 
 ## Local maintenance
 

@@ -1,0 +1,22 @@
+{
+  "key": "bills",
+  "source": "https://bills.parliament.uk/?SearchTerm=&MemberId=5274",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Access to Finance for Women in Business Bill",
+        "date": "2026-04-30",
+        "url": "https://bills.parliament.uk/bills/4038",
+        "summary": "Lead sponsor. Stage: 2nd reading.",
+        "role": "Lead sponsor",
+        "description": "A Bill to require the Secretary of State to prepare and publish a report on access to finance for women in business; to make provision about the publication of data relating to access to finance for women in business; and for connected purposes.",
+        "id": 4038
+      }
+    ],
+    "note": "Bills where the official Bills API lists Sonia Kumar as a sponsor, verified against each Bill’s sponsor list. Other supporting Members named only in proceedings may not be included. The date is the Bill record’s last update, not its introduction date."
+  }
+}

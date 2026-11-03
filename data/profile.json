@@ -1,0 +1,69 @@
+{
+  "key": "profile",
+  "source": "https://www.nomisweb.co.uk/reports/lmp/wpca24/721420430/report.aspx",
+  "retrieved_at": "2026-11-03T01:06:03+00:00",
+  "checked_at": "2026-11-03T01:06:03+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Total population estimate",
+        "value": "104,687",
+        "period": "2024",
+        "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2014_1.data.csv?geography=721420430&date=latest&gender=0&c_age=200&measures=20100",
+        "summary": "104,687 people · 2024. ONS mid-year population estimate, Dudley constituency on 2024 boundaries."
+      },
+      {
+        "title": "Working-age population (16–64)",
+        "value": "64,743",
+        "rate": "",
+        "period": "2024",
+        "url": "https://www.nomisweb.co.uk/reports/lmp/wpca24/721420430/report.aspx",
+        "summary": "64,743 · 2024. ONS via Nomis; Dudley constituency on 2024 boundaries."
+      },
+      {
+        "title": "People in employment (16–64)",
+        "value": "46,700",
+        "rate": "72.2%",
+        "period": "Jul 2025-Jun 2026",
+        "url": "https://www.nomisweb.co.uk/reports/lmp/wpca24/721420430/report.aspx",
+        "summary": "46,700 (72.2%) · Jul 2025-Jun 2026. ONS via Nomis; Dudley constituency on 2024 boundaries."
+      },
+      {
+        "title": "People claiming unemployment-related benefits",
+        "value": "3,610",
+        "rate": "5.6%",
+        "period": "September 2026",
+        "url": "https://www.nomisweb.co.uk/reports/lmp/wpca24/721420430/report.aspx",
+        "summary": "3,610 (5.6%) · September 2026. ONS via Nomis; Dudley constituency on 2024 boundaries."
+      },
+      {
+        "title": "Health conditions: official constituency dashboard",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10868/",
+        "summary": "Additional health context: modelled estimates of diagnosed health-condition prevalence. Census self-rated health is shown separately below."
+      },
+      {
+        "title": "Housing: official constituency house prices dashboard",
+        "url": "https://commonslibrary.parliament.uk/constituency-data-house-prices/",
+        "summary": "Additional housing context: constituency house prices in the Commons Library dashboard. Census social-rented household figures are shown separately below."
+      }
+    ],
+    "note": "ONS figures are for Dudley constituency (2024 boundaries), not the whole Dudley borough. Each figure has its own reference period. Claimant count is not the unemployment rate; employment survey estimates have sampling uncertainty. Census health and housing indicators are shown separately, with their 2021 reference date and aggregation method.",
+    "source_checks": [
+      {
+        "url": "https://www.nomisweb.co.uk/reports/lmp/wpca24/721420430/report.aspx",
+        "status": "ok"
+      },
+      {
+        "url": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2014_1.data.csv?geography=721420430&date=latest&gender=0&c_age=200&measures=20100",
+        "status": "ok"
+      },
+      {
+        "url": "https://commonslibrary.parliament.uk/constituency-dashboard/",
+        "status": "limited",
+        "note": "Dashboard and population XLSX return HTTP 403 to automated requests; health/housing numeric feed not verified."
+      }
+    ]
+  }
+}

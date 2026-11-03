@@ -1,0 +1,53 @@
+{
+  "key": "useful_links",
+  "source": "https://www.dudley.gov.uk/",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Dudley Council services",
+        "url": "https://www.dudley.gov.uk/",
+        "summary": "Bins, council tax, housing, planning and council services."
+      },
+      {
+        "title": "Report a pothole or road problem",
+        "url": "https://www.dudley.gov.uk/residents/parking-and-roads/roads-highways-and-pavements/",
+        "summary": "Use the council’s roads and highways service to find the appropriate report route."
+      },
+      {
+        "title": "NHS services",
+        "url": "https://www.nhs.uk/nhs-services/",
+        "summary": "Find GP, pharmacy, dentist and other NHS services."
+      },
+      {
+        "title": "Benefits information",
+        "url": "https://www.gov.uk/browse/benefits",
+        "summary": "Official benefits information and application routes."
+      },
+      {
+        "title": "Citizens Advice Dudley and Wolverhampton",
+        "url": "https://www.citizensadvicedudley.org/",
+        "summary": "Independent advice on money, benefits, housing and employment."
+      },
+      {
+        "title": "Black Country Foodbank",
+        "url": "https://www.blackcountryfoodbank.org.uk/",
+        "summary": "Find local food support and referral information."
+      },
+      {
+        "title": "Dudley cost of living support",
+        "url": "https://www.dudley.gov.uk/council-community/cost-of-living/",
+        "summary": "Local support for household costs."
+      },
+      {
+        "title": "Dudley Community Information Directory",
+        "url": "https://dudleyci.co.uk/",
+        "summary": "Search community support services and local organisations."
+      }
+    ],
+    "note": "Curated service directory. The council homepage is checked daily; individual service pages are maintained by their organisations. Contact the service directly to confirm eligibility and availability. This website does not collect casework."
+  }
+}

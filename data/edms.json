@@ -1,0 +1,53 @@
+{
+  "key": "edms",
+  "source": "https://edm.parliament.uk/early-day-motions?MemberId=5274&IncludeSponsoredByMember=true",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Occupational Therapist Week",
+        "date": "2025-12-01",
+        "url": "https://edm.parliament.uk/early-day-motion/64756",
+        "summary": "Tabled by Sonia Kumar. EDM 2403; 8 sponsors.",
+        "id": 64756,
+        "role": "Tabled by Sonia Kumar",
+        "motion_text": "That this House recognises Occupational Therapy Week 2025, celebrating the vital contribution of occupational therapists across the UK; notes that occupational therapists take a holistic approach, considering the mental, physical and environmental factors that enable people to live independently and participate fully in daily life; acknowledges their essential role in helping people to stay well for longer, prevent hospital admissions and reduce pressure on health and social care services; and calls on the Government to ensure that occupational therapists are fully utilised across health, social care and community settings to deliver improved outcomes and better value for the public.",
+        "signed_date": "2025-11-19"
+      },
+      {
+        "title": "National Operating Department Practitioner Day",
+        "date": "2025-05-08",
+        "url": "https://edm.parliament.uk/early-day-motion/63605",
+        "summary": "Signed by Sonia Kumar. EDM 1228; 18 sponsors.",
+        "id": 63605,
+        "role": "Signed by Sonia Kumar",
+        "motion_text": "That this House recognises and celebrates National Operating Department Practitioners (ODP) Day on 14 May, which highlights the vital role ODPs play in the delivery of safe, effective and compassionate care in our hospitals and surgical theatres across the United Kingdom; commends the dedication, skill and professionalism of ODPs who work tirelessly as key members of multidisciplinary surgical teams, often behind the scenes, ensuring the highest standards of patient care before, during and after operations; further welcomes efforts to raise awareness of the ODP profession among the public and prospective healthcare workers, particularly through outreach and education on National ODP Day; and calls on the Government to support and invest in the ODP workforce through education, career progression opportunities and public recognition of their essential contribution to the NHS.",
+        "signed_date": "2025-05-16"
+      },
+      {
+        "title": "Work of St John Ambulance",
+        "date": "2024-11-11",
+        "url": "https://edm.parliament.uk/early-day-motion/62724",
+        "summary": "Signed by Sonia Kumar. EDM 383; 49 sponsors.",
+        "id": 62724,
+        "role": "Signed by Sonia Kumar",
+        "motion_text": "That this House recognises the lifesaving work of St John Ambulance volunteers across the country, training 250,000 members of the public in first aid every year, providing event first aid cover at 11,000 events and delivering 4,000 hours of emergency support to the NHS per month as the nation’s ambulance auxiliary; acknowledges that 30,000 out-of-hospital cardiac arrests take place every year in the UK with less than 1 in 10 people surviving and immediate cardiopulmonary resuscitation and that defibrillation can more than double the chances of survival; is concerned by the findings of St John Ambulance’s recent survey that revealed 49% of the public would feel panicked if they came across a health emergency, with one in three members of the public afraid to give CPR to women due to fear of inappropriate touching; thanks the work of St John Ambulance volunteers, first aid charities and NHS Ambulance services in providing physical and mental health first aid training in communities to improve first aid confidence; and encourages the Government to support first aid education and volunteers as part of the NHS-10-Year Plan to tackle health inequalities, improve health outcomes and save lives.",
+        "signed_date": "2024-11-11"
+      },
+      {
+        "title": "50th anniversary of the Federation of Small Businesses",
+        "date": "2024-09-10",
+        "url": "https://edm.parliament.uk/early-day-motion/62480",
+        "summary": "Signed by Sonia Kumar. EDM 159; 22 sponsors.",
+        "id": 62480,
+        "role": "Signed by Sonia Kumar",
+        "motion_text": "That this House congratulates the Federation of Small Businesses (FSB), formerly known as the National Federation of Self Employed (NFSE) on its 50th birthday; remembers that in 1974, one small business owner, Captain Norman Small, wrote to the press to begin a small business movement; recalls that Small invited small business owners to attend a meeting in his hometown of Lytham St Annes and, at that meeting, he put forward the idea of an organisation designed to promote the voice of the self-employed; further remembers that similar meetings in other parts of the country followed and that within nine months the NFSE had a membership of 25,000 with 200 new members joining every day; acknowledges that 50 years later FSB is the UK’s largest membership organisation for small businesses and the self-employed; and reflects on the range of day-to-day business tools, local support networks, and member-only savings provided today by FSB, and looks forward to the next 50 years of FSB.",
+        "signed_date": "2024-09-11"
+      }
+    ],
+    "note": "Motions tabled or signed by Sonia Kumar across published records. An Early Day Motion records an opinion or request; it is not legislation or a scheduled debate. Withdrawn signatures, where present, are identified."
+  }
+}

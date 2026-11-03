@@ -1,0 +1,45 @@
+{
+  "key": "wmca_meetings",
+  "source": "https://governance.wmca.org.uk/mgCalendarAgendaView.aspx?MR=0",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "WMCA Board",
+        "date": "2026-11-13",
+        "time": "11.00 am",
+        "location": "West Midlands Regional Chamber, WMCA offices, 16 Summer Lane, Birmingham, B19 3SD",
+        "url": "https://governance.wmca.org.uk/ieListDocuments.aspx?CId=137&MId=2150",
+        "summary": "WMCA board or committee meeting. Confirm public access on the agenda. This does not indicate MP attendance."
+      },
+      {
+        "title": "Investment Board",
+        "date": "2026-11-16",
+        "time": "10.00 am",
+        "location": "West Midlands Regional Chamber, WMCA Offices, 16 Summer Lane, Birmingham, B19 3SD",
+        "url": "https://governance.wmca.org.uk/ieListDocuments.aspx?CId=135&MId=2141",
+        "summary": "WMCA board or committee meeting. Confirm public access on the agenda. This does not indicate MP attendance."
+      },
+      {
+        "title": "Audit, Risk & Assurance Committee",
+        "date": "2026-11-17",
+        "time": "10.00 am - 12.00 pm",
+        "location": "West Midlands Regional Chamber, 16 Summer Lane, Birmingham, B19 3SDD",
+        "url": "https://governance.wmca.org.uk/ieListDocuments.aspx?CId=136&MId=2270",
+        "summary": "WMCA board or committee meeting. Confirm public access on the agenda. This does not indicate MP attendance."
+      },
+      {
+        "title": "Local Scrutiny Committee",
+        "date": "2026-11-30",
+        "time": "10.00 am - 12.00 pm",
+        "location": "West Midlands Regional Chamber, WMCA offices, 16 Summer Lane, Birmingham, B19 3SD",
+        "url": "https://governance.wmca.org.uk/ieListDocuments.aspx?CId=356&MId=2286",
+        "summary": "WMCA board or committee meeting. Confirm public access on the agenda. This does not indicate MP attendance."
+      }
+    ],
+    "note": "Public WMCA meetings for the next 30 days; meeting dates and access can change."
+  }
+}

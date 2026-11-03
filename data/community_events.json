@@ -1,0 +1,38 @@
+{
+  "key": "community_events",
+  "source": "https://www.dudley.gov.uk/things-to-do/events/",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Dudley Council upcoming events",
+        "url": "https://www.dudley.gov.uk/events/",
+        "summary": "Council events listings across Dudley borough."
+      },
+      {
+        "title": "Discover Dudley events",
+        "url": "https://discover.dudley.gov.uk/events/",
+        "summary": "Events, exhibitions, fairs and markets."
+      },
+      {
+        "title": "Dudley Community Information Directory",
+        "url": "https://dudleyci.co.uk/",
+        "summary": "Community clubs, activities and local support."
+      },
+      {
+        "title": "Himley Hall events",
+        "url": "https://www.himleyhallandpark.co.uk/events",
+        "summary": "Public events at Himley Hall and Park."
+      },
+      {
+        "title": "Eventbrite: Dudley",
+        "url": "https://www.eventbrite.co.uk/d/united-kingdom--dudley/events/",
+        "summary": "Third-party listings; check location, organiser, availability and cost."
+      }
+    ],
+    "note": "Community listings are links, not a claim that Sonia Kumar will attend. Council listing links are checked via the source page; third-party listings may change."
+  }
+}

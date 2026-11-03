@@ -1,0 +1,12 @@
+{
+  "key": "police_news",
+  "source": "https://www.westmidlands.police.uk/news/",
+  "retrieved_at": null,
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "unavailable",
+  "error": "HTTP 403",
+  "data": {
+    "items": [],
+    "note": "Automatic retrieval is currently unavailable. Use the original source below."
+  }
+}

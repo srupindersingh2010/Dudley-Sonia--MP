@@ -1,0 +1,2135 @@
+{
+  "key": "council_meetings",
+  "source": "https://dudley.cmis.uk.com/Meetings.aspx",
+  "retrieved_at": "2026-11-03T01:06:03+00:00",
+  "checked_at": "2026-11-03T01:06:03+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Cabinet",
+        "date": "2026-11-05T18:00:00",
+        "time": "18:00",
+        "location": "Council Chamber",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7132/Committee/468/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Taxis Committee",
+        "date": "2026-11-09T18:00:00",
+        "time": "18:00",
+        "location": "Committee Room 2",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7224/Committee/494/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Dudley Schools Forum",
+        "date": "2026-11-10T18:00:00",
+        "time": "18:00",
+        "location": "Microsoft Teams",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7239/Committee/485/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Children's Corporate Parenting Board",
+        "date": "2026-11-12T18:00:00",
+        "time": "18:00",
+        "location": "Committee Room 2",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7146/Committee/505/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Core Business Scrutiny Committee",
+        "date": "2026-11-16T18:00:00",
+        "time": "18:00",
+        "location": "Council Chamber",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7156/Committee/553/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Licensing Sub-Committee 4",
+        "date": "2026-11-17T10:00:00",
+        "time": "10:00",
+        "location": "Council Chamber",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7234/Committee/492/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Children and Young People Scrutiny Committee",
+        "date": "2026-11-18T18:00:00",
+        "time": "18:00",
+        "location": "Committee Room 2",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7141/Committee/554/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Communities and Growth Scrutiny Committee",
+        "date": "2026-11-19T18:00:00",
+        "time": "18:00",
+        "location": "Committee Room 2",
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7151/Committee/548/Default.aspx",
+        "summary": "Dudley Council public committee calendar. Check the agenda for access arrangements and changes."
+      },
+      {
+        "title": "Housing and Assets Scrutiny Committee",
+        "date": "2026-11-23T18:00:00",
+        "time": "18:00",
+        "location": "Committee Room 2",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7181/Committee/549/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Audit Committee",
+        "date": "2026-11-25T18:00:00",
+        "time": "18:00",
+        "location": "Committee Room 3",
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7256/Committee/550/Default.aspx",
+        "summary": "Dudley Council public committee calendar. Check the agenda for access arrangements and changes."
+      },
+      {
+        "title": "Health and Adult Social Care Scrutiny Committee",
+        "date": "2026-11-25T18:00:00",
+        "time": "18:00",
+        "location": "Council Chamber",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7176/Committee/556/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "External Partnerships Scrutiny Committee",
+        "date": "2026-11-26T18:00:00",
+        "time": "18:00",
+        "location": "Council Chamber",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7172/Committee/555/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      },
+      {
+        "title": "Licensing Sub-Committee 1",
+        "date": "2026-12-01T10:00:00",
+        "time": "10:00",
+        "location": "Council Chamber",
+        "cancelled": false,
+        "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7188/Committee/489/Default.aspx",
+        "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+      }
+    ],
+    "committee_cache": {
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/550/Default.aspx": {
+        "items": [
+          {
+            "title": "Audit Committee",
+            "date": "2026-12-09T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7124/Committee/550/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Audit Committee",
+            "date": "2027-02-10T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7125/Committee/550/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Audit Committee",
+            "date": "2027-04-22T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7126/Committee/550/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/468/Default.aspx": {
+        "items": [
+          {
+            "title": "Cabinet",
+            "date": "2026-02-11T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6979/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-03-25T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6980/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-06-11T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7127/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-07-16T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7128/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-08-13T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7129/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-09-10T16:30:00",
+            "time": "16:30",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7130/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-10-08T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7131/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-11-05T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7132/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2026-12-17T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7133/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Cabinet",
+            "date": "2027-01-14T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7134/Committee/468/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/554/Default.aspx": {
+        "items": [
+          {
+            "title": "Children and Young People Scrutiny Committee",
+            "date": "2026-08-19T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7251/Committee/554/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children and Young People Scrutiny Committee",
+            "date": "2026-09-30T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7140/Committee/554/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children and Young People Scrutiny Committee",
+            "date": "2026-11-18T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7141/Committee/554/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children and Young People Scrutiny Committee",
+            "date": "2027-01-19T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7142/Committee/554/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children and Young People Scrutiny Committee",
+            "date": "2027-03-22T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7143/Committee/554/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/505/Default.aspx": {
+        "items": [
+          {
+            "title": "Children's Corporate Parenting Board",
+            "date": "2025-07-02T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7010/Committee/505/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children's Corporate Parenting Board",
+            "date": "2026-07-23T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7144/Committee/505/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children's Corporate Parenting Board",
+            "date": "2026-09-16T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7145/Committee/505/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children's Corporate Parenting Board",
+            "date": "2026-11-12T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7146/Committee/505/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children's Corporate Parenting Board",
+            "date": "2027-01-13T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7147/Committee/505/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Children's Corporate Parenting Board",
+            "date": "2027-03-24T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7148/Committee/505/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/548/Default.aspx": {
+        "items": [
+          {
+            "title": "Communities and Growth Scrutiny Committee",
+            "date": "2027-01-20T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7152/Committee/548/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Communities and Growth Scrutiny Committee",
+            "date": "2027-03-24T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7153/Committee/548/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/553/Default.aspx": {
+        "items": [
+          {
+            "title": "Core Business Scrutiny Committee",
+            "date": "2026-07-23T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7154/Committee/553/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Core Business Scrutiny Committee",
+            "date": "2026-09-23T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7155/Committee/553/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Core Business Scrutiny Committee",
+            "date": "2026-11-16T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7156/Committee/553/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Core Business Scrutiny Committee",
+            "date": "2027-01-25T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7157/Committee/553/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Core Business Scrutiny Committee",
+            "date": "2027-03-18T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7158/Committee/553/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/482/Default.aspx": {
+        "items": [
+          {
+            "title": "Council",
+            "date": "2026-03-02T18:30:00",
+            "time": "18:30",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7078/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-04-13T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7079/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-05-28T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7080/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-06-29T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7237/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-07-13T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7159/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-07-13T18:10:00",
+            "time": "18:10",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7244/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-09-10T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7252/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-09-10T18:17:00",
+            "time": "18:17",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7254/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-11-02T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7160/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Council",
+            "date": "2026-11-02T18:30:00",
+            "time": "18:30",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7257/Committee/482/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/504/Default.aspx": {
+        "items": [
+          {
+            "title": "Dudley Borough Local Access Forum",
+            "date": "2023-03-22T13:00:00",
+            "time": "13:00",
+            "location": "Saltwells Warden Base, Saltwells National Nature Reserve",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6593/Committee/504/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Borough Local Access Forum",
+            "date": "2023-06-14T13:00:00",
+            "time": "13:00",
+            "location": "Saltwells Wardens Base, Saltwells National Nature Reserve",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6590/Committee/504/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Borough Local Access Forum",
+            "date": "2023-09-13T13:00:00",
+            "time": "13:00",
+            "location": "Committee Room 4",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6591/Committee/504/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Borough Local Access Forum",
+            "date": "2023-12-13T13:00:00",
+            "time": "13:00",
+            "location": "Committee Room 4",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6592/Committee/504/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Borough Local Access Forum",
+            "date": "2024-03-13T13:00:00",
+            "time": "13:00",
+            "location": "Committee Room 4",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6600/Committee/504/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Borough Local Access Forum",
+            "date": "2024-06-12T13:00:00",
+            "time": "13:00",
+            "location": "Committee Room 4",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6771/Committee/504/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/484/Default.aspx": {
+        "items": [
+          {
+            "title": "Dudley Health and Wellbeing Board",
+            "date": "2025-12-11T16:00:00",
+            "time": "16:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7071/Committee/484/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Health and Wellbeing Board",
+            "date": "2026-06-30T09:30:00",
+            "time": "09:30",
+            "location": "Rehearsal Space, Cable Plaza, Waterfront West, Brierley Hill, DY5 1LW",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7238/Committee/484/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Health and Wellbeing Board",
+            "date": "2026-12-08T09:30:00",
+            "time": "09:30",
+            "location": "Himley Hall, Dudley DY3 4DF",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7246/Committee/484/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Health and Wellbeing Board",
+            "date": "2027-03-23T09:30:00",
+            "time": "09:30",
+            "location": "3-5 St James Road, Dudley",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7247/Committee/484/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/485/Default.aspx": {
+        "items": [
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2025-03-04T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6913/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2025-04-01T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6914/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2025-06-24T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6915/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2025-10-14T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7088/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2026-01-27T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7089/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2026-03-24T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7090/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2026-06-23T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7091/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2026-11-10T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7239/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2027-01-26T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7240/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Schools Forum",
+            "date": "2027-03-23T18:00:00",
+            "time": "18:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7241/Committee/485/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/486/Default.aspx": {
+        "items": [
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2025-07-09T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7020/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2025-10-22T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7021/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2025-11-24T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7107/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2026-01-28T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7023/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2026-04-16T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7022/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2026-07-08T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7166/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2026-10-21T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7167/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2027-01-27T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7168/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Ernest Stevens Trusts Management Committee",
+            "date": "2027-04-14T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7169/Committee/486/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/555/Default.aspx": {
+        "items": [
+          {
+            "title": "External Partnerships Scrutiny Committee",
+            "date": "2026-10-07T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7171/Committee/555/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "External Partnerships Scrutiny Committee",
+            "date": "2026-11-26T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7172/Committee/555/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "External Partnerships Scrutiny Committee",
+            "date": "2027-03-17T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7173/Committee/555/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/556/Default.aspx": {
+        "items": [
+          {
+            "title": "Health and Adult Social Care Scrutiny Committee",
+            "date": "2026-08-03T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7174/Committee/556/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Health and Adult Social Care Scrutiny Committee",
+            "date": "2026-10-05T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7175/Committee/556/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Health and Adult Social Care Scrutiny Committee",
+            "date": "2026-11-25T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7176/Committee/556/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Health and Adult Social Care Scrutiny Committee",
+            "date": "2026-12-09T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7258/Committee/556/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Health and Adult Social Care Scrutiny Committee",
+            "date": "2027-01-21T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7177/Committee/556/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Health and Adult Social Care Scrutiny Committee",
+            "date": "2027-03-31T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7178/Committee/556/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/549/Default.aspx": {
+        "items": [
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2025-07-23T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6996/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2025-09-25T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6997/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2025-11-13T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6998/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2026-01-15T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6999/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2026-03-19T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7000/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2026-07-14T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7179/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2026-09-24T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7180/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2026-11-23T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7181/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2027-01-18T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7182/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Housing and Assets Scrutiny Committee",
+            "date": "2027-03-25T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7183/Committee/549/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/488/Default.aspx": {
+        "items": [
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2023-05-31T17:00:00",
+            "time": "17:00",
+            "location": "Saltwells Education Development Centre",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6690/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2024-02-05T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6691/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2024-05-22T19:00:00",
+            "time": "19:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6778/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2024-11-07T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6916/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2025-02-05T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6844/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2025-05-28T18:40:00",
+            "time": "18:40",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7024/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2026-02-05T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7025/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2026-06-04T18:36:00",
+            "time": "18:36",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7120/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing and Safety Committee",
+            "date": "2027-02-01T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7184/Committee/488/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/489/Default.aspx": {
+        "items": [
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2024-06-04T10:00:00",
+            "time": "10:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6878/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2025-10-21T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7101/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2026-03-17T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7031/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2026-05-19T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7119/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2026-06-16T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7185/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2026-12-01T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7188/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2027-02-02T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7190/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 1",
+            "date": "2027-04-06T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7189/Committee/489/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/490/Default.aspx": {
+        "items": [
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2022-10-11T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6468/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2023-02-07T10:00:00",
+            "time": "10:00",
+            "location": "Saltwells Education Development Centre",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6470/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2023-02-07T13:13:00",
+            "time": "13:13",
+            "location": "Saltwells Education Development Centre",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6588/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2023-04-04T10:00:00",
+            "time": "10:00",
+            "location": "Saltwells Education Development Centre",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6471/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2024-03-26T14:00:00",
+            "time": "14:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6769/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2024-10-15T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6886/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2024-10-15T11:05:00",
+            "time": "11:05",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6924/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2025-04-01T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6889/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2026-05-12T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7116/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 2",
+            "date": "2026-12-15T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7194/Committee/490/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/491/Default.aspx": {
+        "items": [
+          {
+            "title": "Licensing Sub-Committee 3",
+            "date": "2025-01-24T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6944/Committee/491/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 3",
+            "date": "2026-09-08T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7198/Committee/491/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 3",
+            "date": "2027-01-05T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7200/Committee/491/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 3",
+            "date": "2027-03-02T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7201/Committee/491/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 3",
+            "date": "2027-04-27T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7202/Committee/491/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/492/Default.aspx": {
+        "items": [
+          {
+            "title": "Licensing Sub-Committee 4",
+            "date": "2025-01-07T10:00:00",
+            "time": "10:00",
+            "location": "Microsoft Teams",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6899/Committee/492/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 4",
+            "date": "2025-04-29T10:55:00",
+            "time": "10:55",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6901/Committee/492/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 4",
+            "date": "2025-07-15T10:15:00",
+            "time": "10:15",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7044/Committee/492/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 4",
+            "date": "2026-08-18T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7249/Committee/492/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 4",
+            "date": "2026-11-17T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7234/Committee/492/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 4",
+            "date": "2027-01-19T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7235/Committee/492/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Licensing Sub-Committee 4",
+            "date": "2027-03-23T10:00:00",
+            "time": "10:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7236/Committee/492/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/522/Default.aspx": {
+        "items": [
+          {
+            "title": "Planning Committee",
+            "date": "2026-02-18T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7018/Committee/522/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Planning Committee",
+            "date": "2026-07-28T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7208/Committee/522/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Planning Committee",
+            "date": "2026-09-02T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7209/Committee/522/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Planning Committee",
+            "date": "2027-01-06T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7212/Committee/522/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Planning Committee",
+            "date": "2027-02-17T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7213/Committee/522/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Planning Committee",
+            "date": "2027-04-07T18:00:00",
+            "time": "18:00",
+            "location": "Council Chamber",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7214/Committee/522/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/557/Default.aspx": {
+        "items": [
+          {
+            "title": "Staffing Committee",
+            "date": "2026-08-17T10:00:00",
+            "time": "10:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7250/Committee/557/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Staffing Committee",
+            "date": "2026-09-07T16:30:00",
+            "time": "16:30",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7253/Committee/557/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/551/Default.aspx": {
+        "items": [
+          {
+            "title": "Standards Committee",
+            "date": "2025-07-24T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7006/Committee/551/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Standards Committee",
+            "date": "2025-10-23T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7007/Committee/551/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Standards Committee",
+            "date": "2026-01-12T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7008/Committee/551/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Standards Committee",
+            "date": "2026-07-15T17:30:00",
+            "time": "17:30",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7215/Committee/551/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Standards Committee",
+            "date": "2026-10-15T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7216/Committee/551/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Standards Committee",
+            "date": "2027-01-11T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7217/Committee/551/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Standards Committee",
+            "date": "2027-04-01T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 3",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7218/Committee/551/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/494/Default.aspx": {
+        "items": [
+          {
+            "title": "Taxis Committee",
+            "date": "2026-10-14T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7223/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Taxis Committee",
+            "date": "2026-11-09T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7224/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Taxis Committee",
+            "date": "2026-12-10T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7225/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Taxis Committee",
+            "date": "2027-01-07T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7226/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Taxis Committee",
+            "date": "2027-02-03T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7227/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Taxis Committee",
+            "date": "2027-03-03T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7228/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Taxis Committee",
+            "date": "2027-04-05T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7229/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Taxis Committee",
+            "date": "2027-04-21T18:00:00",
+            "time": "18:00",
+            "location": "Committee Room 2",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7230/Committee/494/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/530/Default.aspx": {
+        "items": [],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/531/Default.aspx": {
+        "items": [
+          {
+            "title": "Halesowen Forum",
+            "date": "2022-11-03T18:30:00",
+            "time": "18:30",
+            "location": "Lutley Community Centre",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6554/Committee/531/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Halesowen Forum",
+            "date": "2023-06-19T18:30:00",
+            "time": "18:30",
+            "location": "Cradley Community Centre, Colley Lane, Halesowen  B63 2TL",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6660/Committee/531/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Halesowen Forum",
+            "date": "2023-11-29T18:30:00",
+            "time": "18:30",
+            "location": "Fatherless Barn Evangelical Church, 2 Hedgefield Grove, Halesowen B63 2HJ",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6661/Committee/531/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Halesowen Forum",
+            "date": "2024-02-28T18:30:00",
+            "time": "18:30",
+            "location": "Halesowen College, Whittingham Road, B63 3NA",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6662/Committee/531/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Halesowen Forum",
+            "date": "2024-10-28T18:30:00",
+            "time": "18:30",
+            "location": "Halesowen Town Hall, Green Room, 10 Hagley Street, Halesowen B63 3AF",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6864/Committee/531/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Halesowen Forum",
+            "date": "2025-02-03T18:30:00",
+            "time": "18:30",
+            "location": "Fatherless Barn Evangelical Church, 2 Hedgefield Grove, Halesowen B63 2HJ",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6865/Committee/531/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Halesowen Forum",
+            "date": "2025-07-24T18:30:00",
+            "time": "18:30",
+            "location": "Halesowen Town Hall, 10 Hagley Street, Halesowen B63 3AF",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7084/Committee/531/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/532/Default.aspx": {
+        "items": [
+          {
+            "title": "Stourbridge Forum",
+            "date": "2022-11-02T18:30:00",
+            "time": "18:30",
+            "location": "Stourbridge Institute Social Club 12 Market Street Stourbridge  DY8 1AD",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6552/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Stourbridge Forum",
+            "date": "2023-02-20T18:30:00",
+            "time": "18:30",
+            "location": "Pedmore High School, Grange Lane, Pedmore, Stourbridge  DY9 7HS",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6585/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Stourbridge Forum",
+            "date": "2023-06-22T18:30:00",
+            "time": "18:30",
+            "location": "Withymoor Primary School, Gayfield Avenue, Brierley Hill, DY5 2BH",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6663/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Stourbridge Forum",
+            "date": "2023-11-09T18:30:00",
+            "time": "18:30",
+            "location": "Pedmore Cricket Club, Pedmore Hall Lane, Pedmore, Stourbridge DY9 0ST",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6664/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Stourbridge Forum",
+            "date": "2024-02-21T18:30:00",
+            "time": "18:30",
+            "location": "Gig Mill Primary School, (Entrance for Car Park & Hall on playground) Poole Street, off Heath Farm Road, Norton, DY8 3AU",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6665/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Stourbridge Forum",
+            "date": "2024-10-30T18:30:00",
+            "time": "18:30",
+            "location": "Wollaston Village Hall, Bridgnorth Road, Wollaston, Stourbridge DY8 3SN",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6876/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Stourbridge Forum",
+            "date": "2025-02-06T18:30:00",
+            "time": "18:30",
+            "location": "Stourbridge Institute Club, Bell Street Stourbridge DY8 1AE",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6877/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Stourbridge Forum",
+            "date": "2025-06-30T18:30:00",
+            "time": "18:30",
+            "location": "Stourbridge Town Hall, Wollaston Studio,Crown Centre, Crown Lane, Stourbridge DY8 1YE",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7069/Committee/532/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/533/Default.aspx": {
+        "items": [
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2022-10-31T18:30:00",
+            "time": "18:30",
+            "location": "Bank Street Methodist Church, 24 Bank Street Brierley Hill DY5 3DA",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6548/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2023-02-22T18:30:00",
+            "time": "18:30",
+            "location": "Wall Heath Evangelical Church, Enville Rd, Wall Heath, Kingswinford DY6 0JX",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6581/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2023-06-19T18:30:00",
+            "time": "18:30",
+            "location": "St James' Methodist Church, 4 Chapel Street, Pensnett, Brierley Hill, DY5 4EL",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6601/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2023-10-26T18:30:00",
+            "time": "18:30",
+            "location": "The Wordsley School, Brierley Hill Road, DY8 5SP",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6602/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2024-02-28T18:30:00",
+            "time": "18:30",
+            "location": "Our Lady of Lourdes Catholic Church 3 Summer Hill, Kingswinford DY6 9JG",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6603/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2024-10-09T18:30:00",
+            "time": "18:30",
+            "location": "Brierley Hill Methodist Church, 24 Bank St, Brierley Hill DY5 3DA.",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6867/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2025-02-03T18:30:00",
+            "time": "18:30",
+            "location": "Arise Church, Stallings Lane, Kingswinford DY6 7HS",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6868/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Brierley Hill Forum",
+            "date": "2025-06-18T18:30:00",
+            "time": "18:30",
+            "location": "Brockmoor Primary School, Belle Isle, Brierley Hill, Dudley DY5 3UZ",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7065/Committee/533/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/534/Default.aspx": {
+        "items": [
+          {
+            "title": "Dudley Forum",
+            "date": "2022-11-07T18:30:00",
+            "time": "18:30",
+            "location": "Wellington Road Community Centre, 27 Wellington Rd, Dudley DY1 1UB",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6549/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Forum",
+            "date": "2023-02-20T18:30:00",
+            "time": "18:30",
+            "location": "Dudley College, Broadway Campus,The Broadway Dudley DY1 4AS",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6582/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Forum",
+            "date": "2023-06-22T18:30:00",
+            "time": "18:30",
+            "location": "Dudley Wood Neighbourhood Learning Centre, Off Pavilion Gardens, Dudley Wood Rd, Dudley DY2 0DB",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6649/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Forum",
+            "date": "2023-11-08T18:30:00",
+            "time": "18:30",
+            "location": "Quarry Bank Primary School, High Street, Brierley Hill DY5 2AD",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6650/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Forum",
+            "date": "2024-02-21T18:30:00",
+            "time": "18:30",
+            "location": "Wellington Road Community Centre, 27 Wellington Rd, Dudley DY1 1UB",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6651/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Forum",
+            "date": "2024-10-07T18:30:00",
+            "time": "18:30",
+            "location": "Savoy Centre, Northfield Road, Netherton, DY2 9ES",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6870/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Forum",
+            "date": "2025-02-19T18:30:00",
+            "time": "18:30",
+            "location": "Living Hope Church, Middlepark Road, Dudley DY1 2LD",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6871/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley Forum",
+            "date": "2025-06-16T18:30:00",
+            "time": "18:30",
+            "location": "DY1, Stafford Street, Dudley, DY1 1RT",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7067/Committee/534/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/535/Default.aspx": {
+        "items": [
+          {
+            "title": "Dudley North Forum",
+            "date": "2022-11-07T18:30:00",
+            "time": "18:30",
+            "location": "Royal British Legion, Ruiton Street, Dudley, DY3 2EH",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6550/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley North Forum",
+            "date": "2023-03-01T18:30:00",
+            "time": "18:30",
+            "location": "Sedgley Community Centre, Ladies Walk, Sedgley, Dudley DY3 3UA",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6583/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley North Forum",
+            "date": "2023-06-08T18:30:00",
+            "time": "18:30",
+            "location": "St Chads Church Hall, Oak St, Coseley, Dudley, WV14 9TA",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6657/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley North Forum",
+            "date": "2023-11-09T18:30:00",
+            "time": "18:30",
+            "location": "Royal British Legion, Ruiton Street, Dudley, DY3 2EH",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6658/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley North Forum",
+            "date": "2024-02-07T18:30:00",
+            "time": "18:30",
+            "location": "Sedgley Community Centre, Ladies Walk, Sedgley, Dudley DY3 3UA",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6659/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley North Forum",
+            "date": "2024-10-24T18:30:00",
+            "time": "18:30",
+            "location": "Royal British Legion, Ruiton Street, Dudley, DY3 2EH",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6873/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley North Forum",
+            "date": "2025-02-19T18:30:00",
+            "time": "18:30",
+            "location": "Sedgley Community Centre, Ladies Walk, Sedgley, Dudley DY3 3UA",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/6874/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          },
+          {
+            "title": "Dudley North Forum",
+            "date": "2025-06-23T18:30:00",
+            "time": "18:30",
+            "location": "Royal British Legion, Ruiton Street, Dudley, DY3 2EH",
+            "cancelled": false,
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7068/Committee/535/Default.aspx",
+            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
+          }
+        ],
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      }
+    },
+    "source_checks": [
+      {
+        "url": "https://dudley.cmis.uk.com/Meetings.aspx",
+        "status": "ok"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/550/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/468/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/554/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/505/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/548/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/553/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/482/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/504/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/484/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/485/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/486/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/555/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/556/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/549/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/488/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/489/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/490/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/491/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/492/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/522/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/557/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/551/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/494/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/530/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/531/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/532/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/533/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/534/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      },
+      {
+        "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/535/Default.aspx",
+        "status": "ok",
+        "retrieved_at": "2026-11-03T01:06:03.798863+00:00"
+      }
+    ],
+    "note": "Dudley uses CMIS, not Modern.gov. The next 30 days combine the current public calendar and individual committee schedules. Confirm dates, cancellations and public access on the agenda. These are council meetings, not a record of Sonia Kumar’s attendance."
+  }
+}

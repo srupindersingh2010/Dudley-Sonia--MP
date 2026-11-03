@@ -1,0 +1,380 @@
+{
+  "key": "police_teams",
+  "source": "https://data.police.uk/docs/method/neighbourhoods/",
+  "retrieved_at": "2026-11-03T01:02:06+00:00",
+  "checked_at": "2026-11-03T01:02:06+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Dudley North",
+        "url": "https://www.police.uk/pu/your-area/west-midlands-police/",
+        "summary": "Neighbourhood overlaps the constituency; coverage is not identical to the parliamentary boundary.",
+        "people": [
+          {
+            "name": "Thomas Steventon - Dedicated Neighbourhood Officer - Coseley",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Joanna King",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Samuel Lewis - Dedicated Neighbourhood Officer - Upper Gornal and Woodsetton",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Emily Catchpole - Dedicated Neighbourhood Officer - Sedgley",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Faye Cartwright",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Ross Treacy - Local Action Team",
+            "rank": "Sergeant"
+          },
+          {
+            "name": "Josh Gorman - Dedicated Neighbourhood Officer - Sedgley Town",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Olivia Berry",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Miles Patterson",
+            "rank": "Inspector"
+          }
+        ],
+        "priorities": [
+          {
+            "issue": "SEDGLEY: We are continuing to receive reports of Anti-Social Behaviour (ASB) around the Sedgley area, which involves small groups of youths causing a general nuisance to members of the public.  We have also had a number of reports of off-road bikes causing issues for pedestrians and road users. There have been a small number of reports of shoplifting around the town centre. Sporadic reports are being received regarding drug dealing in the local area.",
+            "action": "We have been tackling Anti-Social Behaviour (ASB) in and around the High Street. We also have the support of other teams, providing support for patrols when we are on rest days.  We will continue to take a proactive stance towards the ASB issues. We will endeavour to include all hotspots in our patrol strategies to deter any ongoing issues.  We are aware that the Halloween period, paired with darker evenings are approaching, and we will be responding to any issues that are brought to our attention. Patrols will take place around licenced premises to make sure rules are being adhered to in the run up to the festive period.",
+            "date": "2026-10-07T00:00:00",
+            "action_date": "2026-10-07T00:00:00"
+          },
+          {
+            "issue": "UPPER GORNAL & WOODSETTON: There have been reports of youths causing Anti-Social Behaviour, and possible drug dealing in various parts of the Upper Gornal and Woodsetton ward. ASB is also being reported to us on the precinct area in Upper Gornal. Off-road bikes have also been brought to our attention again within the local area. There has also been an increase in reports of shoplifting in the local shops.",
+            "action": "Targeted patrols will continue in our hotspot areas in order to deter youths hanging around and causing ASB issues.  We have been actively engaging with any youths seen out and about, and educating them to the issues that they are causing.  Patrols will be continuing around the precinct area in order to alleviate any issues and to help us identify any individuals who may be causing a problem. Increased patrols will be taking place around the local shops to prevent further shoplifting offences.  A number of offenders have recently been arrested due to the Dudley North Neighbourhood Team taking a proactive stance against this issue. All hotspots for any emerging issues will be included in our patrol strategies accordingly.  We are aware that the Halloween period, paired with darker evenings are approaching, and we will be responding to any issues that are brought to our attention.",
+            "date": "2026-10-07T00:00:00",
+            "action_date": "2026-10-07T00:00:00"
+          },
+          {
+            "issue": "COSELEY: We are still receiving numerous reports about off-road bikes, which are causing Anti-Social Behaviour, and being a general nuisance for pedestrians and road users.  They are causing issues around the open spaces including Jubilee  Park and Clayton Park. There have also been reports of drug use/dealing around Roseville, and Jubilee Park.",
+            "action": "An increase in reports of Anti-Social Behaviour (ASB) has lead to increased patrols around the Coseley area in order to monitor locations and move on anyone suspected to be causing ASB.  Our presence will hopefully help to deter future problems.  Officers are engaging with any youths that are seen out and about, and educating them about the issues that they are causing. We will hopefully be involved in some joint working along side the DMBC ASB team to identify any offenders, and identify locations where off-road bikes are being stored or coming from. As always, the Neighbourhood Team will include any emerging hotspot areas in their patrol strategies to build intelligence, and deter ongoing issues.  We are aware that the Halloween period, paired with darker evenings are approaching, and we will be responding to any issues that are brought to our attention accordingly. Officers have also conducted a walkabout with Housing Officers and local Councillors within the community to speak with residents and listen to any concerns that they may have.",
+            "date": "2026-10-07T00:00:00",
+            "action_date": "2026-10-07T00:00:00"
+          },
+          {
+            "issue": "LOWER GORNAL: We are still receiving numerous reports of Anti-Social Behaviour (ASB) in the Lower Gornal area, and this includes off-road bikes causing issues on the local park. There have also been an increased number of reports of shoplifting. We are still receiving reports regarding school parking, which is causing obstructions for other road users, and also speeding vehicles around various school sites.",
+            "action": "We are still focusing on increasing patrols to help reduce the ASB issues in the area.  We are actively engaging with any youths that we see out and about, and educating them about the problems that they are causing for the general public. Patrols are taking place around the local shops in order to prevent further shoplifting offences.  A number of shop lifting offenders have been arrested recently as a result of the Dudley North Neighbourhood Team being proactive in the area. We are working with the parking enforcement team to enable a joint approach to the ongoing school parking issue. The Dudley North Neighbourhood Team will work to include any emerging hotspots in our patrol strategies to prevent ongoing issues.  We are aware that the Halloween period, paired with darker evenings are approaching, and we will be responding to any issues that are brought to our attention.",
+            "date": "2026-10-07T00:00:00",
+            "action_date": "2026-10-07T00:00:00"
+          }
+        ]
+      },
+      {
+        "title": "Brierley Hill and Wordsley",
+        "url": "https://www.police.uk/pu/your-area/west-midlands-police/",
+        "summary": "Neighbourhood overlaps the constituency; coverage is not identical to the parliamentary boundary.",
+        "people": [
+          {
+            "name": "Karen Copson",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Ryan Cox",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Joseph Donkin - Dedicated Neighbourhood Officer -  Wordsley",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Daniel Allen",
+            "rank": "Inspector"
+          },
+          {
+            "name": "Stephen Perry - Dedicated Neighbourhood Officer - Brierley Hill",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Joseph Howes",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Riley Taylor",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Katie Walker - Dedicated Neighbourhood Officer - Brierley Hill",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Qasim Ali",
+            "rank": "Sergeant"
+          },
+          {
+            "name": "Jessica Dwane - Dedicated Neighbourhood Officer - Brierley Hill",
+            "rank": "Police Constable"
+          }
+        ],
+        "priorities": [
+          {
+            "issue": "Local business’s in the Merry Hill Centre, Brierley Hill High Street and Wordsley have told us that they are concerned with the level of shop theft. Although we have seen an increase in positive results and action. Thefts from shops will still remain a priority especially coming to the summer holiday period. We are working in partnership with Dudley Trading Standards to address businesses operating on Brierley Hill High Street.",
+            "action": "To tackle retail crime, we have made several arrests and conducted several out of court disposals on known suspects. Officers have carried out regular patrols in the centre and have created a strong relationship with the Merry Hill Centre security staff and other partners around Brierley Hill and Wordsley. Local action team are perusing and making all efforts to arrest and prosecute high harm offenders.",
+            "date": "2026-10-27T00:00:00",
+            "action_date": "2026-10-27T00:00:00"
+          },
+          {
+            "issue": "Businesses and shoppers have told us that they are concerned about shoplifting and business crime in Brierley Hill and Wordsley area",
+            "action": "We are continuing to work alongside our partners and local business around Brierley Hill to deter shoplifting offences. This includes close partnership work with security staff and shop workers, targeted patrols by our local officers and crime reduction advice and support. Local action team are actively perusing and arresting repeat offenders and pushing for prosecutions.",
+            "date": "2026-10-27T00:00:00",
+            "action_date": "2026-10-27T00:00:00"
+          },
+          {
+            "issue": "Local residents have told us about issues related to anti-social behaviour and off road bikes.",
+            "action": "PCSO have been and will continue to conduct speedwatch operations across the local area in order to tackle speeding and improve road safety. There has been regular patrolling in the area to where the bulk of the reports are emerging. the local police is looking to implement the problem solving plan approach to this problem and work with partner agencies including council to carry out operations. We have conducted several drone operations with Dudley council to tackle the increase in offroad bikes causing Anti-Social Behaviour using a drone with thermal imaging and tracking.",
+            "date": "2026-10-27T00:00:00",
+            "action_date": "2026-10-27T00:00:00"
+          },
+          {
+            "issue": "Local residents have raised concerns about cars causing ASB on the multi-story carpark of the Merry Hill Centre and Waterfront, which includes speeding.",
+            "action": "PCSOS have been patrolling the area more frequently in an effort to identify offenders and deter crime. The efforts are on going and the team is monitoring new reports and taking prompt actions against them.",
+            "date": "2026-10-27T00:00:00",
+            "action_date": "2026-10-27T00:00:00"
+          },
+          {
+            "issue": "Mischief Fortnight approaches as it does every year - period being 23/10/26 through 08/11/26. Around this time every year there is an increase in anti-social behaviour such as fireworks related ASB. There is also an increase in other crime such as burglaries and robberies due to darker nights.",
+            "action": "The local NHT will be looking to increase patrols and targeted activity to disrupt crime and raise awareness.",
+            "date": "2026-10-23T00:00:00",
+            "action_date": "2026-10-27T00:00:00"
+          }
+        ]
+      },
+      {
+        "title": "Kingswinford, Wall Heath and Pensnett",
+        "url": "https://www.police.uk/pu/your-area/west-midlands-police/",
+        "summary": "Neighbourhood overlaps the constituency; coverage is not identical to the parliamentary boundary.",
+        "people": [
+          {
+            "name": "Michele Smith",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Lee Gilbert - Dedicated Neighbourhood Officer - Kingswinford and Wall Heath",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Rebecca Lilley - Local Action Team",
+            "rank": "Sergeant"
+          },
+          {
+            "name": "Daniel Allen",
+            "rank": "Inspector"
+          },
+          {
+            "name": "Nathan Jukes - Dedicated Neighbourhood Officer - Kingswinford South",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Steven Monk - Dedicated Neighbourhood Officer",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Andrew Taylor",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Yakubu Piero",
+            "rank": "PCSO"
+          }
+        ],
+        "priorities": [
+          {
+            "issue": "Retail crime and Repeat Offending We will continue to tackle retail crime across Kingswinford and Pensnett, with particular focus on identifying repeat offenders and supporting businesses affected by shop theft.  Our officers will work closely with local retailers, carry out targeted patrols and use information gathered to identify those responsible.  We will take positive action where offences are identified and continue working with businesses to prevent further offending.",
+            "action": "The neighbourhood officers will carry out targeted patrols in retail areas and work closely with local businesses to identify repeat offenders and emerging crime patterns.  We will use information provided by retailers and the wider community to support investigations, identify those responsible and take positive action where offences are identified.  We will work with partner agencies to explore opportunities to prevent further offending.",
+            "date": "2026-11-01T00:00:00",
+            "action_date": "2026-11-01T00:00:00"
+          },
+          {
+            "issue": "ASB – E-bikes, E-Scooters and Off- Road Bikes We recognise the concerns raised by residents regarding the nuisance and dangerous use of e-bikes, e-scooters and off-road bikes across our neighbourhoods.  During November, our officers will focus on identifying those responsible, carving out targeted patrols and gathering intelligence to support enforcement activity.  We will continue working with partner agencies to address repeat locations and take appropriate action against those putting others at risk.",
+            "action": "Neighbourhood officers will conduct targeted patrols at identified hotspot locations and gather intelligence relating to individuals involved in dangerous or anti-social use of these vehicles.  We will work with specialist policing teams and partner agencies to identify offenders, disrupt nuisance activity and use available enforcement powers, including vehicle seizure where appropriate.  Community reports will help us identify repeat locations and direct our resources effectively.",
+            "date": "2026-11-01T00:00:00",
+            "action_date": "2026-11-01T00:00:00"
+          },
+          {
+            "issue": "Burglary and Vehicle Crime Prevention With the darker evenings now upon us, our neighbourhood teams will be focusing on preventing burglary and theft from motor vehicles across our wards.  Officers/PCSOs will carry out visible patrols in areas of concern, provide crime prevention advice and work with residents to identify suspicious activity.  We encourage our communities to report concerns so we can respond to emerging issues and target our patrols effectively.",
+            "action": "Neighbourhood officers will increase their focus on residential areas and locations where burglary and vehicle crime concerns have been identified.  Officers will carry out intelligence led patrols, engage with residents and provide practical crime prevention advice.  We will work with colleagues across the force to identify emerging patterns of offending and target individuals suspected of being involved in these offences.",
+            "date": "2026-11-01T00:00:00",
+            "action_date": "2026-11-01T00:00:00"
+          },
+          {
+            "issue": "ASB Halloween and darker nights. As the darker nights draw in and Halloween approaches, the team will be focusing on the areas that we know ASB and nuisance can increase at this time of the year. Our PCs and PCSOs will be out and about, carrying out visible patrols and paying particular attention to our known hotspot areas.  We will also be working with local partners and using the information we receive from residents to make sure we are in the right places at the right time.",
+            "action": "Halloween is meant to be fun, and we certainly do not want to spoil that.  However, what might seem like harmless mischief to one person can be frightening and intimidating to someone else, particularly our older and more vulnerable residents. We will be keeping an eye out for issues such as criminal damage; fireworks being used irresponsibly and groups causing ASB. Please remember there is a difference between a bit of spooky fun and behaviour that causes problems for somebody else.",
+            "date": "2026-11-01T00:00:00",
+            "action_date": "2026-11-05T00:00:00"
+          },
+          {
+            "issue": "Road Safety and Inconsiderate Parking Road safety and inconsiderate parking continue to be concerns raised by our communities, particularly around schools, residential streets and busy junctions.  During November, our officers will focus on locations where obstructive parking and poor driving behaviour create risks for pedestrians and other road users.  We will work alongside local authority partners, engage with motorists and take enforcement action where appropriate to improve safety for everyone",
+            "action": "Officers will undertake patrols at locations where road safety and parking concerns have been raised, particularly around schools and residential streets. We will engage with motorists regarding inconsiderate and obstructive parking and work alongside Dudley Council and relevant enforcement teams to address persistent problems.  Where offences fall within police powers, appropriate enforcement action will be considered, with a focus on improving safety for pedestrians and other road users.",
+            "date": "2026-11-01T00:00:00",
+            "action_date": "2026-11-01T00:00:00"
+          }
+        ]
+      },
+      {
+        "title": "Dudley Central",
+        "url": "https://www.police.uk/pu/your-area/west-midlands-police/",
+        "summary": "Neighbourhood overlaps the constituency; coverage is not identical to the parliamentary boundary.",
+        "people": [
+          {
+            "name": "Ange Perry",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Clare Tugby",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Roger Wright",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Paul Williamson - Dedicated Neighbourhood Officer - Dudley Town Centre",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Muhammad Adnan",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Jed Taylor - Dedicated Neighbourhood Officer Dudley Town Centre",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Millie Clark - Dedicated Neighbourhood Officer - St. James",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Tom Wright - Dedicated Neighbourhood Officer Castle & Priory",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Kyle Green",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Alex Deakin",
+            "rank": "Sergeant"
+          },
+          {
+            "name": "Miles Patterson",
+            "rank": "Inspector"
+          },
+          {
+            "name": "Ekminder Thind",
+            "rank": "Sergeant"
+          }
+        ],
+        "priorities": [
+          {
+            "issue": "Dudley Town Centre - Anti Social Behaviour",
+            "action": "The Dudley Central Neighbourhood Policing Team continue to conduct regular targeted ASB patrols within Dudley Town Centre, ensuring that we are engaging with members of the public and local businesses to identify and address the issues that they are having. One of the recent issues that has been highlighted to us is that groups of young people are accessing the rooves of various premises within the town centre, whereby they are throwing items down towards customers/residents.  To tackle this issue, the dedicated neighbourhood officer for the area has arranged and attended a joint meeting with the local councillor, whereby they have completed a walkthrough of the area and identified the access points that are being used.  Once identified, these access points were secured, ensuring that only the relevant business owners have means to access these parts of the premises.  Civil interventions have and will continue to be used on those responsible. Dudley Council ASB team have created a streamlined process, allowing for officers to process breaches of the public space protection order (PSPO) more efficiently and effectively.  This civil intervention has been and will continue to be used against people drinking / using drugs in public spaces, littering and causing general ASB/nuisance.  Local neighbourhood officers are working with Dudley Council Street Wardens to enforce this.",
+            "date": "2026-10-01T00:00:00",
+            "action_date": "2026-10-05T00:00:00"
+          },
+          {
+            "issue": "Dudley Town Centre - Serious Youth Violence",
+            "action": "We have implemented a dedicated patrol plan, which ensures that officers are conducting high-visibility patrols within Dudley Town Centre, in particular around the marketplace, various campus locations at  Dudley College, Priory Park and Coronation Gardens.  We have used crime trend data to identify key times for these patrols to take place.  Our aim is to deter people from congregating and committing crime in these areas. We regularly work with our Guardian Task Force completing plain clothed patrols which allow for further positive action to be taken, including intelligence-led stop and search and enforcement (arrest), which will prevent and deter youths from committing acts of serious violence. We also complete regular engagement events at our educational establishments, promoting awareness in regards to serious youth violence and knife crime, ensuring that we are effectively advising students/staff on crime prevention strategies. We recently effected the arrest of an individual for possession of a kitchen knife in a public place within Dudley Town Centre.  They have been charged with the offence and are due to appear in court in November 2026.  They have also been referred to our local youth offender management team and our external partners who work with habitual knife carriers to reduce the risk of re-offending.",
+            "date": "2026-10-01T00:00:00",
+            "action_date": "2026-10-05T00:00:00"
+          },
+          {
+            "issue": "Milking Bank & Russells Hall - Anti Social Behaviour, Off road bikes and drug use/supply",
+            "action": "Anti Social Behaviour patrols and enforcement in hotspot areas such as Claverley Court, Butterfield Court, Russells Hall Park, Grange Park, Milking Bank Park and Osprey Drive.  We have been focusing our patrols in these areas and will look to enforce and take positive action. We have conducted a number of police surgeries and multi-agency crime prevention engagement events within the locality to provide our communities with the opportunity to engage and discuss any ASB issues with the team. We are also regularly liaising with our partners to provide a cohesive approach to dealing with persistent problems and issues Our team has and will continue to schedule operations with our off-road bike team who are part of our road crime department.  This team are in very high demand; however, we recognise that this is a major issue on our areas, so we are booking the team in advance, so that we can maximise the amount of off-road bike operations we are able to complete. We have also completed some work with the Dudley Council drone team, with a view to tracking those that are causing anti-social behaviour, especially those doing so on off-road bikes, back to their addresses and identifying them so that we can take appropriate action against them. We will enforce against those that are using/supplying drugs, whether that be by way of executing warrants at relevant addresses or arresting/charging those responsible.  We are also utilising civil interventions to tackle drug use via CPWs and out of court disposals. We have also been alerted to several issues occurring in the surrounding streets of Grange Park.  We have conducted some partnership work with DMBC who are working on making the park more secure and are looking to place a mobile dome camera in the locality.  We are also looking to place up signage in the area as a deterrent for gatherings and illegal activity.",
+            "date": "2026-10-01T00:00:00",
+            "action_date": "2026-10-05T00:00:00"
+          },
+          {
+            "issue": "Castle & Priory - ASB, Off-road bikes & Shop Theft / Robbery",
+            "action": "The Dudley Central Neighbourhood Team will continue to conduct regular targeted patrols of known hotspot areas, such as The Greens, Priory Park, Wrens Nest Nature Reserve and Castle Mill Woods, with a view to deterring ASB / criminal behaviour and maximising enforcement opportunities against those that are engaging in this behaviour. Our team has and will continue to schedule operations with our off-road bike team who are part of our road crime department.  This team are in very high demand; however, we recognise that this is a major issue on our areas, so we are booking the team in advance, so that we can maximise the amount of off-road bike operations we are able to complete. We have also completed some work with the Dudley Council drone team, with a view to tracking those that are causing anti-social behaviour, especially those doing so on off-road bikes, back to their addresses and identifying them so that we can take appropriate action against them. It has been raised to us that there has been a number of thefts and robberies occurring at some of our business premises within this area, most notably Tesco (Birmingham New Road).  Our officers are regularly completing police surgeries at these premises, ensuring that we maintain a presence within them, to deter potential offenders.  We are also holding regular meetings with security and management of these premises to advise them around crime prevention and securing sufficient evidence to assist us in securing charges on theft offenders.  Our team also work closely with our Neighbourhood Crime Team to ensure that any violent offenders are identified and brought to justice. It has also been identified that there are a number of rough sleepers locating themselves in and around Tesco, Birmingham New Road, some of which are being rude and abusive to staff/customers.  With the Vagrancy Act no longer being a part of law, we will be looking to address this via the civil intervention route (CPW > CPN > CBO).  A problem-solving plan is now in place and we will work with our partners to tackle this issue.",
+            "date": "2026-10-01T00:00:00",
+            "action_date": "2026-10-05T00:00:00"
+          },
+          {
+            "issue": "ASB - Halloween",
+            "action": "Dudley Neighbourhood Policing Team are aware that the amount of cases of anti-social behaviour is likely to increase during the Halloween period. As a result, we are looking to take the following action to tackle this: Increased ASB 'hotspot' patrols Joint visits with Trading Standards to fireworks retailers and other stores selling items of a similar nature Increased visits to local ASB nominals with live civil interventions Crime / ASB prevention visits Licensing checks.",
+            "date": "2026-10-01T00:00:00",
+            "action_date": "2026-10-05T00:00:00"
+          }
+        ]
+      },
+      {
+        "title": "Netherton, Quarry Bank and St Thomas",
+        "url": "https://www.police.uk/pu/your-area/west-midlands-police/",
+        "summary": "Neighbourhood overlaps the constituency; coverage is not identical to the parliamentary boundary.",
+        "people": [
+          {
+            "name": "William Paice - Dedicated Neighbourhood Officer - Netherton, Woodside and St Andrews",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Umit Koc",
+            "rank": "PCSO"
+          },
+          {
+            "name": "Henry Anderson - Dedicated Neighbourhood Officer - St Thomas",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Mohammad Morgan",
+            "rank": "PCSO"
+          },
+          {
+            "name": "George Dehar - Dedicated Neighbourhood Officer - Quarry Bank and Dudley Wood",
+            "rank": "Police Constable"
+          },
+          {
+            "name": "Ekminder Thind",
+            "rank": "Sergeant"
+          },
+          {
+            "name": "Miles Patterson",
+            "rank": "Inspector"
+          }
+        ],
+        "priorities": [
+          {
+            "issue": "Prolific shoplifters targeting One-Stop stores across our area. They will then attend local pubs to sell their stolen items.",
+            "action": "We are continuing to work alongside our partners and local business across our area. This includes close partnership work with security staff and shop workers, targeted patrols by our local officers and crime reduction advice and support. DC3 have conducted a plain clothes op at One Stop Buffery Road – no theft offences took place during officers’ presence. Officers were re-directed mid Op to a high risk misper during which a theft occurred which has been crimed and CCTV secured. When officers returned to the Op no further theft offences took place. Further plain clothes op is being planned and DC3 are working with the new retail crime team that is being set up.",
+            "date": "2026-10-08T00:00:00",
+            "action_date": "2026-10-08T00:00:00"
+          },
+          {
+            "issue": "Off Road Bikes. We receive regular reports regarding off road bikes causing issues on our estates and local parks.",
+            "action": "DC3 conducted an off roads bike opp (Bumble Hole), further such Ops to be conducted. We are continuing with our efforts to cover relevant areas, and a further Op is being planned as we speak, including plain clothes.",
+            "date": "2026-10-08T00:00:00",
+            "action_date": "2026-10-08T00:00:00"
+          },
+          {
+            "issue": "Significant number of burglaries and car thefts, predominantly within the St Thomas and Netherton areas.",
+            "action": "Ongoing proactive patrols in the area to deter offences and identify suspects, including intelligence-led patrol strategies and partnership working. Proactive patrols are being conducted to deter offences in these areas, eg: running vehicles through, and visible patrols in burglary hot spot areas (eg the ram raid at the pear tree industrial estate – we will continue with these). I have been keeping an eye out on the overnight crime so that if any specific area/s need targeted patrols then we can conduct those too.",
+            "date": "2026-10-08T00:00:00",
+            "action_date": "2026-10-08T00:00:00"
+          },
+          {
+            "issue": "DC3 will be visiting all retail premises within Netherton, Quarry Bank and St Thomas to provide advice, enforcement, target hardening and reassurance, as no identified fireworks retailers within these areas that are currently exist. Engagement and Disruption Visits to Local ASB Nominals with live civil interventions Crime and ASB Prevention Visits to Local Community Hubs / Businesses. Consideration of: Zero Tolerance ASB Partnership Operations (support of GTF, Safer Travel, Mounted, Specials, DMBC Street Wardens, DMBC ASB Team) Licensing Checks, NTE Patrols, and consideration of trading Standards Joint Visits Liaising with the Fire Service to identify problem areas eg pop up shops selling fireworks.",
+            "action": "DC3 will be visiting all retail premises within Netherton, Quarry Bank and St Thomas to provide advice, enforcement, target hardening and reassurance, as no identified fireworks retailers within these areas that are currently exist. Engagement and Disruption Visits to Local ASB Nominals with live civil interventions Crime and ASB Prevention Visits to Local Community Hubs / Businesses. Consideration of: Zero Tolerance ASB Partnership Operations (support of GTF, Safer Travel, Mounted, Specials, DMBC Street Wardens, DMBC ASB Team) Licensing Checks, NTE Patrols, and consideration of trading Standards Joint Visits",
+            "date": "2026-10-08T00:00:00",
+            "action_date": "2026-10-08T00:00:00"
+          }
+        ]
+      }
+    ],
+    "note": "West Midlands Police neighbourhoods intersecting the published approximate Dudley constituency. Priorities and officer lists are supplied by the force; their dates may be older than today’s retrieval."
+  }
+}

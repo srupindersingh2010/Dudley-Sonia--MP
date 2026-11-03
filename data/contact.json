@@ -1,0 +1,42 @@
+{
+  "key": "contact",
+  "source": "https://members-api.parliament.uk/api/Members/5274/Contact",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [
+      {
+        "title": "Parliamentary office",
+        "url": "https://members.parliament.uk/member/5274/contact",
+        "summary": "House of Commons, London, SW1A 0AA",
+        "email": "sonia.kumar.mp@parliament.uk",
+        "phone": null
+      },
+      {
+        "title": "Constituency office",
+        "url": "https://members.parliament.uk/member/5274/contact",
+        "summary": "Constituency office",
+        "email": null,
+        "phone": "01384 885959"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/SoniaKumarMP",
+        "summary": "Account linked from Parliament."
+      },
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/soniakumarmp/",
+        "summary": "Account linked from Parliament."
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/company/soniakumarmp/",
+        "summary": "Account linked from Parliament."
+      }
+    ],
+    "note": "For a surgery appointment contact the MP’s office through its official email or telephone. Confirm the location before visiting. Casework is for constituents; this site collects no casework."
+  }
+}

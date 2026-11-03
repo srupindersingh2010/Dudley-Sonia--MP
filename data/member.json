@@ -1,0 +1,17 @@
+{
+  "key": "member",
+  "source": "https://members-api.parliament.uk/api/Members/5274",
+  "retrieved_at": "2026-11-03T01:00:17+00:00",
+  "checked_at": "2026-11-03T01:00:17+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [],
+    "name": "Sonia Kumar",
+    "party": "Labour",
+    "constituency": "Dudley",
+    "elected": "2024-07-04",
+    "portrait": "https://members-api.parliament.uk/api/Members/5274/Portrait?cropType=ThreeFour",
+    "note": "Official Parliament member record. Portrait: UK Parliament, licensed under the Parliamentary Copyright Licence."
+  }
+}

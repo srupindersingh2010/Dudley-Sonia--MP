@@ -1,0 +1,12 @@
+{
+  "key": "portrait",
+  "source": "https://members-api.parliament.uk/api/Members/5274/Portrait",
+  "retrieved_at": "2026-11-03T01:02:48+00:00",
+  "checked_at": "2026-11-03T01:02:48+00:00",
+  "status": "ok",
+  "error": null,
+  "data": {
+    "items": [],
+    "note": "Official UK Parliament portrait; Parliamentary Copyright Licence applies."
+  }
+}
