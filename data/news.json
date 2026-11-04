@@ -1,21 +1,12 @@
 {
   "key": "news",
   "source": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-  "retrieved_at": "2026-11-03T14:45:29+00:00",
-  "checked_at": "2026-11-03T14:45:29+00:00",
+  "retrieved_at": "2026-11-04T14:58:10+00:00",
+  "checked_at": "2026-11-04T14:58:10+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
-      {
-        "title": "Sonia Kumar - Politics.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sbDJDVl8tWFJGSm5wTEZHYVljUnhMb29SMjYtSlRfRE5fcGs5eXM2VlVWak8xSzlLOTRQNG02M1FHWDAtaFdLNFNRZ3RBN1dUUUdDQmNoY3RVUQ?oc=5",
-        "date": "2026-11-03T09:12:18+00:00",
-        "publisher": "Politics.co.uk",
-        "summary": "Politics.co.uk — read the original article.",
-        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
-      },
       {
         "title": "MPs Sonia Kumar and Alex Ballinger see how Dudley Reservists train for drone warfare - Dudleynews.co.uk",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGw1ak1Bc3o3WE1ua3JDYnUxRHZmeEdlSG9SM3o4LUhtcVhsb0NyX3dTNGdndm5EcGxiOExEYTF6bUVyTHJWMkVobVJldzYxVk9sMEUxWDA3bURWblVhcXIxdktzQ2ctQkdSb3FwSGdfdDVPb2FYLVByekFDVnJqeUxBcnZsYno0cWVjX1lnVW5lOHdNSDdERzZQbjFLdw?oc=5",
@@ -23,7 +14,16 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
+      },
+      {
+        "title": "Sonia Kumar - Politics.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sbDJDVl8tWFJGSm5wTEZHYVljUnhMb29SMjYtSlRfRE5fcGs5eXM2VlVWak8xSzlLOTRQNG02M1FHWDAtaFdLNFNRZ3RBN1dUUUdDQmNoY3RVUQ?oc=5",
+        "date": "2026-09-23T23:31:26+00:00",
+        "publisher": "Politics.co.uk",
+        "summary": "Politics.co.uk — read the original article.",
+        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP - Backing the people who keep Dudley going - Dudleynews.co.uk",
@@ -32,7 +32,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "MP Sonia Kumar welcomes electricity VAT cut for Dudley households - Dudleynews.co.uk",
@@ -41,7 +41,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP - working for Dudley - Dudleynews.co.uk",
@@ -50,7 +50,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP backs health hub plan for Dudley town centre - Dudleynews.co.uk",
@@ -59,16 +59,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
-      },
-      {
-        "title": "MP Sonia Kumar welcomes funding to help Dudley young people into work - Dudleynews.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3VGTUdmT0c5V21vT2VDekpZYXlKMzQ5eVZ0cEc2UEt6a1ZmaTcyaC04RF9rSEFVUXdXdTU2THBJSEhjanVfYzVoeld0NWNwcEVNTFViZHZSZDFJMWhUZnplNWVlRmc3Y3JTT3dEeV8xZ1lSdTc5SWtid3cwN3pBSVVPejR1MU0yTVpvUk16TGZNTU96Ync?oc=5",
-        "date": "2026-06-08T07:00:00+00:00",
-        "publisher": "Dudleynews.co.uk",
-        "summary": "Dudleynews.co.uk — read the original article.",
-        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Residents invited to meet with Dudley MP Sonia Kumar this weekend - Dudleynews.co.uk",
@@ -77,7 +68,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "tgthr. appoints Shamima Pereira and Sonia Kumar in leadership roles - Exchange4Media",
@@ -86,7 +77,7 @@
         "publisher": "Exchange4Media",
         "summary": "Exchange4Media — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Tgthr appoints Shamima Pereira as business head and Sonia Kumar as AVP strategy and brand solutions lead - ET BrandEquity",
@@ -95,7 +86,7 @@
         "publisher": "ET BrandEquity",
         "summary": "ET BrandEquity — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP Column: Investment, Action and Delivering for Dudley - Dudleynews.co.uk",
@@ -104,16 +95,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
-      },
-      {
-        "title": "Sonia Kumar calls for wider change beyond Dudley Metro - Dudleynews.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHZGOVUySmdWTmc4bFZwY2JlWFhlZjhWWUJuWWhQTDg5N1pwZGFyaHB2azRzLXpLYm9sZzhGd2lWbF9yWW5UOXNsdGdxM2cxeFRwa3pOUXVuMWd3dEJaS0NaX1hfaEZJeXVTVmg1cGc4YVpUVFpDSGgwVXlocGEzaGNrVlFlTEhpdDJseEd2MDNHektlNFRybDN0TDI0ODlzM0E?oc=5",
-        "date": "2026-04-15T07:00:00+00:00",
-        "publisher": "Dudleynews.co.uk",
-        "summary": "Dudleynews.co.uk — read the original article.",
-        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "The House | Sonia Kumar MP On Training Physiotherapists In A War Zone And Why She Quit The NHS - Politics Home",
@@ -122,7 +104,7 @@
         "publisher": "Politics Home",
         "summary": "Politics Home — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP - Safer Streets, Smoother Roads, Stronger Dudley - Dudleynews.co.uk",
@@ -131,7 +113,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP: A year of standing up for Dudley and the work still to do - Dudleynews.co.uk",
@@ -140,7 +122,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP: ‘How Britain’s leaky loos waste over a billion litres every day’ - Politics.co.uk",
@@ -149,16 +131,7 @@
         "publisher": "Politics.co.uk",
         "summary": "Politics.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
-      },
-      {
-        "title": "Sonia Kumar MP: Police investment, local renewal and fairness in finance - Dudleynews.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1JWb3hIdS1ZenpFODR5UEFSa3l1LXZNUFVlSmI0SjlRUU9lc3RVRDBQcnhNcFZqMHNLdVgySXJ1eC15SnNtYUlDV1JodC1aaGxRRzVPWjBEX0JBRjA3c0daZS0zS3p5UjNCWklIUS1MUTF1Tm94dUF4dGVfdzVzVF9lUlVYR0NpcnF2bHk1empKUFNlbkdMblBnOA?oc=5",
-        "date": "2025-11-20T08:00:00+00:00",
-        "publisher": "Dudleynews.co.uk",
-        "summary": "Dudleynews.co.uk — read the original article.",
-        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP: Standing up for Dudley in 'inspiring' month - Dudleynews.co.uk",
@@ -167,7 +140,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP: Health innovation, safer streets, and skills for the future - Dudleynews.co.uk",
@@ -176,7 +149,7 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "title": "Sonia Kumar MP: Funding wins, safer streets, and celebrating local creativity - Dudleynews.co.uk",
@@ -185,7 +158,34 @@
         "publisher": "Dudleynews.co.uk",
         "summary": "Dudleynews.co.uk — read the original article.",
         "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
-        "source_retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
+      },
+      {
+        "title": "CSP member Sonia Kumar champions physiotherapy in parliament debate - The Chartered Society of Physiotherapy",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUhpM2xnWmJFUFNNWWVucEREWHdhSm5mM29JVVRvSHhMNEEzd2RKbWx5WjU2a3Vfa3oxZ1d5RDNBdEpuMG9NWm1mbVJlU0g1LUhfbEZUMHF2ZW1ZWUo3MTA2Z1VVS2RobTlQeUV3dzJSZWdwbEtHSjFnMkQyNjE0M3VOb3BnTldIMTVjVmZ6MnpMd19SQ0txNk84blNZa1NudnNaek1R?oc=5",
+        "date": "2025-02-28T08:00:00+00:00",
+        "publisher": "The Chartered Society of Physiotherapy",
+        "summary": "The Chartered Society of Physiotherapy — read the original article.",
+        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
+      },
+      {
+        "title": "MP Sonia Kumar kicks off 2025 by celebrating Dudley - Dudleynews.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY05xSTdGbmhzRmNrTXBNTDhRS2ljR3NpMVJsS1FuenR5R1MxLXU1RXFkbXVDbnBGUi15SnVTRlk5dzk4WW5EOUhYQmFYTXVDSUNia3RBNnVFNUNDbEJKTV9FYkxZWkRHNXBqbzR5SVl2LXBTQVhabUQyLXJBRHR6bVZmMmYya1R4aGdBa0dBZnFJekw5REJB?oc=5",
+        "date": "2025-01-31T08:00:00+00:00",
+        "publisher": "Dudleynews.co.uk",
+        "summary": "Dudleynews.co.uk — read the original article.",
+        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
+      },
+      {
+        "title": "MP Sonia Kumar champions MSK physiotherapy in parliament - The Chartered Society of Physiotherapy",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnM0MjdKdE5DN3pDeXpEYUp5ZjJyeTB4X1gxazZvLUJvUEYxYWU1dVJDemZiWlc2VXUwTGVoWC1xenhzWWRfQS0zMUNpN2c3dUxGTmZmbVAzRERmei1sRVZFTXRhb2ZNRjlHT3d6ZWV4b0JnR3pIYVh6VGUzVEtmOFFPVWVjOXNnRWJvUmNEc3Y1WC1WU2pZ?oc=5",
+        "date": "2024-12-18T08:00:00+00:00",
+        "publisher": "The Chartered Society of Physiotherapy",
+        "summary": "The Chartered Society of Physiotherapy — read the original article.",
+        "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
+        "source_retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       }
     ],
     "source_checks": [
@@ -199,58 +199,34 @@
         "url": "https://feeds.bbci.co.uk/news/england/birmingham_and_black_country/rss.xml",
         "status": "ok",
         "matching_items": 0,
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en",
         "status": "ok",
-        "matching_items": 28,
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "matching_items": 24,
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       }
     ],
     "feed_cache": {
       "https://feeds.bbci.co.uk/news/england/birmingham_and_black_country/rss.xml": {
         "items": [],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en": {
         "items": [
           {
             "title": "Sonia Kumar - Politics.co.uk",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sbDJDVl8tWFJGSm5wTEZHYVljUnhMb29SMjYtSlRfRE5fcGs5eXM2VlVWak8xSzlLOTRQNG02M1FHWDAtaFdLNFNRZ3RBN1dUUUdDQmNoY3RVUQ?oc=5",
-            "date": "2026-11-03T09:12:18+00:00",
+            "date": "2026-09-23T23:31:26+00:00",
             "publisher": "Politics.co.uk",
             "summary": "Politics.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "The House | Sonia Kumar MP On Training Physiotherapists In A War Zone And Why She Quit The NHS - Politics Home",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTZDb1o5My1NRkY3WE5idHVBUXdkNUQxUUFHdlpkMUlzZkxHNVltbjVhb0JybHZfM3IzV1J0RDVEYkZud1FLVU9CaXRGMkRjamNwT0tmTDVkLXNWeFZ0Nmx4Q1BVNmVSbkN5NkFGTVppN1hVcUEyeGh1YWVjb2lQcXBtVVlta0p2Zy1pSF9ndDRvRE9RYTBrTTJfLWh4VXh1YzJwUFYtSGZPQQ?oc=5",
-            "date": "2026-03-28T07:00:00+00:00",
-            "publisher": "Politics Home",
-            "summary": "Politics Home — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
             "title": "MPs Sonia Kumar and Alex Ballinger see how Dudley Reservists train for drone warfare - Dudleynews.co.uk",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGw1ak1Bc3o3WE1ua3JDYnUxRHZmeEdlSG9SM3o4LUhtcVhsb0NyX3dTNGdndm5EcGxiOExEYTF6bUVyTHJWMkVobVJldzYxVk9sMEUxWDA3bURWblVhcXIxdktzQ2ctQkdSb3FwSGdfdDVPb2FYLVByekFDVnJqeUxBcnZsYno0cWVjX1lnVW5lOHdNSDdERzZQbjFLdw?oc=5",
             "date": "2026-10-12T07:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "Sonia Kumar MP - working for Dudley - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjJSb2V6ZGVPeC1UZkVXMFpzdV9DWmppN1JGUE5rcmoxOHJaTjA1TV9id0o2OG9QRjg5Q2VJbl9qQkhSRHFkcWwzcndsTHVSUFh0c0c1aWVoY2tSd0pmem1VSWp1SGhvSkxnYXJPbjAtOXdZSWNUWGZ1NFNpNGYyOA?oc=5",
-            "date": "2026-07-16T07:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "Sonia Kumar MP backs health hub plan for Dudley town centre - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjlHMU8xQnk5NGc0WFJzV1d2RzJZU0RUVHJWMTNlOVNwcW9iYTRSYTBoMlQ5QVZVb3lHOEFGbF9GME5YMUM2NjhVT1RXcUh6a3BOVUgtbURfN3ZXWjhjcDVFZHFEYU1leTZCbGxuNXdnNWo1TkpZUGg2Q1M3cDJEQjQ5T3VfUXVlcy1OX18zY1lCUExPR1E?oc=5",
-            "date": "2026-06-27T07:00:00+00:00",
             "publisher": "Dudleynews.co.uk",
             "summary": "Dudleynews.co.uk — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
@@ -264,41 +240,17 @@
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Sonia Kumar MP - Backing the people who keep Dudley going - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUZYTXAxMUM0S3hBT3pQRjhpWHZoVU53enY5NVBMN0c1Y1l5U0JpQ2k1dVBCT1pBeE91dFVHQzZlUk5QNVRCYVJXVFNmTE5PVnh2TUtiZnNNT3l3R04zUEpMRHpYUTl4MVdHZzFrXzFWTVlfbVVkczl3SUJvdjFYRUZyVDZsYzBucFNDWjYzMFoyQVd4T0Z2Vg?oc=5",
-            "date": "2026-09-17T07:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
+            "title": "The House | Sonia Kumar MP On Training Physiotherapists In A War Zone And Why She Quit The NHS - Politics Home",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTZDb1o5My1NRkY3WE5idHVBUXdkNUQxUUFHdlpkMUlzZkxHNVltbjVhb0JybHZfM3IzV1J0RDVEYkZud1FLVU9CaXRGMkRjamNwT0tmTDVkLXNWeFZ0Nmx4Q1BVNmVSbkN5NkFGTVppN1hVcUEyeGh1YWVjb2lQcXBtVVlta0p2Zy1pSF9ndDRvRE9RYTBrTTJfLWh4VXh1YzJwUFYtSGZPQQ?oc=5",
+            "date": "2026-03-28T07:00:00+00:00",
+            "publisher": "Politics Home",
+            "summary": "Politics Home — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Residents invited to meet with Dudley MP Sonia Kumar this weekend - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHE4eEFHR2NpQTh0dlJMeVd2X19icl9vUUNGdDVPSk02NDFXaXBMakdWTEViVW56VWFYTm94NkROcE50bVppQ0RwQzBlYUduNUtZVmYxT3lFZXRraC1qOUVMV25qbERCNzM0OHd5QnBhUFltdkxiU3RsQzh6aF84YWZaV0hLZk5jREl3?oc=5",
-            "date": "2026-05-29T07:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "Sonia Kumar MP Column: Investment, Action and Delivering for Dudley - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVm1SMzAycVJvcTJqMmhKYklOeXM2eFVNcGJucUg3Und4MTJ6QzV4YlV6M2ZFZ05WNFA3Z1hqMlY5cmR1bUV6d1J6VklUazVmYUZlZUY2R0RpbHlndTFNSkcxM2dZVjBjU1Vkb2lPN2dXYjdrN3RFSXNSNXpjQ0FiRGhNM1B2YjJRVG5J?oc=5",
-            "date": "2026-04-23T07:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "Sonia Kumar MP - Safer Streets, Smoother Roads, Stronger Dudley - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTG1HUFVKbnBVTkVyTTRWQ3Q0M200UzlDT0dERDVPUGZCVkluemdsRkowOWpPNWUwQWpGN0hPRl8yWFRJcEVkYmMwRHNFd1ZCM0JYZ29ZNkZKa0dxbGxzc042WnlKQXFxckRncTBTYlg3UnR3TFlHcFZNZkJza0pUbkl3TTh3SVVU?oc=5",
-            "date": "2026-02-20T08:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "Sonia Kumar MP: A year of standing up for Dudley and the work still to do - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnNudzh3b08tUVlVTXVmYnB0UUNYSmJtWU1RVEpTTGdVYUZ0eVZvSDRHYjF3UWhNX3JKQzBYcVRuS2xUQWcyajg4TlEwOHVZQjlUN1RTbXdnT1VTTjFDbG5STDdDVHRjOUV2dGliMVpoZUVDODZ1ZGVDck00QmlDbF9EZGIyUWRyV2RoNWtHZ2IyV3NMTkE?oc=5",
-            "date": "2025-12-22T08:00:00+00:00",
+            "title": "Sonia Kumar MP - working for Dudley - Dudleynews.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjJSb2V6ZGVPeC1UZkVXMFpzdV9DWmppN1JGUE5rcmoxOHJaTjA1TV9id0o2OG9QRjg5Q2VJbl9qQkhSRHFkcWwzcndsTHVSUFh0c0c1aWVoY2tSd0pmem1VSWp1SGhvSkxnYXJPbjAtOXdZSWNUWGZ1NFNpNGYyOA?oc=5",
+            "date": "2026-07-16T07:00:00+00:00",
             "publisher": "Dudleynews.co.uk",
             "summary": "Dudleynews.co.uk — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
@@ -312,35 +264,51 @@
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Sonia Kumar calls for wider change beyond Dudley Metro - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHZGOVUySmdWTmc4bFZwY2JlWFhlZjhWWUJuWWhQTDg5N1pwZGFyaHB2azRzLXpLYm9sZzhGd2lWbF9yWW5UOXNsdGdxM2cxeFRwa3pOUXVuMWd3dEJaS0NaX1hfaEZJeXVTVmg1cGc4YVpUVFpDSGgwVXlocGEzaGNrVlFlTEhpdDJseEd2MDNHektlNFRybDN0TDI0ODlzM0E?oc=5",
-            "date": "2026-04-15T07:00:00+00:00",
+            "title": "Sonia Kumar MP - Backing the people who keep Dudley going - Dudleynews.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUZYTXAxMUM0S3hBT3pQRjhpWHZoVU53enY5NVBMN0c1Y1l5U0JpQ2k1dVBCT1pBeE91dFVHQzZlUk5QNVRCYVJXVFNmTE5PVnh2TUtiZnNNT3l3R04zUEpMRHpYUTl4MVdHZzFrXzFWTVlfbVVkczl3SUJvdjFYRUZyVDZsYzBucFNDWjYzMFoyQVd4T0Z2Vg?oc=5",
+            "date": "2026-09-17T07:00:00+00:00",
             "publisher": "Dudleynews.co.uk",
             "summary": "Dudleynews.co.uk — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "tgthr. appoints Shamima Pereira and Sonia Kumar in leadership roles - Exchange4Media",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajJWQjd3dlMtU2I4dFJQeUtTajAxTEFXU1A2XzQtZXJfTGhlcll3czZzU05OdmJBQ0FLUEI4cUN2a0djSDNjaTg1U0lBNzJRb3hXTFRfWklaSzR1R0VVYUdHa2ZPVVFIc2tBZnlBUjFuU0o3cW5XZkNxQ25rNXVoU3NnRjNMYkxROGxQaUNZWTJaazh4WlpoWWtaTm42S0ZkYTZxRXYxNXdDY0dwMXMtdEtyNEdwckZTZzJFY1ZvdUhXNVlnWm02MUNR?oc=5",
-            "date": "2026-04-28T07:00:00+00:00",
-            "publisher": "Exchange4Media",
-            "summary": "Exchange4Media — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "MP Sonia Kumar welcomes funding to help Dudley young people into work - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3VGTUdmT0c5V21vT2VDekpZYXlKMzQ5eVZ0cEc2UEt6a1ZmaTcyaC04RF9rSEFVUXdXdTU2THBJSEhjanVfYzVoeld0NWNwcEVNTFViZHZSZDFJMWhUZnplNWVlRmc3Y3JTT3dEeV8xZ1lSdTc5SWtid3cwN3pBSVVPejR1MU0yTVpvUk16TGZNTU96Ync?oc=5",
-            "date": "2026-06-08T07:00:00+00:00",
+            "title": "Sonia Kumar MP backs health hub plan for Dudley town centre - Dudleynews.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjlHMU8xQnk5NGc0WFJzV1d2RzJZU0RUVHJWMTNlOVNwcW9iYTRSYTBoMlQ5QVZVb3lHOEFGbF9GME5YMUM2NjhVT1RXcUh6a3BOVUgtbURfN3ZXWjhjcDVFZHFEYU1leTZCbGxuNXdnNWo1TkpZUGg2Q1M3cDJEQjQ5T3VfUXVlcy1OX18zY1lCUExPR1E?oc=5",
+            "date": "2026-06-27T07:00:00+00:00",
             "publisher": "Dudleynews.co.uk",
             "summary": "Dudleynews.co.uk — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Sonia Kumar MP: ‘How Britain’s leaky loos waste over a billion litres every day’ - Politics.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHdNa1UyZFAtYmRJT2s4eHlndnVhYzhtWkFYYjRuSFNDUl9Gb0lMTGl5RXVxdmhSX3RUcmhqZmRmWTNPcTVGQ2ZEdFNndGlSVkdQN1hFbG15WnhVTV9xNXZFRDNNQkVXU19UYWQzZ19BakFVOUZqNE5XVXN5VEVZczFtR3hGMHFpT1dKbDRYdHc0Zm43ZG16QVlfTzlsM3Z6WE5saHdQWUVQek1GelBZSEdB?oc=5",
-            "date": "2025-11-25T08:00:00+00:00",
-            "publisher": "Politics.co.uk",
-            "summary": "Politics.co.uk — read the original article.",
+            "title": "Residents invited to meet with Dudley MP Sonia Kumar this weekend - Dudleynews.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHE4eEFHR2NpQTh0dlJMeVd2X19icl9vUUNGdDVPSk02NDFXaXBMakdWTEViVW56VWFYTm94NkROcE50bVppQ0RwQzBlYUduNUtZVmYxT3lFZXRraC1qOUVMV25qbERCNzM0OHd5QnBhUFltdkxiU3RsQzh6aF84YWZaV0hLZk5jREl3?oc=5",
+            "date": "2026-05-29T07:00:00+00:00",
+            "publisher": "Dudleynews.co.uk",
+            "summary": "Dudleynews.co.uk — read the original article.",
+            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
+          },
+          {
+            "title": "Sonia Kumar MP - Safer Streets, Smoother Roads, Stronger Dudley - Dudleynews.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTG1HUFVKbnBVTkVyTTRWQ3Q0M200UzlDT0dERDVPUGZCVkluemdsRkowOWpPNWUwQWpGN0hPRl8yWFRJcEVkYmMwRHNFd1ZCM0JYZ29ZNkZKa0dxbGxzc042WnlKQXFxckRncTBTYlg3UnR3TFlHcFZNZkJza0pUbkl3TTh3SVVU?oc=5",
+            "date": "2026-02-20T08:00:00+00:00",
+            "publisher": "Dudleynews.co.uk",
+            "summary": "Dudleynews.co.uk — read the original article.",
+            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
+          },
+          {
+            "title": "Sonia Kumar MP Column: Investment, Action and Delivering for Dudley - Dudleynews.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVm1SMzAycVJvcTJqMmhKYklOeXM2eFVNcGJucUg3Und4MTJ6QzV4YlV6M2ZFZ05WNFA3Z1hqMlY5cmR1bUV6d1J6VklUazVmYUZlZUY2R0RpbHlndTFNSkcxM2dZVjBjU1Vkb2lPN2dXYjdrN3RFSXNSNXpjQ0FiRGhNM1B2YjJRVG5J?oc=5",
+            "date": "2026-04-23T07:00:00+00:00",
+            "publisher": "Dudleynews.co.uk",
+            "summary": "Dudleynews.co.uk — read the original article.",
+            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
+          },
+          {
+            "title": "Sonia Kumar MP: A year of standing up for Dudley and the work still to do - Dudleynews.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnNudzh3b08tUVlVTXVmYnB0UUNYSmJtWU1RVEpTTGdVYUZ0eVZvSDRHYjF3UWhNX3JKQzBYcVRuS2xUQWcyajg4TlEwOHVZQjlUN1RTbXdnT1VTTjFDbG5STDdDVHRjOUV2dGliMVpoZUVDODZ1ZGVDck00QmlDbF9EZGIyUWRyV2RoNWtHZ2IyV3NMTkE?oc=5",
+            "date": "2025-12-22T08:00:00+00:00",
+            "publisher": "Dudleynews.co.uk",
+            "summary": "Dudleynews.co.uk — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
@@ -352,11 +320,19 @@
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Sonia Kumar MP: Police investment, local renewal and fairness in finance - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1JWb3hIdS1ZenpFODR5UEFSa3l1LXZNUFVlSmI0SjlRUU9lc3RVRDBQcnhNcFZqMHNLdVgySXJ1eC15SnNtYUlDV1JodC1aaGxRRzVPWjBEX0JBRjA3c0daZS0zS3p5UjNCWklIUS1MUTF1Tm94dUF4dGVfdzVzVF9lUlVYR0NpcnF2bHk1empKUFNlbkdMblBnOA?oc=5",
-            "date": "2025-11-20T08:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
+            "title": "Sonia Kumar - taking the long view - Imperial College London",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWs5eUllczlpY1JLa1Z5NjctbWJ1Y2NGVFN1TkpGZVlmXzNTdmtKV2t6ZFJjU1NMeXYtclBYQ1BHWGdTZGlMQzFzNkFDU0wyeV9BU2hFa2N2MDlTVFBfTERPcHZKdUhjeU5JVThpbEVaaEtoTXdSX2MzOHp1dlBSakg1dnJ4VUNWbV8xNk10U3lXYUxWN1NyQ3g0R3R6Z01vbEs3aEVjR0ZNTHJIMUY5QjExVFpmLUhMc0Y1NVlNM3ctSmlmeDNtQy12SVNieXNhQmM5cHBCNlQ2bTdBOGdLUDdUR1c2U1gzQXd6Tg?oc=5",
+            "date": "2024-02-28T05:24:59+00:00",
+            "publisher": "Imperial College London",
+            "summary": "Imperial College London — read the original article.",
+            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
+          },
+          {
+            "title": "Sonia Kumar MP: ‘How Britain’s leaky loos waste over a billion litres every day’ - Politics.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbHdNa1UyZFAtYmRJT2s4eHlndnVhYzhtWkFYYjRuSFNDUl9Gb0lMTGl5RXVxdmhSX3RUcmhqZmRmWTNPcTVGQ2ZEdFNndGlSVkdQN1hFbG15WnhVTV9xNXZFRDNNQkVXU19UYWQzZ19BakFVOUZqNE5XVXN5VEVZczFtR3hGMHFpT1dKbDRYdHc0Zm43ZG16QVlfTzlsM3Z6WE5saHdQWUVQek1GelBZSEdB?oc=5",
+            "date": "2025-11-25T08:00:00+00:00",
+            "publisher": "Politics.co.uk",
+            "summary": "Politics.co.uk — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
@@ -368,11 +344,11 @@
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Tgthr appoints Shamima Pereira as business head and Sonia Kumar as AVP strategy and brand solutions lead - ET BrandEquity",
-            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR2FKZVhuTlhOSlo3ODJvWE9QcVowVzdTYmdPMjJZQjRBZDJ5NHhSc1lUUXdlMFZwdGZ2LVlMcDdjN2ttVlhuSmRpOE5URHR4TXlZb05saE9TUVA2bjZIeFNZby1rU2VfQ2p0NGNGYmdwbGRKZGY5T1JPOXdRaEktcnNTRVpoNDVfcDdCaFVhWWZPWS1wSWhxcklyWnZfMW41Mi1MTEtFZGNvbDdPSDQ4NjdlM2tDNXpPUk5TSnZYR0ZyOExWa3JIUGl4eU02ZVVGN1MxN25scEdIVHNJb0g4MXNWU3hhOFZBTm5wUWw4WUJRT1MyYlRIWUdnc1RuczRjU2NnNHVqeGRHbWpUa1VfdG1pREHSAZoCQVVfeXFMUEhiS183c1UtdUUwSXRQeUhfYkdpMGlHejM2UzhKbmxPVlh0REVsSUc4cy1YeldTUXVzbm5KSmZ6S1BEY2JLc3pNMXNQb25pOThCeVFNcHpiN0Iya3JWbmV3MjlCMENoOVh0TTVPdi1VZGpHZU9iNkdqeXpyTVZFM2tnSkpnaDIxdkxNaUFSVllRYmpfRHpKZG1WaEwwLV9KVERjXy1WOFBkdi1Rd2paenIwZ2ZQYTdGLU9NcURzcUVNcy1aZzdBNFNqUUZWSHQ3dy1zRmRTeFRBV2I3RTNjOU9abGRiUWVUV0xpejB2TmhFN2JDWmZ6eThQWXRqQlhtaE55T0dwZF9sOVd2cVdQS2NxejFZV2o3V1lR?oc=5",
+            "title": "tgthr. appoints Shamima Pereira and Sonia Kumar in leadership roles - Exchange4Media",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajJWQjd3dlMtU2I4dFJQeUtTajAxTEFXU1A2XzQtZXJfTGhlcll3czZzU05OdmJBQ0FLUEI4cUN2a0djSDNjaTg1U0lBNzJRb3hXTFRfWklaSzR1R0VVYUdHa2ZPVVFIc2tBZnlBUjFuU0o3cW5XZkNxQ25rNXVoU3NnRjNMYkxROGxQaUNZWTJaazh4WlpoWWtaTm42S0ZkYTZxRXYxNXdDY0dwMXMtdEtyNEdwckZTZzJFY1ZvdUhXNVlnWm02MUNR?oc=5",
             "date": "2026-04-28T07:00:00+00:00",
-            "publisher": "ET BrandEquity",
-            "summary": "ET BrandEquity — read the original article.",
+            "publisher": "Exchange4Media",
+            "summary": "Exchange4Media — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
@@ -400,35 +376,19 @@
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Dudley MP Sonia Kumar visits Bramford Primary School - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWVWd3hqQklGc0l6S2JUeFNhUFdkZUxpVFNoSTVSUFVNbkZlcml6VjhlckdlVG5pNlo1d185eWlQMXdrYjVoOGZqTi1JeFJEc1pMeVhKcmdFVWpFVkY2WUxOZDM5TjdBTW9pZ0NYazVoc2VRTkxjZkxkYmZqMmdDXzlOdWFqQWFmem5rSnJDVzV2MGVGLWFYS0RKQVk?oc=5",
-            "date": "2024-10-05T07:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "Dudley MP Sonia Kumar joins hundreds of students at Freshers' Fayre - Dudleynews.co.uk",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEtKMFp1VHJHb2VCWGxDdXQ4Y0FCR2M5bWdJTjFfRTY5UGFKUTY3d1ZoYXZpdXlfYnhLX2dHcWo1YWtFOFVqRlVSWEp5dGdxSHVqZEcwSElodjhFa2FHdmJDMHB5Tk9VMTZSMml3bGNGN2JBY2JXb29zWEhfb2ktQktHcDRiOEJ2YmZFV2M3SHc2aTNRMURnX0tqVWpRclJweXktbEVkQQ?oc=5",
-            "date": "2024-09-20T07:00:00+00:00",
-            "publisher": "Dudleynews.co.uk",
-            "summary": "Dudleynews.co.uk — read the original article.",
-            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
-          },
-          {
-            "title": "UK Elections: Sonia Kumar defeats anti-Hindu, India-hater MP Marco Longhi - OpIndia",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUc1Rk9RMlI1MWRDeWhfTnlRNGdvODlfc2xHMlBnclRkZjRvOUlSZFVESjU0WnY4U0hOUnNfRXFlWmoyNGpqY044TGx5dHR6YlNEdnlyVDdUMXQzUzlsTUZqWXNtbl9nbWdIRF9qTE5KWTVCLU1UazJEUU5yd0xqR1R3Tm9kVUlSdkZnWlBLMUNqM2VQTXdxRFNDVHlRQ3FkUWpYblRxSQ?oc=5",
+            "title": "Sonia Kumar says trust was a big part of her victory - EasternEye",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZGVMMjhSeVptbDlLeklIXzhQZGdzNklTV3BxM0tIbzdXNHN4bHdsaUppM2gtZFBNMEJ2VnAzXzN5cWh2STF5ejV3bFcxYll6VnYyU3d5RDJWZ01zYXNaOEF2aHI5b19XSXFJ?oc=5",
             "date": "2024-07-05T07:00:00+00:00",
-            "publisher": "OpIndia",
-            "summary": "OpIndia — read the original article.",
+            "publisher": "EasternEye",
+            "summary": "EasternEye — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
-            "title": "Sonia Kumar - History Made: UK Parliament to have 29 MPs of Indian origin, Rishi Sunak among them - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMVBIdDlBVTNrN1B0V0NvYjlqcnRqa3VGMjBmS0t1Z29rQjJvSVUydzlzOE00NW05WjhzR1lxWVZfYVozcjVuS3dNeGdmOG1ISzI0bmo1WFZJVDg0OTI4ajRyaW5kbHUwVzBZbUxIZ0NNRVlKSkNzSE5oOWppQ2gtUVRjTTVBTlI5T2NqdjZuSXp4S1hkX05OcWRmZllMVG1GWXYwX1ptYWRXTTZHZFRLSll2c1hJUWFQRlhXdi1YU0pOUVFWOGI0dk9hWVZ4RHhINlNWV2U5cUp5U29tU1pub1oxZ0tVQWxMRHZ4YzQzZ0ZjcXhZRmQ1N2x5WmNmcmVVU2F0Mmd3?oc=5",
-            "date": "2024-07-06T07:00:00+00:00",
-            "publisher": "The Economic Times",
-            "summary": "The Economic Times — read the original article.",
+            "title": "Tgthr appoints Shamima Pereira as business head and Sonia Kumar as AVP strategy and brand solutions lead - ET BrandEquity",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR2FKZVhuTlhOSlo3ODJvWE9QcVowVzdTYmdPMjJZQjRBZDJ5NHhSc1lUUXdlMFZwdGZ2LVlMcDdjN2ttVlhuSmRpOE5URHR4TXlZb05saE9TUVA2bjZIeFNZby1rU2VfQ2p0NGNGYmdwbGRKZGY5T1JPOXdRaEktcnNTRVpoNDVfcDdCaFVhWWZPWS1wSWhxcklyWnZfMW41Mi1MTEtFZGNvbDdPSDQ4NjdlM2tDNXpPUk5TSnZYR0ZyOExWa3JIUGl4eU02ZVVGN1MxN25scEdIVHNJb0g4MXNWU3hhOFZBTm5wUWw4WUJRT1MyYlRIWUdnc1RuczRjU2NnNHVqeGRHbWpUa1VfdG1pREHSAZoCQVVfeXFMUEhiS183c1UtdUUwSXRQeUhfYkdpMGlHejM2UzhKbmxPVlh0REVsSUc4cy1YeldTUXVzbm5KSmZ6S1BEY2JLc3pNMXNQb25pOThCeVFNcHpiN0Iya3JWbmV3MjlCMENoOVh0TTVPdi1VZGpHZU9iNkdqeXpyTVZFM2tnSkpnaDIxdkxNaUFSVllRYmpfRHpKZG1WaEwwLV9KVERjXy1WOFBkdi1Rd2paenIwZ2ZQYTdGLU9NcURzcUVNcy1aZzdBNFNqUUZWSHQ3dy1zRmRTeFRBV2I3RTNjOU9abGRiUWVUV0xpejB2TmhFN2JDWmZ6eThQWXRqQlhtaE55T0dwZF9sOVd2cVdQS2NxejFZV2o3V1lR?oc=5",
+            "date": "2026-04-28T07:00:00+00:00",
+            "publisher": "ET BrandEquity",
+            "summary": "ET BrandEquity — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           },
           {
@@ -438,9 +398,17 @@
             "publisher": "Pulse Today",
             "summary": "Pulse Today — read the original article.",
             "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
+          },
+          {
+            "title": "Dudley general election result: Labour's Sonia Kumar beats Marco Longhi and pledges unity - Express and Star",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFdqQllNRTRySmFHMTQybHZWSTdjXzVPcXRvdjVfd1NYR1FRM254a0VFOG0yVTRXeWYtUklFWkpSdjhXNWROZ1pCZVc4TVFlT2F3ZFFnZ05EaWUtYmc3VEhzY2dWQUpLUXNJRTM3akpUUEpGSld4M21KOHhVYjdOd3J5QjdHNDdyNk81eVlNNk9IeGMzdHFfbEZaMHFyNkF1Qk1KMU5sYUJFWkY4cHplS3lBclNwSHZrSjZCNEpYMUdTT2VIdlVNcHVTQklyMjV2YWRwcWRjTQ?oc=5",
+            "date": "2024-07-05T07:00:00+00:00",
+            "publisher": "Express and Star",
+            "summary": "Express and Star — read the original article.",
+            "source_url": "https://news.google.com/rss/search?q=%22Sonia+Kumar%22&hl=en-GB&gl=GB&ceid=GB:en"
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       }
     },
     "note": "Headlines mentioning Sonia Kumar, with links to publishers. Google News RSS supplements the BBC regional feed; it may include opinion or wider coverage. No article text is republished. Unavailable feeds: https://sonia-kumar.co.uk/feed/. Last successful feed records retained where available."

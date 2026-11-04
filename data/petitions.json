@@ -1,8 +1,8 @@
 {
   "key": "petitions",
   "source": "https://petition.parliament.uk/petitions.json?state=open",
-  "retrieved_at": "2026-11-03T14:45:29+00:00",
-  "checked_at": "2026-11-03T14:45:29+00:00",
+  "retrieved_at": "2026-11-04T14:58:10+00:00",
+  "checked_at": "2026-11-04T14:58:10+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -12,8 +12,8 @@
         "url": "https://petition.parliament.uk/petitions/780269",
         "date": "2027-03-16",
         "local_signatures": 165,
-        "national_signatures": 112002,
-        "summary": "165 signatures from Dudley; 112,002 nationally. Closes 2027-03-16.",
+        "national_signatures": 112304,
+        "summary": "165 signatures from Dudley; 112,304 nationally. Closes 2027-03-16.",
         "ons_code": "E14001204"
       },
       {
@@ -21,8 +21,8 @@
         "url": "https://petition.parliament.uk/petitions/773633",
         "date": "2027-01-15",
         "local_signatures": 149,
-        "national_signatures": 86698,
-        "summary": "149 signatures from Dudley; 86,698 nationally. Closes 2027-01-15.",
+        "national_signatures": 86849,
+        "summary": "149 signatures from Dudley; 86,849 nationally. Closes 2027-01-15.",
         "ons_code": "E14001204"
       },
       {
@@ -30,8 +30,8 @@
         "url": "https://petition.parliament.uk/petitions/772026",
         "date": "2027-01-03",
         "local_signatures": 143,
-        "national_signatures": 20619,
-        "summary": "143 signatures from Dudley; 20,619 nationally. Closes 2027-01-03.",
+        "national_signatures": 20623,
+        "summary": "143 signatures from Dudley; 20,623 nationally. Closes 2027-01-03.",
         "ons_code": "E14001204"
       },
       {
@@ -39,8 +39,17 @@
         "url": "https://petition.parliament.uk/petitions/769589",
         "date": "2026-12-08",
         "local_signatures": 130,
-        "national_signatures": 126759,
-        "summary": "130 signatures from Dudley; 126,759 nationally. Closes 2026-12-08.",
+        "national_signatures": 127492,
+        "summary": "130 signatures from Dudley; 127,492 nationally. Closes 2026-12-08.",
+        "ons_code": "E14001204"
+      },
+      {
+        "title": "Legislate to protect ILR applicants from retrospective changes",
+        "url": "https://petition.parliament.uk/petitions/775267",
+        "date": "2027-01-30",
+        "local_signatures": 116,
+        "national_signatures": 126281,
+        "summary": "116 signatures from Dudley; 126,281 nationally. Closes 2027-01-30.",
         "ons_code": "E14001204"
       },
       {
@@ -48,8 +57,8 @@
         "url": "https://petition.parliament.uk/petitions/769616",
         "date": "2026-12-12",
         "local_signatures": 97,
-        "national_signatures": 55610,
-        "summary": "97 signatures from Dudley; 55,610 nationally. Closes 2026-12-12.",
+        "national_signatures": 55629,
+        "summary": "97 signatures from Dudley; 55,629 nationally. Closes 2026-12-12.",
         "ons_code": "E14001204"
       },
       {
@@ -57,8 +66,8 @@
         "url": "https://petition.parliament.uk/petitions/779519",
         "date": "2027-03-17",
         "local_signatures": 85,
-        "national_signatures": 46467,
-        "summary": "85 signatures from Dudley; 46,467 nationally. Closes 2027-03-17.",
+        "national_signatures": 46570,
+        "summary": "85 signatures from Dudley; 46,570 nationally. Closes 2027-03-17.",
         "ons_code": "E14001204"
       },
       {
@@ -66,41 +75,32 @@
         "url": "https://petition.parliament.uk/petitions/767467",
         "date": "2026-11-15",
         "local_signatures": 77,
-        "national_signatures": 10293,
-        "summary": "77 signatures from Dudley; 10,293 nationally. Closes 2026-11-15.",
+        "national_signatures": 10294,
+        "summary": "77 signatures from Dudley; 10,294 nationally. Closes 2026-11-15.",
         "ons_code": "E14001204"
       },
       {
         "title": "Make catapult attacks against animals a standalone criminal offence",
         "url": "https://petition.parliament.uk/petitions/777710",
         "date": "2027-02-20",
-        "local_signatures": 75,
-        "national_signatures": 74703,
-        "summary": "75 signatures from Dudley; 74,703 nationally. Closes 2027-02-20.",
+        "local_signatures": 76,
+        "national_signatures": 74976,
+        "summary": "76 signatures from Dudley; 74,976 nationally. Closes 2027-02-20.",
         "ons_code": "E14001204"
       },
       {
         "title": "Make statutory maternity pay 90% of wage for first 12 weeks & minimum wage after",
         "url": "https://petition.parliament.uk/petitions/779259",
         "date": "2027-03-14",
-        "local_signatures": 69,
-        "national_signatures": 80261,
-        "summary": "69 signatures from Dudley; 80,261 nationally. Closes 2027-03-14.",
-        "ons_code": "E14001204"
-      },
-      {
-        "title": "Introduce a national strategy to tackle the cat overpopulation and rescue crisis",
-        "url": "https://petition.parliament.uk/petitions/777945",
-        "date": "2027-02-19",
-        "local_signatures": 66,
-        "national_signatures": 21834,
-        "summary": "66 signatures from Dudley; 21,834 nationally. Closes 2027-02-19.",
+        "local_signatures": 70,
+        "national_signatures": 81058,
+        "summary": "70 signatures from Dudley; 81,058 nationally. Closes 2027-03-14.",
         "ons_code": "E14001204"
       }
     ],
-    "candidate_count": 2171,
-    "examined_count": 1136,
-    "detail_requests": 356,
+    "candidate_count": 2185,
+    "examined_count": 1104,
+    "detail_requests": 498,
     "note": "Open petitions ranked by signatures recorded in Dudley (ONS E14001204), not national totals. All open-petition listing pages checked; candidates eliminated only when national signatures are below the local top-ten cutoff. Live counts can change during collection. Petition signatures are not an opinion poll."
   }
 }

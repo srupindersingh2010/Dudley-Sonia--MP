@@ -1,12 +1,111 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-03T14:45:29+00:00",
-  "checked_at": "2026-11-03T14:45:29+00:00",
+  "retrieved_at": "2026-11-04T14:58:10+00:00",
+  "checked_at": "2026-11-04T14:58:10+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Railways Bill: Carry-over extension (Motion)",
+        "date": "2026-11-04T14:35:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2476",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2476,
+        "publication_updated": "2026-11-04T14:52:26"
+      },
+      {
+        "title": "Sporting Events Bill [Lords] Report: Amendment 8",
+        "date": "2026-11-04T14:01:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2475",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2475,
+        "publication_updated": "2026-11-04T14:13:25"
+      },
+      {
+        "title": "Sporting Events Bill [Lords] Report: Amendment 6",
+        "date": "2026-11-04T13:48:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2474",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2474,
+        "publication_updated": "2026-11-04T14:03:23"
+      },
+      {
+        "title": "Sporting Events Bill [Lords] Report: New Clause 1",
+        "date": "2026-11-04T13:35:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2473",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2473,
+        "publication_updated": "2026-11-04T14:04:17"
+      },
+      {
+        "title": "Budget Resolution No. 86: High value council tax surcharge",
+        "date": "2026-11-03T19:52:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2470",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2470,
+        "publication_updated": "2026-11-04T09:47:32"
+      },
+      {
+        "title": "Budget Resolution No. 76: Rates of alcohol duty",
+        "date": "2026-11-03T19:40:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2469",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2469,
+        "publication_updated": "2026-11-04T09:47:14"
+      },
+      {
+        "title": "Budget Resolution No. 55: Value added tax (electric vehicle charging)",
+        "date": "2026-11-03T19:29:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2468",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2468,
+        "publication_updated": "2026-11-04T09:46:59"
+      },
+      {
+        "title": "Budget Resolution No. 15: Charges in connection with employment visas ",
+        "date": "2026-11-03T19:15:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2467",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2467,
+        "publication_updated": "2026-11-04T09:46:39"
+      },
+      {
+        "title": "Budget Resolution No. 8: Capital gains tax (business asset disposal relief) ",
+        "date": "2026-11-03T19:02:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2466",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2466,
+        "publication_updated": "2026-11-04T09:46:21"
+      },
+      {
+        "title": "Budget Resolution No.7: Increase in rate of banking surcharge for temporary period",
+        "date": "2026-11-03T18:48:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2465",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2465,
+        "publication_updated": "2026-11-04T09:45:56"
+      },
+      {
+        "title": "Budget Resolution No. 3: Income tax (default, property and savings rates)",
+        "date": "2026-11-03T18:33:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2464",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2464,
+        "publication_updated": "2026-11-03T19:47:00"
+      },
       {
         "title": "Draft Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026",
         "date": "2026-10-27T17:54:00",
@@ -132,112 +231,13 @@
         "vote": "No",
         "division_id": 2450,
         "publication_updated": "2026-10-20T16:49:43"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: Amendment 23",
-        "date": "2026-10-19T21:54:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2449",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2449,
-        "publication_updated": "2026-10-19T22:26:48"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill: Programme Motion",
-        "date": "2026-10-19T15:53:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2448",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2448,
-        "publication_updated": "2026-10-19T16:13:11"
-      },
-      {
-        "title": "Closure motion",
-        "date": "2026-10-16T14:25:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2447",
-        "summary": "No recorded vote",
-        "vote": "No recorded vote",
-        "division_id": 2447,
-        "publication_updated": "2026-10-16T14:50:17"
-      },
-      {
-        "title": "Motion to sit in private",
-        "date": "2026-10-16T09:34:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2446",
-        "summary": "No recorded vote",
-        "vote": "No recorded vote",
-        "division_id": 2446,
-        "publication_updated": "2026-10-16T10:39:07"
-      },
-      {
-        "title": "Highways (Financing) Bill: Second Reading: Reasoned Amendment",
-        "date": "2026-10-15T16:31:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2445",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2445,
-        "publication_updated": "2026-10-16T12:23:31"
-      },
-      {
-        "title": "Opposition Day motion: Inheritance Tax",
-        "date": "2026-10-14T18:59:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2444",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2444,
-        "publication_updated": "2026-10-26T19:50:55"
-      },
-      {
-        "title": "Opposition Day motion: MoD Bicester and illegal migrants",
-        "date": "2026-10-14T15:42:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2443",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2443,
-        "publication_updated": "2026-10-26T15:49:22"
-      },
-      {
-        "title": "Carbon Border Adjustment Mechanism (Calculation of CBAM Rate and Determination  of Carbon Price Relief) Regulations 2026",
-        "date": "2026-10-14T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2442",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2442,
-        "publication_updated": "2026-10-14T15:57:30"
-      },
-      {
-        "title": "Draft Trade Unions (Right to Access Workplaces) Regulations 2026",
-        "date": "2026-10-14T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2441",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2441,
-        "publication_updated": "2026-10-14T15:57:18"
-      },
-      {
-        "title": "Draft Code of Practice on the Right of Trade Unions to Access Workplaces",
-        "date": "2026-10-14T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2440",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2440,
-        "publication_updated": "2026-10-14T15:57:01"
-      },
-      {
-        "title": " Draft ACAS Code of Practice on Time Off for Trade Union Duties and Activities",
-        "date": "2026-10-14T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2439",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2439,
-        "publication_updated": "2026-10-14T15:56:45"
       }
     ],
-    "period_start": "2026-08-05",
-    "period_end": "2026-11-03",
+    "period_start": "2026-08-06",
+    "period_end": "2026-11-04",
     "total_divisions": 25,
-    "recorded_votes": 23,
-    "participation_percent": 92.0,
+    "recorded_votes": 25,
+    "participation_percent": 100.0,
     "note": "Recorded voting participation over the last 90 days: recorded votes (including tellers) divided by all published Commons divisions in that period. This is not a measure of attendance in Parliament. No recorded vote does not establish absence or the reason, and is not automatically an abstention. Read the exact division motion before interpreting a vote."
   }
 }

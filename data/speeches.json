@@ -1,12 +1,22 @@
 {
   "key": "speeches",
   "source": "https://hansard.parliament.uk/search/Contributions?memberId=5274",
-  "retrieved_at": "2026-11-03T14:45:29+00:00",
-  "checked_at": "2026-11-03T14:45:29+00:00",
+  "retrieved_at": "2026-11-04T14:58:10+00:00",
+  "checked_at": "2026-11-04T14:58:10+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Poundland",
+        "date": "2026-11-03",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-03/debates/4FA765C3-003A-4C28-860F-C4737CE2E6F5/Poundland#contribution-AF0A2C56-3C7B-4E9E-8A9C-C4F259F684A0",
+        "summary": "High streets such as Dudley’s face pressures from online shopping and rising costs. Too many units have stood empty for years, weakening footfall and confidence, and the potential loss of Poundland and 15 jobs in my constituency could blow another hole in the high street. However, this is not just about my 15 employees; a ripple effect of the potential closure could cause problems in the supply chain as well. Has the Minister assessed the full impact of the closures across Poundland, across the country and across the supply chain in order to hold Gordon Brothers to account?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "AF0A2C56-3C7B-4E9E-8A9C-C4F259F684A0",
+        "quote": true
+      },
       {
         "title": "High Street Regeneration: Dudley",
         "date": "2026-11-02",
@@ -196,19 +206,9 @@
         "member_id": 5274,
         "id": "114B5861-842E-4FBF-B171-BF8CF109E9EC",
         "quote": true
-      },
-      {
-        "title": "Defence Investment Plan",
-        "date": "2026-06-30",
-        "url": "https://hansard.parliament.uk/Commons/2026-06-30/debates/6429FB20-1CA0-4360-A188-E551FBD5728A/DefenceInvestmentPlan#contribution-DBB3EA8B-2FA5-4A93-A18A-F28C3959BAF6",
-        "summary": "Modern warfare has evolved from traditional mass troops to online cyber-attacks and drone-enabled conflict. We have seen that with the attacks on M&S and Jaguar Land Rover, and last September I saw it at first hand when I visited a drone factory in Ukraine. How is our Government using the defence investment plan to develop our own sovereign digital and technological capabilities, learning from Ukraine’s war?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "DBB3EA8B-2FA5-4A93-A18A-F28C3959BAF6",
-        "quote": true
       }
     ],
-    "total": 199,
+    "total": 200,
     "note": "Latest 20 spoken contributions, including oral questions and interventions. Extracts are Sonia Kumar’s words in the official record, not site commentary. Follow the source link for the full debate and context."
   }
 }

@@ -1,8 +1,8 @@
 {
   "key": "council_meetings",
   "source": "https://dudley.cmis.uk.com/Meetings.aspx",
-  "retrieved_at": "2026-11-03T14:45:29+00:00",
-  "checked_at": "2026-11-03T14:45:29+00:00",
+  "retrieved_at": "2026-11-04T14:58:10+00:00",
+  "checked_at": "2026-11-04T14:58:10+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -154,7 +154,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/468/Default.aspx": {
         "items": [
@@ -249,7 +249,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/554/Default.aspx": {
         "items": [
@@ -299,7 +299,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/505/Default.aspx": {
         "items": [
@@ -358,7 +358,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/548/Default.aspx": {
         "items": [
@@ -381,7 +381,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/553/Default.aspx": {
         "items": [
@@ -431,102 +431,57 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/482/Default.aspx": {
         "items": [
           {
             "title": "Council",
-            "date": "2026-03-02T18:30:00",
-            "time": "18:30",
-            "location": "Council Chamber",
-            "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7078/Committee/482/Default.aspx",
-            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
-          },
-          {
-            "title": "Council",
-            "date": "2026-04-13T18:00:00",
+            "date": "2026-12-07T18:00:00",
             "time": "18:00",
             "location": "Council Chamber",
             "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7079/Committee/482/Default.aspx",
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7161/Committee/482/Default.aspx",
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           },
           {
             "title": "Council",
-            "date": "2026-05-28T18:00:00",
+            "date": "2027-02-22T18:00:00",
             "time": "18:00",
             "location": "Council Chamber",
             "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7080/Committee/482/Default.aspx",
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7162/Committee/482/Default.aspx",
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           },
           {
             "title": "Council",
-            "date": "2026-06-29T18:00:00",
+            "date": "2027-03-01T18:00:00",
             "time": "18:00",
             "location": "Council Chamber",
             "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7237/Committee/482/Default.aspx",
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7163/Committee/482/Default.aspx",
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           },
           {
             "title": "Council",
-            "date": "2026-07-13T18:00:00",
+            "date": "2027-04-19T18:00:00",
             "time": "18:00",
             "location": "Council Chamber",
             "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7159/Committee/482/Default.aspx",
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7164/Committee/482/Default.aspx",
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           },
           {
             "title": "Council",
-            "date": "2026-07-13T18:10:00",
-            "time": "18:10",
-            "location": "Council Chamber",
-            "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7244/Committee/482/Default.aspx",
-            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
-          },
-          {
-            "title": "Council",
-            "date": "2026-09-10T18:00:00",
+            "date": "2027-05-27T18:00:00",
             "time": "18:00",
             "location": "Council Chamber",
             "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7252/Committee/482/Default.aspx",
-            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
-          },
-          {
-            "title": "Council",
-            "date": "2026-09-10T18:17:00",
-            "time": "18:17",
-            "location": "Council Chamber",
-            "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7254/Committee/482/Default.aspx",
-            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
-          },
-          {
-            "title": "Council",
-            "date": "2026-11-02T18:00:00",
-            "time": "18:00",
-            "location": "Council Chamber",
-            "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7160/Committee/482/Default.aspx",
-            "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
-          },
-          {
-            "title": "Council",
-            "date": "2026-11-02T18:30:00",
-            "time": "18:30",
-            "location": "Council Chamber",
-            "cancelled": false,
-            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7257/Committee/482/Default.aspx",
+            "url": "https://dudley.cmis.uk.com/Meetings/tabid/116/ctl/ViewMeetingPublic/mid/543/Meeting/7165/Committee/482/Default.aspx",
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/504/Default.aspx": {
         "items": [
@@ -585,7 +540,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/484/Default.aspx": {
         "items": [
@@ -626,7 +581,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/485/Default.aspx": {
         "items": [
@@ -721,7 +676,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/486/Default.aspx": {
         "items": [
@@ -807,7 +762,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/555/Default.aspx": {
         "items": [
@@ -839,7 +794,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/556/Default.aspx": {
         "items": [
@@ -898,7 +853,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/549/Default.aspx": {
         "items": [
@@ -993,7 +948,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/488/Default.aspx": {
         "items": [
@@ -1079,7 +1034,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/489/Default.aspx": {
         "items": [
@@ -1156,7 +1111,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/490/Default.aspx": {
         "items": [
@@ -1251,7 +1206,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/491/Default.aspx": {
         "items": [
@@ -1301,7 +1256,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/492/Default.aspx": {
         "items": [
@@ -1369,7 +1324,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/522/Default.aspx": {
         "items": [
@@ -1428,7 +1383,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/557/Default.aspx": {
         "items": [
@@ -1451,7 +1406,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/551/Default.aspx": {
         "items": [
@@ -1519,7 +1474,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/494/Default.aspx": {
         "items": [
@@ -1596,11 +1551,11 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/530/Default.aspx": {
         "items": [],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/531/Default.aspx": {
         "items": [
@@ -1668,7 +1623,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/532/Default.aspx": {
         "items": [
@@ -1745,7 +1700,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/533/Default.aspx": {
         "items": [
@@ -1822,7 +1777,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/534/Default.aspx": {
         "items": [
@@ -1899,7 +1854,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/535/Default.aspx": {
         "items": [
@@ -1976,7 +1931,7 @@
             "summary": "Dudley Council committee schedule. Check the agenda for public access and any changes."
           }
         ],
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       }
     },
     "source_checks": [
@@ -1987,147 +1942,147 @@
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/550/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/468/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/554/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/505/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/548/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/553/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/482/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/504/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/484/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/485/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/486/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/555/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/556/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/549/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/488/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/489/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/490/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/491/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/492/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/522/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/557/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/551/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/494/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/530/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/531/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/532/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/533/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/534/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       },
       {
         "url": "https://dudley.cmis.uk.com/Committees/2015Onwards/tabid/131/ctl/ViewCMIS_CommitteeDetails/mid/616/id/535/Default.aspx",
         "status": "ok",
-        "retrieved_at": "2026-11-03T14:45:29.837861+00:00"
+        "retrieved_at": "2026-11-04T14:58:10.027796+00:00"
       }
     ],
     "note": "Dudley uses CMIS, not Modern.gov. The next 30 days combine the current public calendar and individual committee schedules. Confirm dates, cancellations and public access on the agenda. These are council meetings, not a record of Sonia Kumar’s attendance."
