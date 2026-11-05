@@ -1,8 +1,8 @@
 {
   "key": "petitions",
   "source": "https://petition.parliament.uk/petitions.json?state=open",
-  "retrieved_at": "2026-11-04T14:58:10+00:00",
-  "checked_at": "2026-11-04T14:58:10+00:00",
+  "retrieved_at": "2026-11-05T15:02:30+00:00",
+  "checked_at": "2026-11-05T15:02:30+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -11,9 +11,9 @@
         "title": "Reduce the state pension age to 65 for all",
         "url": "https://petition.parliament.uk/petitions/780269",
         "date": "2027-03-16",
-        "local_signatures": 165,
-        "national_signatures": 112304,
-        "summary": "165 signatures from Dudley; 112,304 nationally. Closes 2027-03-16.",
+        "local_signatures": 167,
+        "national_signatures": 112790,
+        "summary": "167 signatures from Dudley; 112,790 nationally. Closes 2027-03-16.",
         "ons_code": "E14001204"
       },
       {
@@ -21,8 +21,17 @@
         "url": "https://petition.parliament.uk/petitions/773633",
         "date": "2027-01-15",
         "local_signatures": 149,
-        "national_signatures": 86849,
-        "summary": "149 signatures from Dudley; 86,849 nationally. Closes 2027-01-15.",
+        "national_signatures": 86982,
+        "summary": "149 signatures from Dudley; 86,982 nationally. Closes 2027-01-15.",
+        "ons_code": "E14001204"
+      },
+      {
+        "title": "Legislate to protect ILR applicants from retrospective changes",
+        "url": "https://petition.parliament.uk/petitions/775267",
+        "date": "2027-01-30",
+        "local_signatures": 144,
+        "national_signatures": 146459,
+        "summary": "144 signatures from Dudley; 146,459 nationally. Closes 2027-01-30.",
         "ons_code": "E14001204"
       },
       {
@@ -30,26 +39,17 @@
         "url": "https://petition.parliament.uk/petitions/772026",
         "date": "2027-01-03",
         "local_signatures": 143,
-        "national_signatures": 20623,
-        "summary": "143 signatures from Dudley; 20,623 nationally. Closes 2027-01-03.",
+        "national_signatures": 20635,
+        "summary": "143 signatures from Dudley; 20,635 nationally. Closes 2027-01-03.",
         "ons_code": "E14001204"
       },
       {
         "title": "End the mandatory fortification of white flour with folic acid immediately",
         "url": "https://petition.parliament.uk/petitions/769589",
         "date": "2026-12-08",
-        "local_signatures": 130,
-        "national_signatures": 127492,
-        "summary": "130 signatures from Dudley; 127,492 nationally. Closes 2026-12-08.",
-        "ons_code": "E14001204"
-      },
-      {
-        "title": "Legislate to protect ILR applicants from retrospective changes",
-        "url": "https://petition.parliament.uk/petitions/775267",
-        "date": "2027-01-30",
-        "local_signatures": 116,
-        "national_signatures": 126281,
-        "summary": "116 signatures from Dudley; 126,281 nationally. Closes 2027-01-30.",
+        "local_signatures": 132,
+        "national_signatures": 128098,
+        "summary": "132 signatures from Dudley; 128,098 nationally. Closes 2026-12-08.",
         "ons_code": "E14001204"
       },
       {
@@ -57,8 +57,8 @@
         "url": "https://petition.parliament.uk/petitions/769616",
         "date": "2026-12-12",
         "local_signatures": 97,
-        "national_signatures": 55629,
-        "summary": "97 signatures from Dudley; 55,629 nationally. Closes 2026-12-12.",
+        "national_signatures": 55647,
+        "summary": "97 signatures from Dudley; 55,647 nationally. Closes 2026-12-12.",
         "ons_code": "E14001204"
       },
       {
@@ -66,8 +66,8 @@
         "url": "https://petition.parliament.uk/petitions/779519",
         "date": "2027-03-17",
         "local_signatures": 85,
-        "national_signatures": 46570,
-        "summary": "85 signatures from Dudley; 46,570 nationally. Closes 2027-03-17.",
+        "national_signatures": 46631,
+        "summary": "85 signatures from Dudley; 46,631 nationally. Closes 2027-03-17.",
         "ons_code": "E14001204"
       },
       {
@@ -75,8 +75,8 @@
         "url": "https://petition.parliament.uk/petitions/767467",
         "date": "2026-11-15",
         "local_signatures": 77,
-        "national_signatures": 10294,
-        "summary": "77 signatures from Dudley; 10,294 nationally. Closes 2026-11-15.",
+        "national_signatures": 10295,
+        "summary": "77 signatures from Dudley; 10,295 nationally. Closes 2026-11-15.",
         "ons_code": "E14001204"
       },
       {
@@ -84,8 +84,8 @@
         "url": "https://petition.parliament.uk/petitions/777710",
         "date": "2027-02-20",
         "local_signatures": 76,
-        "national_signatures": 74976,
-        "summary": "76 signatures from Dudley; 74,976 nationally. Closes 2027-02-20.",
+        "national_signatures": 75167,
+        "summary": "76 signatures from Dudley; 75,167 nationally. Closes 2027-02-20.",
         "ons_code": "E14001204"
       },
       {
@@ -93,14 +93,14 @@
         "url": "https://petition.parliament.uk/petitions/779259",
         "date": "2027-03-14",
         "local_signatures": 70,
-        "national_signatures": 81058,
-        "summary": "70 signatures from Dudley; 81,058 nationally. Closes 2027-03-14.",
+        "national_signatures": 81469,
+        "summary": "70 signatures from Dudley; 81,469 nationally. Closes 2027-03-14.",
         "ons_code": "E14001204"
       }
     ],
-    "candidate_count": 2185,
-    "examined_count": 1104,
-    "detail_requests": 498,
+    "candidate_count": 2214,
+    "examined_count": 1120,
+    "detail_requests": 454,
     "note": "Open petitions ranked by signatures recorded in Dudley (ONS E14001204), not national totals. All open-petition listing pages checked; candidates eliminated only when national signatures are below the local top-ten cutoff. Live counts can change during collection. Petition signatures are not an opinion poll."
   }
 }
