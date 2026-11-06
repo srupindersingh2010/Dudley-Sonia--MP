@@ -1,10 +1,10 @@
 {
   "key": "bills",
   "source": "https://bills.parliament.uk/?SearchTerm=&MemberId=5274",
-  "retrieved_at": "2026-11-03T01:14:09+00:00",
-  "checked_at": "2026-11-05T15:02:30+00:00",
-  "status": "stale",
-  "error": "ReadTimeout",
+  "retrieved_at": "2026-11-06T14:42:51+00:00",
+  "checked_at": "2026-11-06T14:42:51+00:00",
+  "status": "ok",
+  "error": null,
   "data": {
     "items": [
       {
