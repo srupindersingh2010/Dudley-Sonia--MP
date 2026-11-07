@@ -1,8 +1,8 @@
 {
   "key": "petitions",
   "source": "https://petition.parliament.uk/petitions.json?state=open",
-  "retrieved_at": "2026-11-06T14:42:51+00:00",
-  "checked_at": "2026-11-06T14:42:51+00:00",
+  "retrieved_at": "2026-11-07T13:39:24+00:00",
+  "checked_at": "2026-11-07T13:39:24+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -12,8 +12,17 @@
         "url": "https://petition.parliament.uk/petitions/780269",
         "date": "2027-03-16",
         "local_signatures": 167,
-        "national_signatures": 113348,
-        "summary": "167 signatures from Dudley; 113,348 nationally. Closes 2027-03-16.",
+        "national_signatures": 113625,
+        "summary": "167 signatures from Dudley; 113,625 nationally. Closes 2027-03-16.",
+        "ons_code": "E14001204"
+      },
+      {
+        "title": "Legislate to protect ILR applicants from retrospective changes",
+        "url": "https://petition.parliament.uk/petitions/775267",
+        "date": "2027-01-30",
+        "local_signatures": 153,
+        "national_signatures": 159417,
+        "summary": "153 signatures from Dudley; 159,417 nationally. Closes 2027-01-30.",
         "ons_code": "E14001204"
       },
       {
@@ -21,17 +30,8 @@
         "url": "https://petition.parliament.uk/petitions/773633",
         "date": "2027-01-15",
         "local_signatures": 149,
-        "national_signatures": 87100,
-        "summary": "149 signatures from Dudley; 87,100 nationally. Closes 2027-01-15.",
-        "ons_code": "E14001204"
-      },
-      {
-        "title": "Legislate to protect ILR applicants from retrospective changes",
-        "url": "https://petition.parliament.uk/petitions/775267",
-        "date": "2027-01-30",
-        "local_signatures": 148,
-        "national_signatures": 154458,
-        "summary": "148 signatures from Dudley; 154,458 nationally. Closes 2027-01-30.",
+        "national_signatures": 87350,
+        "summary": "149 signatures from Dudley; 87,350 nationally. Closes 2027-01-15.",
         "ons_code": "E14001204"
       },
       {
@@ -39,8 +39,8 @@
         "url": "https://petition.parliament.uk/petitions/772026",
         "date": "2027-01-03",
         "local_signatures": 143,
-        "national_signatures": 20660,
-        "summary": "143 signatures from Dudley; 20,660 nationally. Closes 2027-01-03.",
+        "national_signatures": 20667,
+        "summary": "143 signatures from Dudley; 20,667 nationally. Closes 2027-01-03.",
         "ons_code": "E14001204"
       },
       {
@@ -48,8 +48,8 @@
         "url": "https://petition.parliament.uk/petitions/769589",
         "date": "2026-12-08",
         "local_signatures": 133,
-        "national_signatures": 128867,
-        "summary": "133 signatures from Dudley; 128,867 nationally. Closes 2026-12-08.",
+        "national_signatures": 129340,
+        "summary": "133 signatures from Dudley; 129,340 nationally. Closes 2026-12-08.",
         "ons_code": "E14001204"
       },
       {
@@ -57,8 +57,8 @@
         "url": "https://petition.parliament.uk/petitions/769616",
         "date": "2026-12-12",
         "local_signatures": 97,
-        "national_signatures": 55666,
-        "summary": "97 signatures from Dudley; 55,666 nationally. Closes 2026-12-12.",
+        "national_signatures": 55685,
+        "summary": "97 signatures from Dudley; 55,685 nationally. Closes 2026-12-12.",
         "ons_code": "E14001204"
       },
       {
@@ -66,8 +66,8 @@
         "url": "https://petition.parliament.uk/petitions/779519",
         "date": "2027-03-17",
         "local_signatures": 85,
-        "national_signatures": 46686,
-        "summary": "85 signatures from Dudley; 46,686 nationally. Closes 2027-03-17.",
+        "national_signatures": 46709,
+        "summary": "85 signatures from Dudley; 46,709 nationally. Closes 2027-03-17.",
         "ons_code": "E14001204"
       },
       {
@@ -83,9 +83,9 @@
         "title": "Make catapult attacks against animals a standalone criminal offence",
         "url": "https://petition.parliament.uk/petitions/777710",
         "date": "2027-02-20",
-        "local_signatures": 76,
-        "national_signatures": 75332,
-        "summary": "76 signatures from Dudley; 75,332 nationally. Closes 2027-02-20.",
+        "local_signatures": 77,
+        "national_signatures": 75878,
+        "summary": "77 signatures from Dudley; 75,878 nationally. Closes 2027-02-20.",
         "ons_code": "E14001204"
       },
       {
@@ -93,14 +93,14 @@
         "url": "https://petition.parliament.uk/petitions/779259",
         "date": "2027-03-14",
         "local_signatures": 70,
-        "national_signatures": 81777,
-        "summary": "70 signatures from Dudley; 81,777 nationally. Closes 2027-03-14.",
+        "national_signatures": 82224,
+        "summary": "70 signatures from Dudley; 82,224 nationally. Closes 2027-03-14.",
         "ons_code": "E14001204"
       }
     ],
-    "candidate_count": 2208,
+    "candidate_count": 2197,
     "examined_count": 1104,
-    "detail_requests": 476,
+    "detail_requests": 436,
     "note": "Open petitions ranked by signatures recorded in Dudley (ONS E14001204), not national totals. All open-petition listing pages checked; candidates eliminated only when national signatures are below the local top-ten cutoff. Live counts can change during collection. Petition signatures are not an opinion poll."
   }
 }
