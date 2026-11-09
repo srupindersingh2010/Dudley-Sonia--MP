@@ -1,8 +1,8 @@
 {
   "key": "police_teams",
   "source": "https://data.police.uk/docs/method/neighbourhoods/",
-  "retrieved_at": "2026-11-08T13:58:13+00:00",
-  "checked_at": "2026-11-08T13:58:13+00:00",
+  "retrieved_at": "2026-11-09T16:58:45+00:00",
+  "checked_at": "2026-11-09T16:58:45+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -369,6 +369,24 @@
             "action": "DC3 will be visiting all retail premises within Netherton, Quarry Bank and St Thomas to provide advice, enforcement, target hardening and reassurance, as no identified fireworks retailers within these areas that are currently exist. Engagement and Disruption Visits to Local ASB Nominals with live civil interventions Crime and ASB Prevention Visits to Local Community Hubs / Businesses. Consideration of: Zero Tolerance ASB Partnership Operations (support of GTF, Safer Travel, Mounted, Specials, DMBC Street Wardens, DMBC ASB Team) Licensing Checks, NTE Patrols, and consideration of trading Standards Joint Visits",
             "date": "2026-10-08T00:00:00",
             "action_date": "2026-10-08T00:00:00"
+          },
+          {
+            "issue": "Op Sceptre actions - Retailer Visits - literature hand out (One stops, Asda, local shops)",
+            "action": "Op Sceptre actions - Retailer Visits - literature hand out (One stops, Asda, local shops)",
+            "date": "2026-11-21T00:00:00",
+            "action_date": "2026-11-21T00:00:00"
+          },
+          {
+            "issue": "Knife crime stand and patrols (with appropriate PPE) - crime hotspot areas - awaiting confirmation from Specials and LATS for support",
+            "action": "Knife crime stand and patrols (with appropriate PPE) - crime hotspot areas - awaiting confirmation from Specials and LATS for support",
+            "date": "2026-11-08T00:00:00",
+            "action_date": "2026-11-08T00:00:00"
+          },
+          {
+            "issue": "Op Sceptre patrols",
+            "action": "Op Sceptre patrols",
+            "date": "2026-11-16T00:00:00",
+            "action_date": "2026-11-16T00:00:00"
           }
         ]
       }
