@@ -1,8 +1,8 @@
 {
   "key": "contact",
   "source": "https://members-api.parliament.uk/api/Members/5274/Contact",
-  "retrieved_at": "2026-11-09T16:58:45+00:00",
-  "checked_at": "2026-11-09T16:58:45+00:00",
+  "retrieved_at": "2026-11-10T15:19:09+00:00",
+  "checked_at": "2026-11-10T15:19:09+00:00",
   "status": "ok",
   "error": null,
   "data": {

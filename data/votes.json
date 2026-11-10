@@ -1,8 +1,8 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-09T16:58:45+00:00",
-  "checked_at": "2026-11-09T16:58:45+00:00",
+  "retrieved_at": "2026-11-10T15:19:09+00:00",
+  "checked_at": "2026-11-10T15:19:09+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -44,13 +44,31 @@
         "publication_updated": "2026-11-04T14:04:17"
       },
       {
+        "title": "Draft Private Rented Sector Database Regulations 2026",
+        "date": "2026-11-04T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2472",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2472,
+        "publication_updated": "2026-11-10T14:35:05"
+      },
+      {
+        "title": " Draft Housing (Tenancy Deposit Schemes) Order 2026",
+        "date": "2026-11-04T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2471",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2471,
+        "publication_updated": "2026-11-10T14:34:44"
+      },
+      {
         "title": "Budget Resolution No. 86: High value council tax surcharge",
         "date": "2026-11-03T19:52:00",
         "url": "https://votes.parliament.uk/votes/commons/division/2470",
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2470,
-        "publication_updated": "2026-11-05T11:48:17"
+        "publication_updated": "2026-11-09T17:29:30"
       },
       {
         "title": "Budget Resolution No. 76: Rates of alcohol duty",
@@ -59,7 +77,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2469,
-        "publication_updated": "2026-11-05T11:48:03"
+        "publication_updated": "2026-11-09T17:29:00"
       },
       {
         "title": "Budget Resolution No. 55: Value added tax (electric vehicle charging)",
@@ -77,7 +95,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2467,
-        "publication_updated": "2026-11-05T11:47:41"
+        "publication_updated": "2026-11-09T17:28:23"
       },
       {
         "title": "Budget Resolution No. 8: Capital gains tax (business asset disposal relief) ",
@@ -203,7 +221,7 @@
         "summary": "No",
         "vote": "No",
         "division_id": 2453,
-        "publication_updated": "2026-10-20T18:41:17"
+        "publication_updated": "2026-11-09T17:33:20"
       },
       {
         "title": "Northern Ireland Troubles Bill Committee: Amendment 47",
@@ -213,28 +231,10 @@
         "vote": "No",
         "division_id": 2452,
         "publication_updated": "2026-10-20T16:50:33"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: Amendment 4",
-        "date": "2026-10-19T22:31:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2451",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2451,
-        "publication_updated": "2026-10-20T16:50:09"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: Amendment 52",
-        "date": "2026-10-19T22:09:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2450",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2450,
-        "publication_updated": "2026-10-20T16:49:43"
       }
     ],
-    "period_start": "2026-08-11",
-    "period_end": "2026-11-09",
+    "period_start": "2026-08-12",
+    "period_end": "2026-11-10",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,

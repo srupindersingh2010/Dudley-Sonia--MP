@@ -1,18 +1,12 @@
 {
   "key": "interests",
   "source": "https://members.parliament.uk/member/5274/registeredinterests",
-  "retrieved_at": "2026-11-09T16:58:45+00:00",
-  "checked_at": "2026-11-09T16:58:45+00:00",
+  "retrieved_at": "2026-11-10T15:19:09+00:00",
+  "checked_at": "2026-11-10T15:19:09+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
-      {
-        "title": "International visit to Ukraine between 10 September 2025 and 15 September 2025",
-        "date": "2025-10-08",
-        "summary": "Visits outside the UK",
-        "url": "https://members.parliament.uk/member/5274/registeredinterests"
-      },
       {
         "title": "Physiotherapist - Dudley Group NHS Foundation Trust",
         "date": "2024-07-17",
