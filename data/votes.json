@@ -1,8 +1,8 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-10T15:19:09+00:00",
-  "checked_at": "2026-11-10T15:19:09+00:00",
+  "retrieved_at": "2026-11-11T14:49:29+00:00",
+  "checked_at": "2026-11-11T14:49:29+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -14,7 +14,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2476,
-        "publication_updated": "2026-11-04T14:52:26"
+        "publication_updated": "2026-11-10T19:55:09"
       },
       {
         "title": "Sporting Events Bill [Lords] Report: Amendment 8",
@@ -68,7 +68,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2470,
-        "publication_updated": "2026-11-09T17:29:30"
+        "publication_updated": "2026-11-10T19:49:05"
       },
       {
         "title": "Budget Resolution No. 76: Rates of alcohol duty",
@@ -104,7 +104,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2466,
-        "publication_updated": "2026-11-05T11:47:09"
+        "publication_updated": "2026-11-10T19:47:51"
       },
       {
         "title": "Budget Resolution No.7: Increase in rate of banking surcharge for temporary period",
@@ -113,7 +113,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2465,
-        "publication_updated": "2026-11-05T11:46:14"
+        "publication_updated": "2026-11-10T21:18:43"
       },
       {
         "title": "Budget Resolution No. 3: Income tax (default, property and savings rates)",
@@ -233,8 +233,8 @@
         "publication_updated": "2026-10-20T16:50:33"
       }
     ],
-    "period_start": "2026-08-12",
-    "period_end": "2026-11-10",
+    "period_start": "2026-08-13",
+    "period_end": "2026-11-11",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,

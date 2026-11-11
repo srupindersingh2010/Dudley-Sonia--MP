@@ -1,12 +1,22 @@
 {
   "key": "speeches",
   "source": "https://hansard.parliament.uk/search/Contributions?memberId=5274",
-  "retrieved_at": "2026-11-10T15:19:09+00:00",
-  "checked_at": "2026-11-10T15:19:09+00:00",
+  "retrieved_at": "2026-11-11T14:49:29+00:00",
+  "checked_at": "2026-11-11T14:49:29+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Topical Questions",
+        "date": "2026-11-10",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-10/debates/C620E704-423E-4AC6-BDD2-26DADF431CD5/TopicalQuestions#contribution-6127D140-8C81-4CD4-AA0F-B1BAD0B80118",
+        "summary": "Over 60% of people in prison have speech, language or communication needs. Effective rehabilitation must be holistic. To prevent reoffending and provide support, it is paramount that we address not only the offending behaviour, but the underlying communication, health, education and social needs. What steps is my hon. Friend the Minister taking to ensure that access to speech and language therapists and other allied health professionals is available in prison?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "6127D140-8C81-4CD4-AA0F-B1BAD0B80118",
+        "quote": true
+      },
       {
         "title": "Poundland",
         "date": "2026-11-03",
@@ -196,19 +206,9 @@
         "member_id": 5274,
         "id": "ED9DA4A2-4088-4373-8961-7EE0FE79566F",
         "quote": true
-      },
-      {
-        "title": "Topical Questions",
-        "date": "2026-07-07",
-        "url": "https://hansard.parliament.uk/Commons/2026-07-07/debates/A0FD7BE8-446E-4DF5-8ECD-7D34BFC83068/TopicalQuestions#contribution-114B5861-842E-4FBF-B171-BF8CF109E9EC",
-        "summary": "The UK’s green economy is worth more than £100 billion a year, and nearly half a trillion pounds in investment is in the pipeline. What steps is the Minister taking to ensure that the contracts that his Department provides prioritise British firms and British jobs, so that we can prove our national capabilities and secure our energy?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "114B5861-842E-4FBF-B171-BF8CF109E9EC",
-        "quote": true
       }
     ],
-    "total": 200,
+    "total": 201,
     "note": "Latest 20 spoken contributions, including oral questions and interventions. Extracts are Sonia Kumar’s words in the official record, not site commentary. Follow the source link for the full debate and context."
   }
 }

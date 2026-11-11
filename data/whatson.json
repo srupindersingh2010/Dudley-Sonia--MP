@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-10T15:19:09+00:00",
-  "checked_at": "2026-11-10T15:19:09+00:00",
+  "retrieved_at": "2026-11-11T14:49:29+00:00",
+  "checked_at": "2026-11-11T14:49:29+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -162,9 +162,23 @@
         "cancelled": false
       },
       {
-        "title": " Opposition Day (Fifth Allotted Day). Debate on a Motion in the name of the Official Opposition. Subject to be announced ",
+        "title": "Welfare",
         "date": "2026-11-11",
         "url": "https://whatson.parliament.uk/event/cal57017",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Employers",
+        "date": "2026-11-11",
+        "url": "https://whatson.parliament.uk/event/cal57176",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Independent Expert Panel",
+        "date": "2026-11-11",
+        "url": "https://whatson.parliament.uk/event/cal57177",
         "summary": "Main Chamber",
         "cancelled": false
       },
@@ -417,7 +431,7 @@
         "title": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
         "date": "2026-11-12T11:30",
         "url": "https://committees.parliament.uk/event/28612",
-        "summary": "General Committee; The Boothroyd Room, Portcullis House; To consider the Bill",
+        "summary": "General Committee; The Boothroyd Room, Portcullis House; To consider the Bill; Further to consider the Bill",
         "cancelled": false
       },
       {
@@ -526,13 +540,6 @@
         "cancelled": false
       },
       {
-        "title": "Artificial Superintelligence Bill: Second Reading",
-        "date": "2026-11-13",
-        "url": "https://whatson.parliament.uk/event/cal56615",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
         "title": "Personal data (Digital Twins) Bill: Second Reading",
         "date": "2026-11-13",
         "url": "https://whatson.parliament.uk/event/cal56616",
@@ -627,13 +634,6 @@
         "title": "Sale and Supply of Glue Traps (Prohibition) Bill: Second Reading",
         "date": "2026-11-13",
         "url": "https://whatson.parliament.uk/event/cal56679",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
-        "title": "Perinatal Mental Health Assessments Bill: Second Reading",
-        "date": "2026-11-13",
-        "url": "https://whatson.parliament.uk/event/cal56906",
         "summary": "Main Chamber",
         "cancelled": false
       },
