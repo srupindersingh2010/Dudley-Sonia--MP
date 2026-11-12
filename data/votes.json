@@ -1,12 +1,39 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-11T14:49:29+00:00",
-  "checked_at": "2026-11-11T14:49:29+00:00",
+  "retrieved_at": "2026-11-12T15:40:56+00:00",
+  "checked_at": "2026-11-12T15:40:56+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Opposition day: Employers",
+        "date": "2026-11-11T18:59:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2480",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2480,
+        "publication_updated": "2026-11-11T19:16:43"
+      },
+      {
+        "title": "Government Amendment to Opposition day debate on Welfare",
+        "date": "2026-11-11T15:59:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2479",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2479,
+        "publication_updated": "2026-11-11T19:18:08"
+      },
+      {
+        "title": "Opposition day: Welfare",
+        "date": "2026-11-11T15:45:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2478",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2478,
+        "publication_updated": "2026-11-11T19:18:27"
+      },
       {
         "title": "Railways Bill: Carry-over extension (Motion)",
         "date": "2026-11-04T14:35:00",
@@ -23,7 +50,7 @@
         "summary": "No",
         "vote": "No",
         "division_id": 2475,
-        "publication_updated": "2026-11-04T14:13:25"
+        "publication_updated": "2026-11-12T13:49:14"
       },
       {
         "title": "Sporting Events Bill [Lords] Report: Amendment 6",
@@ -113,7 +140,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2465,
-        "publication_updated": "2026-11-10T21:18:43"
+        "publication_updated": "2026-11-11T19:38:20"
       },
       {
         "title": "Budget Resolution No. 3: Income tax (default, property and savings rates)",
@@ -204,37 +231,10 @@
         "vote": "No",
         "division_id": 2455,
         "publication_updated": "2026-10-20T19:20:35"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: Amendment 51",
-        "date": "2026-10-20T17:34:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2454",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2454,
-        "publication_updated": "2026-10-26T17:31:02"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: New Clause 21",
-        "date": "2026-10-19T23:04:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2453",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2453,
-        "publication_updated": "2026-11-09T17:33:20"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: Amendment 47",
-        "date": "2026-10-19T22:46:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2452",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2452,
-        "publication_updated": "2026-10-20T16:50:33"
       }
     ],
-    "period_start": "2026-08-13",
-    "period_end": "2026-11-11",
+    "period_start": "2026-08-14",
+    "period_end": "2026-11-12",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,

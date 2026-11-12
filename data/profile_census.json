@@ -1,8 +1,8 @@
 {
   "key": "profile_census",
   "source": "https://ons-dp-prod-cdn.s3.eu-west-2.amazonaws.com/maptiles/ap-geos/v4/E14/E14001204.json",
-  "retrieved_at": "2026-11-11T14:49:29+00:00",
-  "checked_at": "2026-11-11T14:49:29+00:00",
+  "retrieved_at": "2026-11-12T15:40:56+00:00",
+  "checked_at": "2026-11-12T15:40:56+00:00",
   "status": "ok",
   "error": null,
   "data": {

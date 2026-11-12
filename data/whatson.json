@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-11T14:49:29+00:00",
-  "checked_at": "2026-11-11T14:49:29+00:00",
+  "retrieved_at": "2026-11-12T15:40:56+00:00",
+  "checked_at": "2026-11-12T15:40:56+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -365,6 +365,13 @@
         "cancelled": false
       },
       {
+        "title": "To ask the Secretary of State for Defence if he will make a statement on the protection of United Kingdom military installations",
+        "date": "2026-11-12",
+        "url": "https://whatson.parliament.uk/event/cal57208",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
         "title": "Business Questions to the Leader of the House",
         "date": "2026-11-12",
         "url": "https://whatson.parliament.uk/event/cal57018",
@@ -372,9 +379,9 @@
         "cancelled": false
       },
       {
-        "title": "Select Committee Statement on the Second Report of the Defence Committee, Defence in the High North, HC 71",
+        "title": "Humanitarian Situation in Gaza",
         "date": "2026-11-12",
-        "url": "https://whatson.parliament.uk/event/cal57132",
+        "url": "https://whatson.parliament.uk/event/cal57209",
         "summary": "Main Chamber",
         "cancelled": false
       },
@@ -382,6 +389,13 @@
         "title": "Select Committee Statement on the Sixth Report of the Health and Social Care Committee, The obesity moonshot: making obesity a political priority, HC 676",
         "date": "2026-11-12",
         "url": "https://whatson.parliament.uk/event/cal57133",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Select Committee Statement on the Second Report of the Defence Committee, Defence in the High North, HC 71",
+        "date": "2026-11-12",
+        "url": "https://whatson.parliament.uk/event/cal57132",
         "summary": "Main Chamber",
         "cancelled": false
       },
@@ -533,37 +547,9 @@
         "cancelled": false
       },
       {
-        "title": "Freedom of Information Act 2000 (Amendment) Bill: Second Reading",
-        "date": "2026-11-13",
-        "url": "https://whatson.parliament.uk/event/cal56349",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
-        "title": "Personal data (Digital Twins) Bill: Second Reading",
-        "date": "2026-11-13",
-        "url": "https://whatson.parliament.uk/event/cal56616",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
         "title": "Non-domestic rating (retail, Hospitality and Leisure) bill: Second reading",
         "date": "2026-11-13",
         "url": "https://whatson.parliament.uk/event/cal56853",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
-        "title": "Wet Wipes (Labelling, Sale and Marketing) bill: Second reading",
-        "date": "2026-11-13",
-        "url": "https://whatson.parliament.uk/event/cal56856",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
-        "title": "Road Safety Plans Bill: Second Reading",
-        "date": "2026-11-13",
-        "url": "https://whatson.parliament.uk/event/cal56491",
         "summary": "Main Chamber",
         "cancelled": false
       },

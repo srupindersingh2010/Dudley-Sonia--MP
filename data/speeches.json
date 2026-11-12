@@ -1,12 +1,32 @@
 {
   "key": "speeches",
   "source": "https://hansard.parliament.uk/search/Contributions?memberId=5274",
-  "retrieved_at": "2026-11-11T14:49:29+00:00",
-  "checked_at": "2026-11-11T14:49:29+00:00",
+  "retrieved_at": "2026-11-12T15:40:56+00:00",
+  "checked_at": "2026-11-12T15:40:56+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Business of the House",
+        "date": "2026-11-12",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-12/debates/E58E6EB3-F2D4-4E7C-A8C8-029FE03D8F18/BusinessOfTheHouse#contribution-A715979C-03FC-46D0-8110-061F1B6FE4B9",
+        "summary": "Dudley will be celebrating the 40th anniversary of the Dudley winter ales fayre. I thank the Campaign for Real Ale in Dudley and South Staffordshire, which is celebrating 50 years, and its chairman, John Corser, for all the fantastic work they do to celebrate real ale. Will my right hon. Friend join me in raising a glass to all the volunteers and breweries, and will he agree to a debate on that?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "A715979C-03FC-46D0-8110-061F1B6FE4B9",
+        "quote": true
+      },
+      {
+        "title": "Women’s Sport: Community Green Spaces",
+        "date": "2026-11-12",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-12/debates/6A61D4EB-0BAD-40E2-A559-0A41D8E9E912/Women’SSportCommunityGreenSpaces#contribution-459944B0-4C49-4F8D-931E-7600685322AE",
+        "summary": "Dudley is home to outstanding female sporting talent, including boxer Kirstie Bavington and karate rising star Jess Wyman. Both have spoken to me about the lack of training facilities, financial support and a clear pathway to elite sport for young females. What action is the Secretary of State taking to ensure that female athletes receive the right support to fulfil their potential, and will she meet them?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "459944B0-4C49-4F8D-931E-7600685322AE",
+        "quote": true
+      },
       {
         "title": "Topical Questions",
         "date": "2026-11-10",
@@ -186,29 +206,9 @@
         "member_id": 5274,
         "id": "B58587E2-CBF6-4692-B94A-305208CB11FD",
         "quote": true
-      },
-      {
-        "title": "Business of the House",
-        "date": "2026-07-09",
-        "url": "https://hansard.parliament.uk/Commons/2026-07-09/debates/7D1C451C-563A-49E5-95BE-4F1EDECA7B69/BusinessOfTheHouse#contribution-63C2F08F-A26D-4F83-9677-AB23B4D2A453",
-        "summary": "Black Country Day is on 14 July, and we have a lot to celebrate. The Black Country was the heart of the industrial revolution, we have Dudley castle and the Wren’s Nest nature reserve, where people can pick up a fossil—and, of course, we can celebrate the people of the Black Country. Will my right hon. Friend join me in wishing all those celebrating Black Country Day a great day? Will he grant a debate on the Black Country?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "63C2F08F-A26D-4F83-9677-AB23B4D2A453",
-        "quote": true
-      },
-      {
-        "title": "Iran Conflict: Ceasefire",
-        "date": "2026-07-09",
-        "url": "https://hansard.parliament.uk/Commons/2026-07-09/debates/AC51936F-AA19-4F2A-A221-1ACAFE660E66/IranConflictCeasefire#contribution-ED9DA4A2-4088-4373-8961-7EE0FE79566F",
-        "summary": "Does my hon. Friend agree that among the geopolitical military strategy and the diplomatic negotiations surrounding the conflict, we must not lose sight of the millions of innocent civilians across the region who are trapped in the middle of violence, displaced from their homes, hungry and without access to healthcare, while grieving loved ones and living without safety and security? Will he set out what steps the Government are taking to press all parties to uphold international humanitarian law, to protect civilians from acute hunger and allow them access to basic healthcare?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "ED9DA4A2-4088-4373-8961-7EE0FE79566F",
-        "quote": true
       }
     ],
-    "total": 201,
+    "total": 203,
     "note": "Latest 20 spoken contributions, including oral questions and interventions. Extracts are Sonia Kumar’s words in the official record, not site commentary. Follow the source link for the full debate and context."
   }
 }
