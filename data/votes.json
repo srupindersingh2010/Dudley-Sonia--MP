@@ -1,8 +1,8 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-12T15:40:56+00:00",
-  "checked_at": "2026-11-12T15:40:56+00:00",
+  "retrieved_at": "2026-11-13T14:59:12+00:00",
+  "checked_at": "2026-11-13T14:59:12+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -23,7 +23,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2479,
-        "publication_updated": "2026-11-11T19:18:08"
+        "publication_updated": "2026-11-12T16:34:28"
       },
       {
         "title": "Opposition day: Welfare",
@@ -233,8 +233,8 @@
         "publication_updated": "2026-10-20T19:20:35"
       }
     ],
-    "period_start": "2026-08-14",
-    "period_end": "2026-11-12",
+    "period_start": "2026-08-15",
+    "period_end": "2026-11-13",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,

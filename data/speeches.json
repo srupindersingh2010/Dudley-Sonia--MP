@@ -1,12 +1,22 @@
 {
   "key": "speeches",
   "source": "https://hansard.parliament.uk/search/Contributions?memberId=5274",
-  "retrieved_at": "2026-11-12T15:40:56+00:00",
-  "checked_at": "2026-11-12T15:40:56+00:00",
+  "retrieved_at": "2026-11-13T14:59:12+00:00",
+  "checked_at": "2026-11-13T14:59:12+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Gaza: Humanitarian Situation",
+        "date": "2026-11-12",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-12/debates/920376F3-251F-409D-BD8D-BA5A5B8A3D19/GazaHumanitarianSituation#contribution-A55A53DA-8FE0-4AB3-A2D5-FD93F776588E",
+        "summary": "I welcome the Minister’s statement and condemn the shadow Foreign Secretary’s comments. The situation in Gaza is dire. Flooding has damaged or destroyed thousands of shelters. Heavy rain has disrupted education for around 55,000 children across at least 55 learning spaces, while flooding and damaged infrastructure are putting children’s health, safety and access to basic essentials at serious risk. Enough is enough. What discussions has the Minister had with his American counterparts, who have real influence over the Israeli Government, to try to broker a deal to ensure that aid flows fully into Gaza?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "A55A53DA-8FE0-4AB3-A2D5-FD93F776588E",
+        "quote": true
+      },
       {
         "title": "Business of the House",
         "date": "2026-11-12",
@@ -196,19 +206,9 @@
         "member_id": 5274,
         "id": "15834E8B-0015-415E-80B2-E9B9D8A46A62",
         "quote": true
-      },
-      {
-        "title": "Topical Questions",
-        "date": "2026-07-16",
-        "url": "https://hansard.parliament.uk/Commons/2026-07-16/debates/4AB9C786-9BA4-4DCC-AD32-DB4469B94E0F/TopicalQuestions#contribution-B58587E2-CBF6-4692-B94A-305208CB11FD",
-        "summary": "I am delighted that the midlands metro tram line will connect Dudley with the rest of the west midlands. However, the construction has caused disruption to local businesses such as the Dubliner’s, and repeated delays have exacerbated that. What support can the Minister provide to businesses that are being impacted by the repeated delays to the tram?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "B58587E2-CBF6-4692-B94A-305208CB11FD",
-        "quote": true
       }
     ],
-    "total": 203,
+    "total": 204,
     "note": "Latest 20 spoken contributions, including oral questions and interventions. Extracts are Sonia Kumar’s words in the official record, not site commentary. Follow the source link for the full debate and context."
   }
 }

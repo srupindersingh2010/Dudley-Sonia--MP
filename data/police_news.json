@@ -2,7 +2,7 @@
   "key": "police_news",
   "source": "https://www.westmidlands.police.uk/news/",
   "retrieved_at": null,
-  "checked_at": "2026-11-12T15:40:56+00:00",
+  "checked_at": "2026-11-13T14:59:12+00:00",
   "status": "unavailable",
   "error": "HTTP 403",
   "data": {
