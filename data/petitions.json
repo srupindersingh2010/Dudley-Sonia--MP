@@ -1,8 +1,8 @@
 {
   "key": "petitions",
   "source": "https://petition.parliament.uk/petitions.json?state=open",
-  "retrieved_at": "2026-11-14T13:52:04+00:00",
-  "checked_at": "2026-11-14T13:52:04+00:00",
+  "retrieved_at": "2026-11-15T14:26:05+00:00",
+  "checked_at": "2026-11-15T14:26:05+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -12,17 +12,26 @@
         "url": "https://petition.parliament.uk/petitions/775267",
         "date": "2027-01-30",
         "local_signatures": 173,
-        "national_signatures": 175344,
-        "summary": "173 signatures from Dudley; 175,344 nationally. Closes 2027-01-30.",
+        "national_signatures": 175785,
+        "summary": "173 signatures from Dudley; 175,785 nationally. Closes 2027-01-30.",
         "ons_code": "E14001204"
       },
       {
         "title": "Reduce the state pension age to 65 for all",
         "url": "https://petition.parliament.uk/petitions/780269",
         "date": "2027-03-16",
-        "local_signatures": 171,
-        "national_signatures": 114917,
-        "summary": "171 signatures from Dudley; 114,917 nationally. Closes 2027-03-16.",
+        "local_signatures": 172,
+        "national_signatures": 115263,
+        "summary": "172 signatures from Dudley; 115,263 nationally. Closes 2027-03-16.",
+        "ons_code": "E14001204"
+      },
+      {
+        "title": "End the mandatory fortification of white flour with folic acid immediately",
+        "url": "https://petition.parliament.uk/petitions/769589",
+        "date": "2026-12-08",
+        "local_signatures": 150,
+        "national_signatures": 137974,
+        "summary": "150 signatures from Dudley; 137,974 nationally. Closes 2026-12-08.",
         "ons_code": "E14001204"
       },
       {
@@ -30,17 +39,8 @@
         "url": "https://petition.parliament.uk/petitions/773633",
         "date": "2027-01-15",
         "local_signatures": 149,
-        "national_signatures": 88408,
-        "summary": "149 signatures from Dudley; 88,408 nationally. Closes 2027-01-15.",
-        "ons_code": "E14001204"
-      },
-      {
-        "title": "End the mandatory fortification of white flour with folic acid immediately",
-        "url": "https://petition.parliament.uk/petitions/769589",
-        "date": "2026-12-08",
-        "local_signatures": 146,
-        "national_signatures": 135900,
-        "summary": "146 signatures from Dudley; 135,900 nationally. Closes 2026-12-08.",
+        "national_signatures": 88536,
+        "summary": "149 signatures from Dudley; 88,536 nationally. Closes 2027-01-15.",
         "ons_code": "E14001204"
       },
       {
@@ -48,26 +48,17 @@
         "url": "https://petition.parliament.uk/petitions/772026",
         "date": "2027-01-03",
         "local_signatures": 143,
-        "national_signatures": 20854,
-        "summary": "143 signatures from Dudley; 20,854 nationally. Closes 2027-01-03.",
-        "ons_code": "E14001204"
-      },
-      {
-        "title": "Increase the personal tax allowance threshold to £20,000",
-        "url": "https://petition.parliament.uk/petitions/767590",
-        "date": "2026-11-14",
-        "local_signatures": 100,
-        "national_signatures": 66824,
-        "summary": "100 signatures from Dudley; 66,824 nationally. Closes 2026-11-14.",
+        "national_signatures": 20866,
+        "summary": "143 signatures from Dudley; 20,866 nationally. Closes 2027-01-03.",
         "ons_code": "E14001204"
       },
       {
         "title": "Mandate low noise fireworks, drone & laser displays instead of normal fireworks",
         "url": "https://petition.parliament.uk/petitions/779197",
         "date": "2027-03-14",
-        "local_signatures": 100,
-        "national_signatures": 36666,
-        "summary": "100 signatures from Dudley; 36,666 nationally. Closes 2027-03-14.",
+        "local_signatures": 102,
+        "national_signatures": 37140,
+        "summary": "102 signatures from Dudley; 37,140 nationally. Closes 2027-03-14.",
         "ons_code": "E14001204"
       },
       {
@@ -75,8 +66,17 @@
         "url": "https://petition.parliament.uk/petitions/769616",
         "date": "2026-12-12",
         "local_signatures": 97,
-        "national_signatures": 55825,
-        "summary": "97 signatures from Dudley; 55,825 nationally. Closes 2026-12-12.",
+        "national_signatures": 55847,
+        "summary": "97 signatures from Dudley; 55,847 nationally. Closes 2026-12-12.",
+        "ons_code": "E14001204"
+      },
+      {
+        "title": "Make catapult attacks against animals a standalone criminal offence",
+        "url": "https://petition.parliament.uk/petitions/777710",
+        "date": "2027-02-20",
+        "local_signatures": 85,
+        "national_signatures": 83210,
+        "summary": "85 signatures from Dudley; 83,210 nationally. Closes 2027-02-20.",
         "ons_code": "E14001204"
       },
       {
@@ -84,23 +84,23 @@
         "url": "https://petition.parliament.uk/petitions/779519",
         "date": "2027-03-17",
         "local_signatures": 85,
-        "national_signatures": 46946,
-        "summary": "85 signatures from Dudley; 46,946 nationally. Closes 2027-03-17.",
+        "national_signatures": 46975,
+        "summary": "85 signatures from Dudley; 46,975 nationally. Closes 2027-03-17.",
         "ons_code": "E14001204"
       },
       {
-        "title": "Make catapult attacks against animals a standalone criminal offence",
-        "url": "https://petition.parliament.uk/petitions/777710",
-        "date": "2027-02-20",
-        "local_signatures": 83,
-        "national_signatures": 82986,
-        "summary": "83 signatures from Dudley; 82,986 nationally. Closes 2027-02-20.",
+        "title": "Urgently review & adjust steel import quota & tariff changes - effective 01/07",
+        "url": "https://petition.parliament.uk/petitions/767467",
+        "date": "2026-11-15",
+        "local_signatures": 77,
+        "national_signatures": 10297,
+        "summary": "77 signatures from Dudley; 10,297 nationally. Closes 2026-11-15.",
         "ons_code": "E14001204"
       }
     ],
-    "candidate_count": 2165,
-    "examined_count": 1008,
-    "detail_requests": 482,
+    "candidate_count": 2126,
+    "examined_count": 1024,
+    "detail_requests": 471,
     "note": "Open petitions ranked by signatures recorded in Dudley (ONS E14001204), not national totals. All open-petition listing pages checked; candidates eliminated only when national signatures are below the local top-ten cutoff. Live counts can change during collection. Petition signatures are not an opinion poll."
   }
 }
