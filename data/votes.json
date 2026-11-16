@@ -1,8 +1,8 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-15T14:26:05+00:00",
-  "checked_at": "2026-11-15T14:26:05+00:00",
+  "retrieved_at": "2026-11-16T16:37:20+00:00",
+  "checked_at": "2026-11-16T16:37:20+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -95,7 +95,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2470,
-        "publication_updated": "2026-11-10T19:49:05"
+        "publication_updated": "2026-11-16T13:58:18"
       },
       {
         "title": "Budget Resolution No. 76: Rates of alcohol duty",
@@ -140,7 +140,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2465,
-        "publication_updated": "2026-11-11T19:38:20"
+        "publication_updated": "2026-11-16T11:39:33"
       },
       {
         "title": "Budget Resolution No. 3: Income tax (default, property and savings rates)",
@@ -233,8 +233,8 @@
         "publication_updated": "2026-10-20T19:20:35"
       }
     ],
-    "period_start": "2026-08-17",
-    "period_end": "2026-11-15",
+    "period_start": "2026-08-18",
+    "period_end": "2026-11-16",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,
