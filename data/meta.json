@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T16:37:20.894850+00:00",
+  "checked_at": "2026-11-17T16:34:28.834620+00:00",
   "timezone": "Europe/London",
   "sources": {
     "bills": "stale",
@@ -25,6 +25,6 @@
     "useful_links": "ok",
     "votes": "ok",
     "whatson": "ok",
-    "wmca_meetings": "ok"
+    "wmca_meetings": "stale"
   }
 }

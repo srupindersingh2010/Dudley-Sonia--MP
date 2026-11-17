@@ -1,12 +1,22 @@
 {
   "key": "speeches",
   "source": "https://hansard.parliament.uk/search/Contributions?memberId=5274",
-  "retrieved_at": "2026-11-16T16:37:20+00:00",
-  "checked_at": "2026-11-16T16:37:20+00:00",
+  "retrieved_at": "2026-11-17T16:34:28+00:00",
+  "checked_at": "2026-11-17T16:34:28+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Topical Questions",
+        "date": "2026-11-16",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-16/debates/DB9BEED7-5B6C-4371-B333-41CEDAF0EBEA/TopicalQuestions#contribution-29618F5D-DA07-44E1-B2EF-AC06C51627A1",
+        "summary": "In Dudley, the number of home-educated children is rising due to the lack of alternative provision for SEND children who are not managing in mainstream schools, and parents are crying out for support. Will the Secretary of State back Dudley Academies Trust’s proposal for alternative provision for under-16s, and meet us to discuss giving every child the best start in life?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "29618F5D-DA07-44E1-B2EF-AC06C51627A1",
+        "quote": true
+      },
       {
         "title": "Gaza: Humanitarian Situation",
         "date": "2026-11-12",
@@ -196,19 +206,9 @@
         "member_id": 5274,
         "id": "CB18F477-EBEF-4B71-ADBC-4900E2B56F76",
         "quote": true
-      },
-      {
-        "title": "Business of the House",
-        "date": "2026-07-16",
-        "url": "https://hansard.parliament.uk/Commons/2026-07-16/debates/7214B6AD-D715-43A5-8E7D-41E27BCBB509/BusinessOfTheHouse#contribution-15834E8B-0015-415E-80B2-E9B9D8A46A62",
-        "summary": "GMB union members at Glen Dimplex in my constituency have been on strike for five weeks over proposed workload changes. This week, after showing remarkable grit, they secured a return to the status quo while negotiations continue. Will the Leader of the House provide Government time for a debate on what more can be done to protect workers’ rights from unfair changes to their terms and conditions and ensure that employers negotiate in good faith?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "15834E8B-0015-415E-80B2-E9B9D8A46A62",
-        "quote": true
       }
     ],
-    "total": 204,
+    "total": 205,
     "note": "Latest 20 spoken contributions, including oral questions and interventions. Extracts are Sonia Kumar’s words in the official record, not site commentary. Follow the source link for the full debate and context."
   }
 }

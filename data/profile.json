@@ -1,8 +1,8 @@
 {
   "key": "profile",
   "source": "https://www.nomisweb.co.uk/reports/lmp/wpca24/721420430/report.aspx",
-  "retrieved_at": "2026-11-16T16:37:20+00:00",
-  "checked_at": "2026-11-16T16:37:20+00:00",
+  "retrieved_at": "2026-11-17T16:34:28+00:00",
+  "checked_at": "2026-11-17T16:34:28+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -32,11 +32,11 @@
       },
       {
         "title": "People claiming unemployment-related benefits",
-        "value": "3,610",
+        "value": "3,595",
         "rate": "5.6%",
-        "period": "September 2026",
+        "period": "October 2026",
         "url": "https://www.nomisweb.co.uk/reports/lmp/wpca24/721420430/report.aspx",
-        "summary": "3,610 (5.6%) · September 2026. ONS via Nomis; Dudley constituency on 2024 boundaries."
+        "summary": "3,595 (5.6%) · October 2026. ONS via Nomis; Dudley constituency on 2024 boundaries."
       },
       {
         "title": "Health conditions: official constituency dashboard",

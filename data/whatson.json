@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-16T16:37:20+00:00",
-  "checked_at": "2026-11-16T16:37:20+00:00",
+  "retrieved_at": "2026-11-17T16:34:28+00:00",
+  "checked_at": "2026-11-17T16:34:28+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -96,6 +96,13 @@
         "date": "2026-11-16T18:00",
         "url": "https://committees.parliament.uk/event/28782",
         "summary": "General Committee; Room 12, Palace of Westminster; The draft Misuse of Drugs Act 1971 (Amendment) Order 2026",
+        "cancelled": false
+      },
+      {
+        "title": "Milburn Review Final Report",
+        "date": "2026-11-17",
+        "url": "https://whatson.parliament.uk/event/cal57271",
+        "summary": "Main Chamber",
         "cancelled": false
       },
       {
