@@ -1,8 +1,8 @@
 {
   "key": "petitions",
   "source": "https://petition.parliament.uk/petitions.json?state=open",
-  "retrieved_at": "2026-11-17T16:34:28+00:00",
-  "checked_at": "2026-11-17T16:34:28+00:00",
+  "retrieved_at": "2026-11-18T16:03:30+00:00",
+  "checked_at": "2026-11-18T16:03:30+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -12,8 +12,8 @@
         "url": "https://petition.parliament.uk/petitions/780269",
         "date": "2027-03-16",
         "local_signatures": 175,
-        "national_signatures": 115822,
-        "summary": "175 signatures from Dudley; 115,822 nationally. Closes 2027-03-16.",
+        "national_signatures": 116109,
+        "summary": "175 signatures from Dudley; 116,109 nationally. Closes 2027-03-16.",
         "ons_code": "E14001204"
       },
       {
@@ -21,17 +21,17 @@
         "url": "https://petition.parliament.uk/petitions/775267",
         "date": "2027-01-30",
         "local_signatures": 173,
-        "national_signatures": 176841,
-        "summary": "173 signatures from Dudley; 176,841 nationally. Closes 2027-01-30.",
+        "national_signatures": 177201,
+        "summary": "173 signatures from Dudley; 177,201 nationally. Closes 2027-01-30.",
         "ons_code": "E14001204"
       },
       {
         "title": "End the mandatory fortification of white flour with folic acid immediately",
         "url": "https://petition.parliament.uk/petitions/769589",
         "date": "2026-12-08",
-        "local_signatures": 159,
-        "national_signatures": 142274,
-        "summary": "159 signatures from Dudley; 142,274 nationally. Closes 2026-12-08.",
+        "local_signatures": 160,
+        "national_signatures": 143594,
+        "summary": "160 signatures from Dudley; 143,594 nationally. Closes 2026-12-08.",
         "ons_code": "E14001204"
       },
       {
@@ -39,8 +39,8 @@
         "url": "https://petition.parliament.uk/petitions/773633",
         "date": "2027-01-15",
         "local_signatures": 150,
-        "national_signatures": 89296,
-        "summary": "150 signatures from Dudley; 89,296 nationally. Closes 2027-01-15.",
+        "national_signatures": 89509,
+        "summary": "150 signatures from Dudley; 89,509 nationally. Closes 2027-01-15.",
         "ons_code": "E14001204"
       },
       {
@@ -57,8 +57,8 @@
         "url": "https://petition.parliament.uk/petitions/779197",
         "date": "2027-03-14",
         "local_signatures": 102,
-        "national_signatures": 37644,
-        "summary": "102 signatures from Dudley; 37,644 nationally. Closes 2027-03-14.",
+        "national_signatures": 37850,
+        "summary": "102 signatures from Dudley; 37,850 nationally. Closes 2027-03-14.",
         "ons_code": "E14001204"
       },
       {
@@ -66,8 +66,8 @@
         "url": "https://petition.parliament.uk/petitions/769616",
         "date": "2026-12-12",
         "local_signatures": 97,
-        "national_signatures": 55893,
-        "summary": "97 signatures from Dudley; 55,893 nationally. Closes 2026-12-12.",
+        "national_signatures": 55910,
+        "summary": "97 signatures from Dudley; 55,910 nationally. Closes 2026-12-12.",
         "ons_code": "E14001204"
       },
       {
@@ -75,8 +75,8 @@
         "url": "https://petition.parliament.uk/petitions/777710",
         "date": "2027-02-20",
         "local_signatures": 86,
-        "national_signatures": 83548,
-        "summary": "86 signatures from Dudley; 83,548 nationally. Closes 2027-02-20.",
+        "national_signatures": 83624,
+        "summary": "86 signatures from Dudley; 83,624 nationally. Closes 2027-02-20.",
         "ons_code": "E14001204"
       },
       {
@@ -84,8 +84,8 @@
         "url": "https://petition.parliament.uk/petitions/779519",
         "date": "2027-03-17",
         "local_signatures": 85,
-        "national_signatures": 47054,
-        "summary": "85 signatures from Dudley; 47,054 nationally. Closes 2027-03-17.",
+        "national_signatures": 47103,
+        "summary": "85 signatures from Dudley; 47,103 nationally. Closes 2027-03-17.",
         "ons_code": "E14001204"
       },
       {
@@ -93,13 +93,13 @@
         "url": "https://petition.parliament.uk/petitions/779259",
         "date": "2027-03-14",
         "local_signatures": 79,
-        "national_signatures": 105060,
-        "summary": "79 signatures from Dudley; 105,060 nationally. Closes 2027-03-14.",
+        "national_signatures": 105704,
+        "summary": "79 signatures from Dudley; 105,704 nationally. Closes 2027-03-14.",
         "ons_code": "E14001204"
       }
     ],
-    "candidate_count": 2151,
-    "examined_count": 1008,
+    "candidate_count": 2171,
+    "examined_count": 1024,
     "detail_requests": 479,
     "note": "Open petitions ranked by signatures recorded in Dudley (ONS E14001204), not national totals. All open-petition listing pages checked; candidates eliminated only when national signatures are below the local top-ten cutoff. Live counts can change during collection. Petition signatures are not an opinion poll."
   }

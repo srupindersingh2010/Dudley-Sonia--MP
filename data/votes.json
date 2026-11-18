@@ -1,12 +1,66 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-17T16:34:28+00:00",
-  "checked_at": "2026-11-17T16:34:28+00:00",
+  "retrieved_at": "2026-11-18T16:03:30+00:00",
+  "checked_at": "2026-11-18T16:03:30+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Draft Employment Rights Act 2025 (Unfair Dismissal) (Removal of Limit on  Compensation) (Consequential Amendments) Regulations 2026",
+        "date": "2026-11-18T00:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2487",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2487,
+        "publication_updated": "2026-11-18T15:26:42"
+      },
+      {
+        "title": "Immigration and Asylum Bill: Third Reading",
+        "date": "2026-11-17T19:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2486",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2486,
+        "publication_updated": "2026-11-18T15:07:05"
+      },
+      {
+        "title": "Immigration and Asylum Bill Report Stage: New Clause 62",
+        "date": "2026-11-17T18:42:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2485",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2485,
+        "publication_updated": "2026-11-17T18:56:49"
+      },
+      {
+        "title": "Immigration and Asylum Bill Report Stage: New Clause 54",
+        "date": "2026-11-17T18:30:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2484",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2484,
+        "publication_updated": "2026-11-17T18:46:28"
+      },
+      {
+        "title": "Immigration and Asylum Bill Report Stage: New Clause 50",
+        "date": "2026-11-17T18:16:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2483",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2483,
+        "publication_updated": "2026-11-18T15:32:52"
+      },
+      {
+        "title": "Immigration and Asylum Bill Report Stage: New Clause 18",
+        "date": "2026-11-17T18:01:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2482",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2482,
+        "publication_updated": "2026-11-17T18:21:49"
+      },
       {
         "title": "Visitor Levy (England) Bill Second Reading",
         "date": "2026-11-16T21:58:00",
@@ -177,64 +231,10 @@
         "vote": "No",
         "division_id": 2462,
         "publication_updated": "2026-10-21T19:35:24"
-      },
-      {
-        "title": "Withdrawal Agreement (Windsor Framework and Governance) (Amendment)  Regulations 2026",
-        "date": "2026-10-21T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2461",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2461,
-        "publication_updated": "2026-10-21T15:51:54"
-      },
-      {
-        "title": "Draft Code of Practice on Access and Unfair Practices During the Recognition and  Derecognition Process",
-        "date": "2026-10-21T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2460",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2460,
-        "publication_updated": "2026-10-21T15:51:33"
-      },
-      {
-        "title": "Draft Railways (Interoperability in Northern Ireland) (Convention on International  Carriage by Rail) (Amendment) Regulations 2026",
-        "date": "2026-10-21T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2459",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2459,
-        "publication_updated": "2026-10-21T15:51:08"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill: Third Reading",
-        "date": "2026-10-20T18:50:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2458",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2458,
-        "publication_updated": "2026-10-20T19:19:29"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: New Clause 12",
-        "date": "2026-10-20T18:16:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2457",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2457,
-        "publication_updated": "2026-10-20T19:19:54"
-      },
-      {
-        "title": "Northern Ireland Troubles Bill Committee: New Clause 7",
-        "date": "2026-10-20T18:03:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2456",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2456,
-        "publication_updated": "2026-10-20T19:20:17"
       }
     ],
-    "period_start": "2026-08-19",
-    "period_end": "2026-11-17",
+    "period_start": "2026-08-20",
+    "period_end": "2026-11-18",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,
