@@ -1,12 +1,39 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-18T16:03:30+00:00",
-  "checked_at": "2026-11-18T16:03:30+00:00",
+  "retrieved_at": "2026-11-19T16:10:44+00:00",
+  "checked_at": "2026-11-19T16:10:44+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Government Amendment to Opposition day debate on Rosebank oil field",
+        "date": "2026-11-18T19:11:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2490",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2490,
+        "publication_updated": "2026-11-18T19:24:05"
+      },
+      {
+        "title": "Opposition Day: Rosebank oilfield: Opposition motion",
+        "date": "2026-11-18T18:58:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2489",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2489,
+        "publication_updated": "2026-11-18T19:14:33"
+      },
+      {
+        "title": "Opposition day: UK-EU relations",
+        "date": "2026-11-18T17:00:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2488",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2488,
+        "publication_updated": "2026-11-18T17:26:21"
+      },
       {
         "title": "Draft Employment Rights Act 2025 (Unfair Dismissal) (Removal of Limit on  Compensation) (Consequential Amendments) Regulations 2026",
         "date": "2026-11-18T00:00:00",
@@ -41,7 +68,7 @@
         "summary": "No",
         "vote": "No",
         "division_id": 2484,
-        "publication_updated": "2026-11-17T18:46:28"
+        "publication_updated": "2026-11-18T19:14:40"
       },
       {
         "title": "Immigration and Asylum Bill Report Stage: New Clause 50",
@@ -50,7 +77,7 @@
         "summary": "No",
         "vote": "No",
         "division_id": 2483,
-        "publication_updated": "2026-11-18T15:32:52"
+        "publication_updated": "2026-11-19T15:16:39"
       },
       {
         "title": "Immigration and Asylum Bill Report Stage: New Clause 18",
@@ -204,37 +231,10 @@
         "vote": "Aye",
         "division_id": 2465,
         "publication_updated": "2026-11-16T11:39:33"
-      },
-      {
-        "title": "Budget Resolution No. 3: Income tax (default, property and savings rates)",
-        "date": "2026-11-03T18:33:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2464",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2464,
-        "publication_updated": "2026-11-03T19:47:00"
-      },
-      {
-        "title": "Draft Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026",
-        "date": "2026-10-27T17:54:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2463",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2463,
-        "publication_updated": "2026-10-27T18:12:35"
-      },
-      {
-        "title": "Opposition day motion: Support for British farmers",
-        "date": "2026-10-21T19:20:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2462",
-        "summary": "No",
-        "vote": "No",
-        "division_id": 2462,
-        "publication_updated": "2026-10-21T19:35:24"
       }
     ],
-    "period_start": "2026-08-20",
-    "period_end": "2026-11-18",
+    "period_start": "2026-08-21",
+    "period_end": "2026-11-19",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,
