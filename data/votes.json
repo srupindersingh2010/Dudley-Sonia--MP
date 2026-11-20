@@ -1,8 +1,8 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-19T16:10:44+00:00",
-  "checked_at": "2026-11-19T16:10:44+00:00",
+  "retrieved_at": "2026-11-20T15:50:48+00:00",
+  "checked_at": "2026-11-20T15:50:48+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -233,8 +233,8 @@
         "publication_updated": "2026-11-16T11:39:33"
       }
     ],
-    "period_start": "2026-08-21",
-    "period_end": "2026-11-19",
+    "period_start": "2026-08-22",
+    "period_end": "2026-11-20",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,

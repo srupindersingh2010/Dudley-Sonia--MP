@@ -1,12 +1,42 @@
 {
   "key": "speeches",
   "source": "https://hansard.parliament.uk/search/Contributions?memberId=5274",
-  "retrieved_at": "2026-11-19T16:10:44+00:00",
-  "checked_at": "2026-11-19T16:10:44+00:00",
+  "retrieved_at": "2026-11-20T15:50:48+00:00",
+  "checked_at": "2026-11-20T15:50:48+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "AI: Emerging Risks",
+        "date": "2026-11-19",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-19/debates/950A02CE-0D7C-4572-ACF6-11B7E5A8D258/AIEmergingRisks#contribution-16799B1C-A2D8-4300-81F3-BE1BBC5C5496",
+        "summary": "I have already spoken, Madam Deputy Speaker.",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "16799B1C-A2D8-4300-81F3-BE1BBC5C5496",
+        "quote": true
+      },
+      {
+        "title": "AI: Emerging Risks",
+        "date": "2026-11-19",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-19/debates/950A02CE-0D7C-4572-ACF6-11B7E5A8D258/AIEmergingRisks#contribution-EFEA0F0D-5B0D-4826-8BCD-3F2F630C8911",
+        "summary": "I do not think it is just about working with one particular country, the EU or the US; it has to be international collaboration, which is what the Financial Action Task Force looks at. I agree that middle powers that have good relationships and believe in international law should be leading the way.\r\n\r\nThis debate is about humanity and morality, and the question is this: where should Britain position itself in the global revolution of AI?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "EFEA0F0D-5B0D-4826-8BCD-3F2F630C8911",
+        "quote": true
+      },
+      {
+        "title": "AI: Emerging Risks",
+        "date": "2026-11-19",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-19/debates/950A02CE-0D7C-4572-ACF6-11B7E5A8D258/AIEmergingRisks#contribution-3BA0588E-D72B-424F-887B-2421155CA77A",
+        "summary": "I refer the House to my entry in the Register of Members’ Financial Interests. I thank the hon. Member for Ceredigion Preseli (Ben Lake) for securing the debate.\r\n\r\nOur ambition in the UK must be clear: lead in AI innovation, lead in AI safety, and ensure that superintelligence serves humanity, and is never against it, without restricting our ability to access frontier systems. AI will transform not just how we work, but how we live. It can also boost the economy, form new industries, and make public services such as healthcare and education more bespoke and efficient.\r\n\r\nI have seen the use of Heidi AI in my NHS trust. The AI records the whole consultation and generates a letter in real time for patients to read, there and then. That is saving clinicians’ and administrators’ time and boosting productivity. I thank Ravinder Kaur Sahota, who leads on this innovation at the Dudley Group NHS foundation trust, for her brilliant work.\r\n\r\nHowever, without proper safeguards, superintelligent AI could develop capabilities that we cannot understand, predict or control. There are wider economic and social risks, too. A small number of companies and countries could end up controlling key infrastructure and capabilities, such as satellites. In Ukraine earlier this year we saw the danger of satellites being controlled by individuals with vested interests. With AI, the danger could be even more pronounced.\r\n\r\nOne of the biggest concerns about AI is not what it can do when it follows instructions, but what happens when it starts pursuing its own goals. Earlier this year, investigators reported that hundreds of AI agents acting together carried out an unauthorised cyber-attack on the platform Hugging Face. More concerningly, some of the agents reportedly attempted to hide the evidence of their actions, alter records and bypass the restrictions placed on them. While these systems were operating in a research environment, the incident highlights a troubling possibility: as AI becomes more capable and autonomous, it may find ways to achieve objectives that its creators never intended. This is a reminder that powerful systems require equally powerful safeguards and oversight.\r\n\r\nThis debate should be about what mechanisms we should use to regulate as parliamentarians, not why we need to regulate. AI governance is likely to become more complex and challenging than any other convention we have embarked on so far, even more so than the founding of the UN after world war two. We should be wary of assuming that a single global convention is the answer.\r\n\r\nA more practical and proven model is the Financial Action Task Force, which has shown how international standards can drive compliance across borders in the fight against money laundering and drug trafficking. The key lesson is that regulation should focus not just on products, but on the entities that develop and deploy them. This is something we cannot do alone; we need international partners.\r\n\r\nThe strength of the Financial Action Task Force model is that it establishes common standards and then assesses whether nations are implementing and enforcing them. Countries that fail to comply can face meaningful restrictions, creating a powerful incentive to raise standards worldwide. That should include large AI data centres, which should be placed on a national register, reporting their computing power, energy use, ownership, location and security arrangements. That would allow Governments to guard against malign state actors, just as we track sensitive nuclear materials and facilities. It should also include space satellites.\r\n\r\nArtificial intelligence does not respect borders. We know that AI systems built in one country can affect people in London, Beijing, New Delhi and Washington DC within seconds. The future of AI must not be decided by a handful of companies or Governments alone; it must be shaped by international collaboration.",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "3BA0588E-D72B-424F-887B-2421155CA77A",
+        "quote": true
+      },
       {
         "title": "Topical Questions",
         "date": "2026-11-16",
@@ -176,39 +206,9 @@
         "member_id": 5274,
         "id": "D11715D6-2370-4D92-9C81-C98E5D5D8B46",
         "quote": true
-      },
-      {
-        "title": "Topical Questions",
-        "date": "2026-09-07",
-        "url": "https://hansard.parliament.uk/Commons/2026-09-07/debates/F372C09B-AD8F-487D-B29C-F76ABAD97106/TopicalQuestions#contribution-D3091269-91D3-4A98-9057-6C44CA6300F6",
-        "summary": "T5. The inspection by the BBA—the British Board of Agrément—at Goodrich Mews in Dudley confirmed that the retaining wall installed by the Keller Phi Group will not have met the criteria that must be met if it is to have the stated service life, and it needs emergency repair. The Keller Phi Group has absolved itself of any responsibility, leaving residents with a dangerously collapsing wall. Will the Minister meet me to discuss how we can hold such companies to account?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "D3091269-91D3-4A98-9057-6C44CA6300F6",
-        "quote": true
-      },
-      {
-        "title": "Community Cohesion",
-        "date": "2026-09-03",
-        "url": "https://hansard.parliament.uk/Commons/2026-09-03/debates/B20D1C09-5725-42B6-A9B8-E7881506D350/CommunityCohesion#contribution-D50CAEEB-95B1-4E19-9CCA-BC5EF160544F",
-        "summary": "One of the Church’s greatest strengths is its ability to bring communities together. At a time of heightened community tensions, opportunities to bring all faith leaders together are ever more important. Over the summer, I worked closely with local faith leaders in my constituency to build resilience and manage the situation—an attack on one is an attack on all. Will my hon. Friend set out how the Church can strengthen dialogue, support cohesion and help communities resist division?",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "D50CAEEB-95B1-4E19-9CCA-BC5EF160544F",
-        "quote": true
-      },
-      {
-        "title": "Community Cohesion",
-        "date": "2026-09-03",
-        "url": "https://hansard.parliament.uk/Commons/2026-09-03/debates/B20D1C09-5725-42B6-A9B8-E7881506D350/CommunityCohesion#contribution-CB18F477-EBEF-4B71-ADBC-4900E2B56F76",
-        "summary": "9. What steps the Church of England is taking to work with other faith groups to promote community cohesion.",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "CB18F477-EBEF-4B71-ADBC-4900E2B56F76",
-        "quote": true
       }
     ],
-    "total": 205,
+    "total": 208,
     "note": "Latest 20 spoken contributions, including oral questions and interventions. Extracts are Sonia Kumar’s words in the official record, not site commentary. Follow the source link for the full debate and context."
   }
 }
