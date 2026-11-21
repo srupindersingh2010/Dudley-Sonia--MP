@@ -2,9 +2,9 @@
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
   "retrieved_at": "2026-11-20T15:50:48+00:00",
-  "checked_at": "2026-11-20T15:50:48+00:00",
-  "status": "ok",
-  "error": null,
+  "checked_at": "2026-11-21T14:59:44+00:00",
+  "status": "stale",
+  "error": "ReadTimeout",
   "data": {
     "items": [
       {
