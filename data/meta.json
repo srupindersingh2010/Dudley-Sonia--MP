@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-21T14:59:44.224383+00:00",
+  "checked_at": "2026-11-22T14:58:04.731839+00:00",
   "timezone": "Europe/London",
   "sources": {
-    "bills": "stale",
+    "bills": "ok",
     "biography": "ok",
     "boundary": "ok",
     "community_events": "ok",
@@ -24,7 +24,7 @@
     "speeches": "ok",
     "useful_links": "ok",
     "votes": "ok",
-    "whatson": "stale",
+    "whatson": "ok",
     "wmca_meetings": "stale"
   }
 }

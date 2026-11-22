@@ -1,8 +1,8 @@
 {
   "key": "member",
   "source": "https://members-api.parliament.uk/api/Members/5274",
-  "retrieved_at": "2026-11-21T14:59:44+00:00",
-  "checked_at": "2026-11-21T14:59:44+00:00",
+  "retrieved_at": "2026-11-22T14:58:04+00:00",
+  "checked_at": "2026-11-22T14:58:04+00:00",
   "status": "ok",
   "error": null,
   "data": {
