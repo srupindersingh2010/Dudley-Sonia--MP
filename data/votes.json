@@ -1,12 +1,39 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-23T18:51:50+00:00",
-  "checked_at": "2026-11-23T18:51:50+00:00",
+  "retrieved_at": "2026-11-24T18:28:20+00:00",
+  "checked_at": "2026-11-24T18:28:20+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Armed Forces Bill Lords Amendment 2: Motion to disagree",
+        "date": "2026-11-24T17:56:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2494",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2494,
+        "publication_updated": "2026-11-24T18:17:53"
+      },
+      {
+        "title": "Finance Bill: Second Reading",
+        "date": "2026-11-23T22:59:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2493",
+        "summary": "Aye",
+        "vote": "Aye",
+        "division_id": 2493,
+        "publication_updated": "2026-11-24T17:03:23"
+      },
+      {
+        "title": "Finance Bill: Reasoned Amendment to Second Reading",
+        "date": "2026-11-23T22:44:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2492",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2492,
+        "publication_updated": "2026-11-23T23:32:28"
+      },
       {
         "title": "Government Amendment to Opposition day debate on Rosebank oil field",
         "date": "2026-11-18T19:11:00",
@@ -59,7 +86,7 @@
         "summary": "No",
         "vote": "No",
         "division_id": 2485,
-        "publication_updated": "2026-11-17T18:56:49"
+        "publication_updated": "2026-11-24T14:17:42"
       },
       {
         "title": "Immigration and Asylum Bill Report Stage: New Clause 54",
@@ -204,37 +231,10 @@
         "vote": "Aye",
         "division_id": 2468,
         "publication_updated": "2026-11-05T11:45:25"
-      },
-      {
-        "title": "Budget Resolution No. 15: Charges in connection with employment visas ",
-        "date": "2026-11-03T19:15:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2467",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2467,
-        "publication_updated": "2026-11-09T17:28:23"
-      },
-      {
-        "title": "Budget Resolution No. 8: Capital gains tax (business asset disposal relief) ",
-        "date": "2026-11-03T19:02:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2466",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2466,
-        "publication_updated": "2026-11-10T19:47:51"
-      },
-      {
-        "title": "Budget Resolution No.7: Increase in rate of banking surcharge for temporary period",
-        "date": "2026-11-03T18:48:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2465",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2465,
-        "publication_updated": "2026-11-16T11:39:33"
       }
     ],
-    "period_start": "2026-08-25",
-    "period_end": "2026-11-23",
+    "period_start": "2026-08-26",
+    "period_end": "2026-11-24",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,

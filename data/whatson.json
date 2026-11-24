@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-23T18:51:50+00:00",
-  "checked_at": "2026-11-23T18:51:50+00:00",
+  "retrieved_at": "2026-11-24T18:28:20+00:00",
+  "checked_at": "2026-11-24T18:28:20+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -103,6 +103,27 @@
         "date": "2026-11-23T18:00",
         "url": "https://whatson.parliament.uk/event/cal56953",
         "summary": "Westminster Hall",
+        "cancelled": false
+      },
+      {
+        "title": "To ask the Secretary of State for the Cabinet Office to make a statement on the UK Civil Service Pension Scheme and the performance of Capita",
+        "date": "2026-11-24",
+        "url": "https://whatson.parliament.uk/event/cal57345",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Timms Review Final Report",
+        "date": "2026-11-24",
+        "url": "https://whatson.parliament.uk/event/cal57346",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "COP31",
+        "date": "2026-11-24",
+        "url": "https://whatson.parliament.uk/event/cal57347",
+        "summary": "Main Chamber",
         "cancelled": false
       },
       {
@@ -323,7 +344,7 @@
         "cancelled": false
       },
       {
-        "title": "That leave be given to bring in a Bill under SO No. 23 [details to be provided].\r\n\r\n",
+        "title": "Sale of Electric Personal Vehicles (Offences)\r\n",
         "date": "2026-11-25",
         "url": "https://whatson.parliament.uk/event/cal57138",
         "summary": "Main Chamber",
@@ -540,13 +561,6 @@
         "cancelled": false
       },
       {
-        "title": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
-        "date": "2026-11-26T11:30",
-        "url": "https://committees.parliament.uk/event/28622",
-        "summary": "General Committee; Room 11, Palace of Westminster; Further to consider the Bill",
-        "cancelled": false
-      },
-      {
         "title": "Financial Services and Markets Bill [Lords]",
         "date": "2026-11-26T11:30",
         "url": "https://committees.parliament.uk/event/28832",
@@ -558,13 +572,6 @@
         "date": "2026-11-26T13:30",
         "url": "https://whatson.parliament.uk/event/cal57243",
         "summary": "Westminster Hall",
-        "cancelled": false
-      },
-      {
-        "title": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
-        "date": "2026-11-26T14:00",
-        "url": "https://committees.parliament.uk/event/28625",
-        "summary": "General Committee; Room 11, Palace of Westminster; Further to consider the Bill",
         "cancelled": false
       },
       {
@@ -659,16 +666,16 @@
         "cancelled": false
       },
       {
-        "title": "Multi-Storey Car Parks (Safety) Bill: Second reading",
+        "title": "Sale and Supply of Glue Traps (Prohibition) Bill: Second reading",
         "date": "2026-11-27",
-        "url": "https://whatson.parliament.uk/event/cal57337",
+        "url": "https://whatson.parliament.uk/event/cal57338",
         "summary": "Main Chamber",
         "cancelled": false
       },
       {
-        "title": "Sale and Supply of Glue Traps (Prohibition) Bill: Second reading",
+        "title": "Powers of Attorney Bill: Second reading",
         "date": "2026-11-27",
-        "url": "https://whatson.parliament.uk/event/cal57338",
+        "url": "https://whatson.parliament.uk/event/cal57348",
         "summary": "Main Chamber",
         "cancelled": false
       },

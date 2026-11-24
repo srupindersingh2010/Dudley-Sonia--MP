@@ -1,8 +1,8 @@
 {
   "key": "biography",
   "source": "https://members-api.parliament.uk/api/Members/5274/Biography",
-  "retrieved_at": "2026-11-23T18:51:50+00:00",
-  "checked_at": "2026-11-23T18:51:50+00:00",
+  "retrieved_at": "2026-11-24T18:28:20+00:00",
+  "checked_at": "2026-11-24T18:28:20+00:00",
   "status": "ok",
   "error": null,
   "data": {
