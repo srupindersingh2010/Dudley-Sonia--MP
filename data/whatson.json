@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-24T18:28:20+00:00",
-  "checked_at": "2026-11-24T18:28:20+00:00",
+  "retrieved_at": "2026-11-25T17:42:11+00:00",
+  "checked_at": "2026-11-25T17:42:11+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -344,6 +344,20 @@
         "cancelled": false
       },
       {
+        "title": "Nuclear Test Veterans ",
+        "date": "2026-11-25",
+        "url": "https://whatson.parliament.uk/event/cal57369",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "White Ribbon Day ",
+        "date": "2026-11-25",
+        "url": "https://whatson.parliament.uk/event/cal57370",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
         "title": "Sale of Electric Personal Vehicles (Offences)\r\n",
         "date": "2026-11-25",
         "url": "https://whatson.parliament.uk/event/cal57138",
@@ -351,7 +365,14 @@
         "cancelled": false
       },
       {
-        "title": "Opposition Day (Seventh Allotted Day). Debate on a motion in the name of the Official Opposition. Subject to be announced ",
+        "title": "Business of the House (Today)",
+        "date": "2026-11-25",
+        "url": "https://whatson.parliament.uk/event/cal57363",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Restoration and renewal of the Palace of Westminster",
         "date": "2026-11-25",
         "url": "https://whatson.parliament.uk/event/cal57224",
         "summary": "Main Chamber",
@@ -519,6 +540,13 @@
         "cancelled": false
       },
       {
+        "title": "Select Committee Statement on the Second Report of the Transport Committee, Scrutiny of the draft Heathrow Expansion National Policy Statement, HC 482 ",
+        "date": "2026-11-26",
+        "url": "https://whatson.parliament.uk/event/cal57364",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
         "title": "Select Committee Statement on the Fifth report of the Justice Committee, access to Justice: Access to Legal Services, HC 802",
         "date": "2026-11-26",
         "url": "https://whatson.parliament.uk/event/cal57335",
@@ -575,6 +603,13 @@
         "cancelled": false
       },
       {
+        "title": "Financial Services and Markets Bill [Lords]",
+        "date": "2026-11-26T14:00",
+        "url": "https://committees.parliament.uk/event/28966",
+        "summary": "General Committee; Room 9, Palace of Westminster; Further to consider the Bill",
+        "cancelled": false
+      },
+      {
         "title": "Islamophobia Awareness Month",
         "date": "2026-11-26T15:00",
         "url": "https://whatson.parliament.uk/event/cal57244",
@@ -592,13 +627,6 @@
         "title": "Hospice Funding Bill: Second Reading",
         "date": "2026-11-27",
         "url": "https://whatson.parliament.uk/event/cal55903",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
-        "title": "Civil Aviation Authority (Ombudsman) Bill: Second Reading",
-        "date": "2026-11-27",
-        "url": "https://whatson.parliament.uk/event/cal56016",
         "summary": "Main Chamber",
         "cancelled": false
       },
@@ -641,13 +669,6 @@
         "title": "Northern Ireland Troubles (Criminal Investigations etc) Bill: Adjourned debate on Second Reading [4 September]",
         "date": "2026-11-27",
         "url": "https://whatson.parliament.uk/event/cal56677",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
-        "title": "Armed Forces Compensation Scheme and War Pension Scheme (Report) Bill: Second reading",
-        "date": "2026-11-27",
-        "url": "https://whatson.parliament.uk/event/cal56855",
         "summary": "Main Chamber",
         "cancelled": false
       },

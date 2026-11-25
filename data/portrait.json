@@ -1,8 +1,8 @@
 {
   "key": "portrait",
   "source": "https://members-api.parliament.uk/api/Members/5274/Portrait",
-  "retrieved_at": "2026-11-24T18:28:20+00:00",
-  "checked_at": "2026-11-24T18:28:20+00:00",
+  "retrieved_at": "2026-11-25T17:42:11+00:00",
+  "checked_at": "2026-11-25T17:42:11+00:00",
   "status": "ok",
   "error": null,
   "data": {
