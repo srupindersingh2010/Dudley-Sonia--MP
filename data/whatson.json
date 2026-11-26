@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-25T17:42:11+00:00",
-  "checked_at": "2026-11-25T17:42:11+00:00",
+  "retrieved_at": "2026-11-26T17:26:03+00:00",
+  "checked_at": "2026-11-26T17:26:03+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -540,6 +540,20 @@
         "cancelled": false
       },
       {
+        "title": "Ofgem January Price Cap",
+        "date": "2026-11-26",
+        "url": "https://whatson.parliament.uk/event/cal57375",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Update on the Government response to the Peter Mandelson Humble Address motion ",
+        "date": "2026-11-26",
+        "url": "https://whatson.parliament.uk/event/cal57376",
+        "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
         "title": "Select Committee Statement on the Second Report of the Transport Committee, Scrutiny of the draft Heathrow Expansion National Policy Statement, HC 482 ",
         "date": "2026-11-26",
         "url": "https://whatson.parliament.uk/event/cal57364",
@@ -634,13 +648,6 @@
         "title": "Rural Public Transport: Second Reading",
         "date": "2026-11-27",
         "url": "https://whatson.parliament.uk/event/cal56017",
-        "summary": "Main Chamber",
-        "cancelled": false
-      },
-      {
-        "title": "Illegal Trading (Temporary Closure of Premises) Bill: Second Reading",
-        "date": "2026-11-27",
-        "url": "https://whatson.parliament.uk/event/cal56617",
         "summary": "Main Chamber",
         "cancelled": false
       },

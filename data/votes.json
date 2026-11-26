@@ -1,12 +1,21 @@
 {
   "key": "votes",
   "source": "https://votes.parliament.uk/votes/commons",
-  "retrieved_at": "2026-11-25T17:42:11+00:00",
-  "checked_at": "2026-11-25T17:42:11+00:00",
+  "retrieved_at": "2026-11-26T17:26:03+00:00",
+  "checked_at": "2026-11-26T17:26:03+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Opposition day: Restoration and renewal of the Palace of Westminster",
+        "date": "2026-11-25T17:56:00",
+        "url": "https://votes.parliament.uk/votes/commons/division/2498",
+        "summary": "No",
+        "vote": "No",
+        "division_id": 2498,
+        "publication_updated": "2026-11-26T10:25:05"
+      },
       {
         "title": "Cyber Security and Resilience (Network and Information Systems): Amendment (a) to Lords Amendment 33 ",
         "date": "2026-11-24T19:54:00",
@@ -50,7 +59,7 @@
         "summary": "Aye",
         "vote": "Aye",
         "division_id": 2493,
-        "publication_updated": "2026-11-24T17:03:23"
+        "publication_updated": "2026-11-26T09:47:13"
       },
       {
         "title": "Finance Bill: Reasoned Amendment to Second Reading",
@@ -222,19 +231,10 @@
         "vote": "Aye",
         "division_id": 2472,
         "publication_updated": "2026-11-10T14:35:05"
-      },
-      {
-        "title": " Draft Housing (Tenancy Deposit Schemes) Order 2026",
-        "date": "2026-11-04T00:00:00",
-        "url": "https://votes.parliament.uk/votes/commons/division/2471",
-        "summary": "Aye",
-        "vote": "Aye",
-        "division_id": 2471,
-        "publication_updated": "2026-11-10T14:34:44"
       }
     ],
-    "period_start": "2026-08-27",
-    "period_end": "2026-11-25",
+    "period_start": "2026-08-28",
+    "period_end": "2026-11-26",
     "total_divisions": 25,
     "recorded_votes": 25,
     "participation_percent": 100.0,

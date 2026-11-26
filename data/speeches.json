@@ -1,12 +1,32 @@
 {
   "key": "speeches",
   "source": "https://hansard.parliament.uk/search/Contributions?memberId=5274",
-  "retrieved_at": "2026-11-25T17:42:11+00:00",
-  "checked_at": "2026-11-25T17:42:11+00:00",
+  "retrieved_at": "2026-11-26T17:26:03+00:00",
+  "checked_at": "2026-11-26T17:26:03+00:00",
   "status": "ok",
   "error": null,
   "data": {
     "items": [
+      {
+        "title": "Access to Finance: Women",
+        "date": "2026-11-26",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-26/debates/64CC9FF8-86F5-42B0-94BB-C1361F56CBE8/AccessToFinanceWomen#contribution-94D11A62-51B2-409F-AF4E-3D2356991D36",
+        "summary": "I thank the Minister for his response. Warwick Business School estimates that £310 billion is at stake because female-led businesses are being held back from scaling. Young women face additional barriers because they may have less access to networks and funding, and they may not yet have the track record that lenders require in an environment in which business support is fragmented. What is the Minister doing to encourage young female entrepreneurs to start businesses, and what is he doing to make sure that they can start their business and grow in scale?",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "94D11A62-51B2-409F-AF4E-3D2356991D36",
+        "quote": true
+      },
+      {
+        "title": "Access to Finance: Women",
+        "date": "2026-11-26",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-26/debates/64CC9FF8-86F5-42B0-94BB-C1361F56CBE8/AccessToFinanceWomen#contribution-AFF973F9-5C75-4D5F-A214-A825D5123A57",
+        "summary": "5. What steps he is taking to support access to finance for women.",
+        "section": "Commons Chamber",
+        "member_id": 5274,
+        "id": "AFF973F9-5C75-4D5F-A214-A825D5123A57",
+        "quote": true
+      },
       {
         "title": "International Day for the Elimination of Violence against Women",
         "date": "2026-11-25",
@@ -186,29 +206,9 @@
         "member_id": 5274,
         "id": "E61B2947-3489-4D8D-9FB9-93ABB8003D91",
         "quote": true
-      },
-      {
-        "title": "Procurement: Dudley",
-        "date": "2026-10-19",
-        "url": "https://hansard.parliament.uk/Commons/2026-10-19/debates/2A24F44A-37FA-4282-B4B1-CCAC420DBB25/ProcurementDudley#contribution-E1F661EE-B3C7-4530-8EC3-E95DC8CBBDCD",
-        "summary": "9. What steps he is taking to support defence procurement companies in Dudley.",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "E1F661EE-B3C7-4530-8EC3-E95DC8CBBDCD",
-        "quote": true
-      },
-      {
-        "title": "Business of the House",
-        "date": "2026-10-15",
-        "url": "https://hansard.parliament.uk/Commons/2026-10-15/debates/524D5B7F-8BE9-432D-9DEB-90E4302A691E/BusinessOfTheHouse#contribution-14675754-8714-4905-91D6-32D873FF6F24",
-        "summary": "The month, the historic UNESCO Wren’s Nest celebrates 70 years. Will my right hon. Friend join me in thanking the Friends of Wren’s Nest, such as Paul Floyd, geologist Graham Worton and others who ensure that the 420-million-year-old treasures are protected for the next generation? Will he allow a debate on protecting such precious habitats as the Wren’s Nest? He is always welcome to visit my constituency and pick up a fossil.",
-        "section": "Commons Chamber",
-        "member_id": 5274,
-        "id": "14675754-8714-4905-91D6-32D873FF6F24",
-        "quote": true
       }
     ],
-    "total": 212,
+    "total": 214,
     "note": "Latest 20 spoken contributions, including oral questions and interventions. Extracts are Sonia Kumar’s words in the official record, not site commentary. Follow the source link for the full debate and context."
   }
 }
