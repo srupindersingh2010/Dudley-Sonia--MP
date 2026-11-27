@@ -1,8 +1,8 @@
 {
   "key": "whatson",
   "source": "https://whatson.parliament.uk/",
-  "retrieved_at": "2026-11-26T17:26:03+00:00",
-  "checked_at": "2026-11-26T17:26:03+00:00",
+  "retrieved_at": "2026-11-27T17:04:18+00:00",
+  "checked_at": "2026-11-27T17:04:18+00:00",
   "status": "ok",
   "error": null,
   "data": {
@@ -719,6 +719,13 @@
         "date": "2026-11-27T09:30",
         "url": "https://whatson.parliament.uk/event/cal55686",
         "summary": "Main Chamber",
+        "cancelled": false
+      },
+      {
+        "title": "Public Administration and Constitutional Affairs Committee",
+        "date": "2026-11-27T10:00",
+        "url": "https://committees.parliament.uk/event/28686",
+        "summary": "Select & Joint Committees; Room 8, Palace of Westminster",
         "cancelled": false
       }
     ],
